@@ -28,7 +28,7 @@ To start from scratch, you need to pay to set up an EOS account. Here are 3 ways
 
 ### Extra Credit
 
-### Whitelisting Transactions
+#### Whitelisting Transactions
 
 EOS allows you to 'whitelist' transactions, meaning you don't have to re-sign every time you do an action on the blockchain. This makes for a much better Yup experience and is highly recommended.
 
