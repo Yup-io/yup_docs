@@ -6,5 +6,5 @@ Yup is a social consensus protocol incentivized by an attention economy. It sets
 
 
 * [Home](/)
-* [Yup Extension](/ext.md)
+* [Web Extension](/ext.md)
   * [Setup](/ext_setup.md)
