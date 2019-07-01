@@ -1,3 +1,3 @@
 * [Home](/)
-* Yup Extension
+* [Yup Extension](/ext.md)
   * [Setup](/ext_setup.md)
