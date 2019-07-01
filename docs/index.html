@@ -2,24 +2,42 @@
 <html lang="en">
 <head>
   <link href="https://fonts.googleapis.com/css?family=Nunito&display=swap" rel="stylesheet">
-  <span style="font-family:Nunito;color:#aaa;">
+  <span style="font-family:Nunito;">
   <meta charset="UTF-8">
-  <title>Yup Beta Docs</title>
+  <title>Yup Docs</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
+  <style>
+    .footer {
+       position: fixed;
+       left: 0;
+       bottom: 0;
+       width: 100%;
+       background-color: white;
+       color:grey;
+       text-align: center;
+       border-top:solid #f2f2f2 1px;
+       font-size:10px;
+    }
+</style>
 </head>
 <body>
   <div id="app"></div>
   <script>
+  <!--hide
+  /*var password;
+  var pass1="yupyup";
+  password=prompt('Enter Password To View Page')
+  if (password==pass1)
+  {*/
   window.$docsify = {
-    name: '<img src="/icon.png" height="25px" style="bottom:0px;"></img> Yup Beta Docs',
+    name: '<img src="/icon.png" height="40px" style="bottom:0px;box-shadow:0px 0px 4px #42b983;border-radius:100%;"></img><p>Yup Docs</p>',
     repo: '',
     loadSidebar: true,
     subMaxLevel: 6,
     coverpage: false,
-    search: 'auto', // default
 
     search : [
       '/',            // => /README.md
@@ -57,9 +75,18 @@
       // between multiple websites under the same domain
       namespace: 'website-1',
     }
-  }
+  }/*
+}
+  else
+  {
+    alert('Wrong password!')
+    window.location="https://pinkhoodie.github.io/yup_biz/";
+  }*/
+//-->
 </script>
 <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-<script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+<div class="footer">
+  <p>Yup.io Inc. All Rights Reserved 2019</p>
+</div>
 </body>
 </html>

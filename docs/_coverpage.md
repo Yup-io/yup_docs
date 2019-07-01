@@ -1,6 +1,6 @@
 ![logo](icon.png)
 
-# Yup Docs
+# Yup.io Inc. Business Plan 
 
 > Everything you need to know about Yup
 
