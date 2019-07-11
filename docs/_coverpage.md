@@ -1,8 +1,8 @@
 ![logo](icon.png)
 
-# Yup.io Inc. Business Plan 
-
+# Yup Docs
 > Everything you need to know about Yup
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[Get Started](#README.md)
+
+[Website](https://yup.io)
+[Get Started](/README.md)
