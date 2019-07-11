@@ -18,7 +18,7 @@ Your own opinion doesn't simply make you money because you expressed it. It's on
 
 ### More influence more money
 
-Your influence (IN) is a measure of your social value on Yup. Currently, it's mostly a measure of your YUPX token holdings and rewards you've previously received. Over time, we'll implement a full version of the Yup protocol. [Learn more.](/influence.md)
+Your influence (IN) is a measure of your social value on Yup. Currently, it's mostly a measure of your YUPX token holdings and rewards you've previously received. Over time, we'll implement a full version of the Yup protocol. ( [Learn More](/influence.md) )
 
 ## Withdrawal
 
