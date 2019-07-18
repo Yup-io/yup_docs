@@ -1,19 +1,23 @@
 # Yup Web Extension
 [Download](https://chrome.google.com/webstore/detail/yup/nhmeoaahigiljjdkoagafdccikgojjoi)
-
-<div class="tooltip">
-  <img height="243" style="" class="rounded-img" src="media/ssdocs.png">
-  </img>
-  <div class="tooltiptext">Extension popup</div>
-</div>
-<div class="tooltip">
-  <img height="243" style="" class="rounded-img" src="media/ssreddit.jpg">
-  </img>
-  <div class="tooltiptext">Twitter overlay</div>
+<div class="cont">
+  <div class="tooltip">
+    <img height="243" style="" class="rounded-img" src="media/popup.gif">
+    </img>
+    <div class="tooltiptext">Extension Popup</div>
+  </div>
 </div>
 
 
 The Yup Web Extension is a web browser plug-in that gives users the ability to express their opinion on any site on the internet. When other users give the same opinion on the same content, you get paid!
+
+<div class="cont">
+  <div class="tooltip">
+    <img height="243" style="" class="rounded-img" src="media/twitoverlay.gif">
+    </img>
+    <div class="tooltiptext">Twitter overlay</div>
+  </div>
+</div>
 
 The extension functions as both a tool for Yup-related actions and a general EOS wallet, utilizing Scatter API. You can use it by clicking on the extension itself or by using the overlaid button on the overlaid sites. For the overlaid sites, you can also simply use traditional reactions (like, upvote, ratings) and they'll be treated as Yup votes too!
 
@@ -50,6 +54,10 @@ The extension functions as both a tool for Yup-related actions and a general EOS
 
 
 <style>
+.cont {
+  width:100%;
+  text-align:center;
+}
 .rounded-img {
   border-radius:10px;
   max-height:300px;
