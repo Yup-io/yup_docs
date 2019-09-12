@@ -25,6 +25,14 @@ There are currently six colors:
 
 You can help improve content's color by upvoting it, or bring it down a peg by downvoting it.
 
+<details><summary><i><b>Advanced</b></i></summary>
+<p>
+
+Each piece of content can have a different color for EACH category. Within each category, that content is being related to other content within that category. 
+
+</p>
+</details>
+
 ## Conclusion
 
 - We hope that, over time, the social value color of each piece of content will be reflective of their actual social value in the public and in various categories. <i>See [Categories](/categories.md)</i>

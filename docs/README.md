@@ -36,7 +36,7 @@ ___
 * [Home](/)
 * [Web Extension](/ext.md)
   * [Setup](/ext_setup.md)
-  * [How to Use](/how.md)
+  * [Voting](/voting.md)
   * [Rewards](/rewards.md)
   * [Colors](/colors.md)
   * [Categories](/categories.md)

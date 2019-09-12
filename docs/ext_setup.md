@@ -9,17 +9,26 @@ There are two ways to download the extension:
 
 <img class="rounded-img" src="media/chrome.png"></img>
 
-## Invite Code
+### Access
 
-Currently, you need an invite code to use the Yup app and extension. You should receive one from the Yup team or from an existing user. If you don't have one, apply Here or through the extension.
+Currently, you must own a university email (.edu) or receive an access code to use the extension. You can receive one from the Yup team or from an existing user. If you don't have one, apply [here](a) or through the extension.
 
-## Username and Password
+Learn More: [Referral Program](/referral.md)
 
-You need to pick a username and password for your account.
+### Username and Password
 
-## Security Considerations
+All you have to do is pick a username and password and your Yup Account will be created.
 
-You should download and save your backup key, in case you lose access to your account for some reason.
+Learn More: [Specs](/specs.md)
+
+### Security Considerations
+
+If you sign up for a *decentralized account*, you should download and save your backup key, in case you lose access to your account for some reason.
+
+Learn More: [Specs](/specs.md)
+
+</p>
+</details>
 
 
 <style>

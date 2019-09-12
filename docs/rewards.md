@@ -1,28 +1,36 @@
-# Rewards
+# **Rewards**
 
-## How to make money
+## **How to make money**
 
-Users can make money by voting. These can be significant and be withdrawn as US dollars. YUPX tokens are distributed as rewards, and users can swap them for $$ credits on Amazon, Venmo, and PayPal.
+Users can make money by voting. YUPX tokens are distributed as rewards, and users can swap them for $$ credits on Amazon, Venmo, and PayPal.
 
-### The Process
+### **The Process**
+
+The Yup [protocol](a) determines the monetary value of each vote based on each voter's [INFLUENCE](a). For example, if 100 [YUPX](a) is being distributed in 1 hour and your vote's influence makes up 5% of all vote influence in that 1 hour, your vote is worth 5 YUPX. Yup then rewards that money to all previous voters who voted the same as you AND rewards the creator of the content.
 
 1. You give your opinion by upvoting or downvoting content.
-2. The Yup protocol determines a money value for your vote and rewards that money to all previous voters with the same opinion AND the creator of the content.
-3. Someone else gives that same opinion for the same content.
-4. You get paid a portion of the money value of their vote.
-5. And so on! The more votes after you, the more you earn.
+2. Someone else gives that same opinion for the same content.
+3. You get paid a portion of the money value of their vote.
+4. And so on! The more votes after you, the more you earn.
 
-### Not all votes get rewards
+### Vote Value - What is your opinion worth?
 
-Your own opinion doesn't simply make you money because you expressed it. It's only worth something if others agree. If nobody votes the same as you after you, it means you're either late on that opinion or it's a bad opinion, so you don't get any money.
+~50% is given to creators (if one exists) and the rest is split between previous voters based on their relative influence.
 
-### More influence more money
+### **Not all votes get rewards**
 
-Your influence (IN) is a measure of your social value on Yup. Currently, it's mostly a measure of your YUPX token holdings and rewards you've previously received. Over time, we'll implement a full version of the Yup protocol. ( [Learn More](/influence.md) )
+Your own opinion doesn't simply make you money because you expressed it. It's only worth something if others agree. If nobody votes the same as you, it means you're either late on that opinion or it's an unpopular opinion, so you won't earn rewards on that vote.
 
-## Withdrawal
+### **More influence more money**
 
-Today, you can withdraw with Amazon, PayPal, and Venmo, as well as to another blockchain account. Users can withdraw by clicking *Menu > Withdraw > [method]*
+Your [influence](a) (IN) is a measure of your social value on Yup. Currently, it's mostly a measure of your YUPX token holdings and rewards you've previously received. Over time, we'll implement a full version of the Yup protocol.
+
+Learn More: [Influence](/influence.md)
+
+
+## **Withdrawal**
+
+Today, you can redeem your YUPX for Amazon, PayPal, or Venmo credits as well as send them to other blockchain accounts. Users can withdraw by clicking *Menu > Withdraw > [method] > amount & account*
 
 Here's an example with Amazon:
 <div class="row">

@@ -1,7 +1,7 @@
 # Yup Extension
 [Download Extension](https://chrome.google.com/webstore/detail/yup/nhmeoaahigiljjdkoagafdccikgojjoi)
 
-Yup is a network that rewards you for good opinions. Its goal is to create a social consensus layer on the internet, accurately representing the agreed-upon social value of anything, from random Tweets to your history professor. Yup then rewards its users proportional to the social value of their contributions. With the Yup extension, you can earn rewards as you normally browse the internet. All you have to do is vote through the extension, or directly on Twitter, Reddit, YouTube, or Google Maps. The technology is complicated, but how it works is simple.
+Yup is a network that rewards you for quality opinions. Its goal is to create a social consensus layer on the internet, accurately representing the agreed-upon social value of anything, from random Tweets to your history professor. Yup then rewards its users proportional to the social value of their contributions. With the Yup extension, you can earn rewards as you regularly browse the internet. All you have to do is vote through the extension, or directly on Twitter, Reddit, YouTube, or Google Maps. The technology is complicated, but how it works is simple.
 
 <div class="header1">
 1. The Extension is a browser plug-in that rewards users' opinions across the web.
@@ -15,7 +15,9 @@ Yup is a network that rewards you for good opinions. Its goal is to create a soc
   </div>
 </div>
 
-The Yup Web Extension is a web browser plug-in that gives users the ability to express their opinion on any site on the internet. You can express your opinion by voting with several categories: upvote/downvote in the 'like', 'smart', or 'funny' categories. When other users give the same opinion on the same content, you get paid!
+The Yup Web Extension is a web browser plug-in that gives you the ability to express your opinion on any site on the internet. You can do so by upvoting and downvoting in categories such as 'like', 'smart', 'funny'. When other users give the same opinion on the same content, you earn YUPX and influence! On the Yup network, not all votes are created equal.
+
+Learn more:  [YUPX](/token.md) | [Influence](/influence.md) | [Categories](/categories.md) | [Rewards](rewards.md)
 
 <div class="header1">
 2. On certain sites, information and Yup functions are overlaid for better use.
@@ -34,10 +36,12 @@ The Yup Web Extension is a web browser plug-in that gives users the ability to e
   </div>
 </div>
 
-The extension functions as both a tool for Yup-related actions and a general EOS wallet, utilizing Scatter API. You can use it by clicking on the extension itself or by using the overlaid button on the overlaid sites. For the overlaid sites, you can also simply use traditional reactions (like, upvote, ratings) and they'll be treated as Yup votes too!
+The extension functions as both a tool for Yup-related actions and a crypto account. You can use it by clicking on the extension itself or by using  overlaid buttons on certain sites. Additionally, you can use traditional reactions (i.e. Twitter likes, Reddit upvotes, Gmaps ratings) and they'll be treated as Yup votes too!
+
+Learn more:  [Voting](/voting.md) | [Specs](/specs.md)
 
 <div class="header1">
-3. You can redeem your YUPX as rewards with Amazon, Venmo, and PayPal credits.
+3. You can redeem your YUPX for Amazon, Venmo, and PayPal rewards.
 </div>
 
 <div class="cont">
@@ -48,7 +52,9 @@ The extension functions as both a tool for Yup-related actions and a general EOS
   </div>
 </div>
 
-Besides redeeming monetary rewards, you can send your YUPX to friends and other accounts. But don't spend them all! They help build Influence, which earns you more rewards in the future.
+Besides redeeming monetary rewards, you can send your YUPX to friends and other accounts. But don't spend them all! They help build Influence, which can earn you more rewards in the future.
+
+Learn more:  [Influence](a) | [Rewards](a)
 
 <div class="header2">
 
@@ -62,7 +68,13 @@ Besides redeeming monetary rewards, you can send your YUPX to friends and other 
 1. Twitter
 2. Reddit
 3. Google Maps
-4. YouTube (reactions only)
+4. YouTube (limited)
+5. Columbia University Course Registration
+    1. SSOL
+    2. Vergil
+    3. Directory of Classes
+    4. CC & SEAS Bulletins
+
 <br><br><br>
 
 
