@@ -1,6 +1,11 @@
+<header style="text-align: center;"><img style="margin: auto; bottom:0px; box-shadow:0px 0px 4px #42b983; border-radius:100%; width;" src="icon.png"></img></header>
+
 # Yup Docs
 
 *By Yup.io Inc.*
+
+[Website](https://yup.io)
+[Get Started](/README.md)
 
 ### Overview
 
@@ -30,6 +35,8 @@ Currently, less than 0.1% of all reviews and ratings are monetized. Why would us
 
 ___
 
+<!--
+
 **<u>Table of Contents</u>**
 
 
@@ -43,3 +50,4 @@ ___
 * [Protocol](/protocol.md)
   * [YUPX Token](/token.md)
   * [Influence](/influence.md)
+-->

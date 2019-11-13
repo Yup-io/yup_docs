@@ -1,0 +1,71 @@
+{
+  "name": "docsify-tabs",
+  "version": "1.1.2",
+  "description": "A docsify.js plugin for rendering tabbed content from markdown",
+  "author": "John Hildenbiddle",
+  "license": "MIT",
+  "homepage": "https://jhildenbiddle.github.io/docsify-tabs/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://jhildenbiddle@github.com/jhildenbiddle/docsify-tabs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jhildenbiddle/docsify-tabs/issues"
+  },
+  "keywords": [
+    "docs",
+    "docsify",
+    "docsify.js",
+    "documentation",
+    "generator",
+    "javascript",
+    "js",
+    "markdown",
+    "md",
+    "plugin",
+    "tab",
+    "tabs"
+  ],
+  "browserslist": [
+    "ie >= 10"
+  ],
+  "files": [
+    "dist"
+  ],
+  "main": "dist/docsify-tabs.js",
+  "unpkg": "dist/docsify-tabs.min.js",
+  "scripts": {
+    "prepare": "run-s clean build",
+    "build": "rollup -c",
+    "clean": "rimraf dist/*",
+    "serve": "node server.js",
+    "start": "run-p watch serve",
+    "watch": "run-p 'build -- -w'",
+    "version": "run-s build"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.2.2",
+    "@babel/preset-env": "^7.2.3",
+    "autoprefixer": "^9.4.4",
+    "browser-sync": "^2.26.3",
+    "compression": "^1.7.3",
+    "eslint": "^5.12.0",
+    "lodash.merge": "^4.6.1",
+    "node-sass": "^4.11.0",
+    "npm-run-all": "^4.1.5",
+    "postcss-custom-properties": "^8.0.9",
+    "postcss-flexbugs-fixes": "^4.1.0",
+    "postcss-import": "^12.0.1",
+    "rimraf": "^2.6.3",
+    "rollup": "^0.68.2",
+    "rollup-plugin-babel": "^4.2.0",
+    "rollup-plugin-commonjs": "^9.2.0",
+    "rollup-plugin-eslint": "^5.0.0",
+    "rollup-plugin-json": "^3.0.0",
+    "rollup-plugin-node-resolve": "^4.0.0",
+    "rollup-plugin-postcss": "^1.6.3",
+    "rollup-plugin-sass": "^1.0.1",
+    "rollup-plugin-uglify": "^6.0.0"
+  },
+  "dependencies": {}
+}
