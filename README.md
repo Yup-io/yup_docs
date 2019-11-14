@@ -1,14 +1,8 @@
 # Yup Docs
-[![button][Website](https://yup.io)
-[![Website](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-tabs&hashtags=docsify,developers,frontend,plugin)
-
-
-# Yup Docs
 
 *By Yup.io Inc.*
 
-[Website](https://yup.io)
-[Get Started](/README.md)
+[Website](https://yup.io)  |  [Get Started](/README.md)
 
 ### Overview
 
