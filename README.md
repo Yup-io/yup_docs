@@ -2,7 +2,7 @@
 
 *By Yup.io Inc.*
 
-[Website](https://yup.io)  |  [Get Started](/README.md)
+[Docs Site](https://docs.yup.io)  |  [Website](https://yup.io)  |  [Get Started](/README.md)
 
 ### Overview
 
