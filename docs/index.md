@@ -1,11 +1,17 @@
 <header style="text-align: center;"><img style="margin: auto; bottom:0px; box-shadow:0px 0px 4px #42b983; border-radius:100%; width;" src="icon.png"></img></header>
 
-# Yup Docs
-
+# Yup Docs  
 *By Yup.io Inc.*
 
-[Website](https://yup.io)
-[Get Started](/README.md)
+<p style="width:100%;text-align:center;">
+<a href="https://yup.io"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+Website</button></a>
+<a href="https://chrome.google.com/webstore/detail/nhmeoaahigiljjdkoagafdccikgojjoi">
+<button style="width:20%;border-radius:20px; border-width:0px; background:#e9e9e9; font-family:Nunito">
+Get Started</button></a>
+<a href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+Edit Doc</button></a>
+</p>
 
 ### Overview
 
