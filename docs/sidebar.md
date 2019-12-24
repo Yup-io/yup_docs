@@ -10,7 +10,7 @@
 * [Lists](/lists.md)
 - **Technical**
 * [Protocol](/protocol.md)
-  * [YUPX Token](/token.md)
+  * [Token](/token.md)
   * [Influence](/influence.md)
 * [Technical Specs](/specs.md)
 - **Links**

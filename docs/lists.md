@@ -5,6 +5,37 @@ Lists are made up of customizable rankings based on Yup opinions. Find the smart
 <p align="center" color="#fafafa">
   <img align="center" class="rounded-img" src="media/lists.png"></img>
 </p>
+
+<!--
+## List Types
+
+<details toggle style="">
+  <summary toggle><strong>Locations</strong></summary>
+<br>
+
+
+
+| Twitter  |  All  |
+| YouTube |    |
+| Google Maps |
+
+
+</details>
+
+<details toggle style="">
+  <summary toggle><strong>Subjects</strong></summary>
+<br>
+
+</details>
+
+<details toggle style="">
+  <summary toggle><strong>Categories</strong></summary>
+<br>
+
+</details>
+
+-->
+<br>
 <details toggle style="background:#f4f4f4; padding:10px; border-radius: 5px;">
   <summary toggle><strong>Advanced</strong></summary>
 <br>
@@ -14,7 +45,15 @@ Lists are <b>weighed</b> by each category separately and distinctly. That means 
 <br><br><br>
 
 
-
+<p style="width:100%;text-align:center;">
+<a href="https://app.yup.io/lists"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+Lists</button></a>
+<a href="https://chrome.google.com/webstore/detail/nhmeoaahigiljjdkoagafdccikgojjoi">
+<button style="width:20%;border-radius:20px; border-width:0px; background:#e9e9e9; font-family:Nunito">
+Get Started</button></a>
+<a href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+Edit Doc</button></a>
+</p>
 
 <style>
 .center {
