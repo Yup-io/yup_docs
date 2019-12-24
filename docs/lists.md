@@ -1,3 +1,10 @@
+
+<!-- Banner -->
+<div class="banner media">
+  <img class=" banner" src="https://images.unsplash.com/photo-1533135091724-62cc5402aa20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"></img>
+</div>
+
+
 # Lists
 
 Lists are made up of customizable rankings based on Yup opinions. Find the smartest Twitter accounts, the funniest reddit posts, the most knowledgeable professors, and much more by toggling the list variables. Customize the site, subject, and category to find what you're looking for. Lists are totally public––you don't need a Yup account to use it! Learn more here.

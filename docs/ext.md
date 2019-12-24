@@ -1,7 +1,9 @@
+
 <!-- Banner -->
 <div class="banner media">
-  <img class=" banner" src="media/Maingrey.png"></img>
+  <img class=" banner" src="https://images.unsplash.com/photo-1485207909670-0d006b37596f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2300&q=80"></img>
 </div>
+
 
 # Yup Extension
 [Download Extension](https://chrome.google.com/webstore/detail/yup/nhmeoaahigiljjdkoagafdccikgojjoi)
