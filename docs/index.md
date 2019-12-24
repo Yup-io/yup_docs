@@ -4,12 +4,12 @@
 *By Yup.io Inc.*
 
 <p style="width:100%;text-align:center;">
-<a href="https://yup.io"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+<a href="https://yup.io"><button class="btngrey">
 Website</button></a>
 <a href="https://chrome.google.com/webstore/detail/nhmeoaahigiljjdkoagafdccikgojjoi">
-<button style="width:20%;border-radius:20px; border-width:0px; background:#e9e9e9; font-family:Nunito">
+<button class="btngrey">
 Get Started</button></a>
-<a href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+<a href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md"><button class="btngrey">
 Edit Doc</button></a>
 </p>
 

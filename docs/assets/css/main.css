@@ -40,6 +40,21 @@ iframe[src*="buttons.github.io"] {
   }
 }
 
+@media only screen and (max-width: 500px) {
+  .banner {
+    margin: -1em 0px 0px -4.5em;
+  }
+}
+
+.btngrey {
+  width:20%;
+  min-width: 100px;
+  border-radius:20px;
+  border-width:0px;
+  background:#e9e9e9;
+  font-family:Nunito;
+}
+
 /* Icon Only */
 .docsify-tabs__tab[data-tab="icon only"] {
     letter-spacing: -100vw;
