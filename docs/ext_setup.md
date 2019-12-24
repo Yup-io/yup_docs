@@ -7,7 +7,7 @@ There are two ways to download the extension:
 1. Chrome Store
 2. Yup Website
 
-<img class="rounded-img" src="media/chrome.png"></img>
+<img class="rounded-img" src="media/chromestore.png"></img>
 
 ### Access
 

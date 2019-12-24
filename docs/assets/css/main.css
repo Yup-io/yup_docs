@@ -10,6 +10,36 @@ iframe[src*="buttons.github.io"] {
 
 /* Custom Styles */
 /* ========================================================================== */
+
+.banner {
+  width: 200%;
+  max-height: 40vw;
+  min-height: 20vh;
+  object-fit: cover;
+  position: static;
+  padding: 0px;
+  margin: -1em 0px 0px -14em;
+  opacity: 0.9;
+}
+
+@media only screen and (min-width: 1200px) {
+  .banner {
+    width: 250%;
+    max-height: 30vw;
+    min-height: 20vh;
+  }
+}
+
+@media only screen and (max-width: 850px) {
+  .banner {
+    min-height: 20vh;
+    object-fit: cover;
+    position: static;
+    padding: 0px;
+    margin: -1em 0px 0px -9.5em;
+  }
+}
+
 /* Icon Only */
 .docsify-tabs__tab[data-tab="icon only"] {
     letter-spacing: -100vw;

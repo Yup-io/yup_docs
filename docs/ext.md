@@ -1,3 +1,8 @@
+<!-- Banner -->
+<div class="banner media">
+  <img class=" banner" src="media/Maingrey.png"></img>
+</div>
+
 # Yup Extension
 [Download Extension](https://chrome.google.com/webstore/detail/yup/nhmeoaahigiljjdkoagafdccikgojjoi)
 
@@ -81,6 +86,7 @@ Learn more:  [Influence](a) | [Rewards](a)
 
 
 <style>
+
 .cont {
   width:100%;
   text-align:center;

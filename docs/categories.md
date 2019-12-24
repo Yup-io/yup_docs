@@ -15,11 +15,14 @@ Voters of specific categories receive rewards on votes of that category. If you 
 
 ## Current Categories
 
-Currently there are **three categories:**
+Here is a running list of categories:
 
-1. **Like:** how much people like something. Popularity in general.
+1. **Like:** how much people like something or how popular it is. 
 2. **Smart:** how much people believe something is smart. General intelligence.
 3. **Funny:** how much people believe something is funny.
+4. **Affordable:** for locations, how much it costs to spend time there.
+5. **Beautiful:** for locations (Google Maps), how pretty a place is.
+6. **Knowledgeable:** for professors, how much they know about the relevant course.
 
 ## Why it matters
 
