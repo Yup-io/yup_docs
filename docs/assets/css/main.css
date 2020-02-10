@@ -76,11 +76,11 @@ iframe[src*="buttons.github.io"] {
 /* Active State */
 .docsify-tabs__tab--active[data-tab="active state"] {
     box-shadow: none;
-    background: #42b983;
+    background: #00EAB7;
     color: white;
 }
 .docsify-tabs__content[data-tab-content="active state"] {
-    background-image: linear-gradient(0deg, #80d0c7 0%, #42b983 100%);
+    background-image: linear-gradient(0deg, #80d0c7 0%, #00EAB7 100%);
 }
 .docsify-tabs__content[data-tab-content="active state"] p strong {
     color: white;
@@ -117,4 +117,8 @@ iframe[src*="buttons.github.io"] {
     font-size: 11px;
     line-height: 1;
     transform: translate(35%, -45%);
+}
+
+summary:focus {
+  outline: none;
 }

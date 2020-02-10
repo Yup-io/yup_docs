@@ -45,7 +45,7 @@ Learn more:  [YUPX](/token.md) | [Influence](/influence.md) | [Categories](/cate
 
 The extension functions as both a tool for Yup-related actions and a crypto account. You can use it by clicking on the extension itself or by using  overlaid buttons on certain sites. Additionally, you can use traditional reactions (i.e. Twitter likes, Reddit upvotes, Gmaps ratings) and they'll be treated as Yup votes too!
 
-Learn more:  [Voting](/voting.md) | [Specs](/specs.md)
+Learn more:  [Voting](/rating.md) | [Specs](/specs.md)
 
 <div class="header1">
 3. You can redeem your YUPX for Amazon, Venmo, and PayPal rewards.
@@ -95,7 +95,7 @@ Learn more:  [Influence](a) | [Rewards](a)
 }
 .rounded-img {
   border-radius:10px;
-  box-shadow: 0px 0px 2px 1px #42b983;
+  box-shadow: 0px 0px 2px 1px #dddddd;
 }
 .tooltip {
   position: relative;

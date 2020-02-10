@@ -14,8 +14,8 @@
     /* Tabs */
     --docsifytabs-tab-background        : #f8f8f8;
     --docsifytabs-tab-background--active: var(--docsifytabs-content-background);
-    --docsifytabs-tab-color             : #42b983;
-    --docsifytabs-tab-color--active     : #42b983;
+    --docsifytabs-tab-color             : #00EAB7;
+    --docsifytabs-tab-color--active     : #00EAB7;
     --docsifytabs-tab-highlight-px      : 3px;
     --docsifytabs-tab-highlight-color   : var(--theme-color, currentColor);
     --docsifytabs-tab-padding           : 0.6em 1em;

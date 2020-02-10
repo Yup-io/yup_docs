@@ -76,7 +76,7 @@ Edit Doc</button></a>
 }
 .rounded-img {
   border-radius:10px;
-  box-shadow: 0px 0px 2px 1px #42b983;
+  box-shadow: 0px 0px 2px 1px #dddddd;
   max-height: 20em;
   margin: 20px 0px;
 }

@@ -41,7 +41,7 @@ From the feed, you can check out your profile and the profiles of other users. Y
 }
 .rounded-img {
   border-radius:10px;
-  box-shadow: 0px 0px 2px 1px #42b983;
+  box-shadow: 0px 0px 2px 1px #dddddd;
   margin: 0px 0px;
 }
 .tooltip {

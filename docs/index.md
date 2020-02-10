@@ -1,4 +1,4 @@
-<header style="text-align: center;"><img style="margin: auto; bottom:0px; box-shadow:0px 0px 4px #42b983; border-radius:100%; width;" src="icon.png"></img></header>
+<header style="text-align: center;"><img style="margin: auto; bottom:0px; box-shadow:0px 0px 4px #00EAB7; border-radius:100%; width;" src="icon.png"></img></header>
 
 # Yup Docs  
 *By Yup.io Inc.*
@@ -49,7 +49,7 @@ ___
 * [Home](/)
 * [Web Extension](/ext.md)
   * [Setup](/ext_setup.md)
-  * [Voting](/voting.md)
+  * [Voting](/rating.md)
   * [Rewards](/rewards.md)
   * [Colors](/colors.md)
   * [Categories](/categories.md)

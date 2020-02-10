@@ -1,11 +1,12 @@
 - **Basic**
 * [Home](/)
+* [Rating](/rating.md)
+* [Colors](/colors.md)
+* [Rewards](/rewards.md)
+* [Categories](/categories.md)
+- **Products**
 * [Extension](/ext.md)
   * [Setup](/ext_setup.md)
-  * [Voting](/voting.md)
-  * [Rewards](/rewards.md)
-  * [Colors](/colors.md)
-  * [Categories](/categories.md)
 * [Feed](/feed.md)
 * [Lists](/lists.md)
 - **Technical**
