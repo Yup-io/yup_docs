@@ -124,12 +124,12 @@ summary:focus {
 }
 
 .rounded-img {
-  border-radius:10px;
+  border-radius:6px;
   box-shadow: 0px 0px 2px 1px #dddddd;
   margin: auto;
 }
 .flat-img {
-  border-radius:10px;
+  border-radius:6px;
 }
 .tg  {
   border-collapse:collapse;
@@ -141,12 +141,33 @@ summary:focus {
     display: inline-table;
 }
 .advanced {
-  background:#f4f4f4;
+  background:#fff;
   padding:10px;
-  border-radius: 5px;
+  border-radius: 6px;
   outline:none;
 }
 
 .markdown-section h3 {
   font-weight: 100;
+}
+
+.content {
+  background: #f0f0f0;
+}
+
+.sidebar {
+  background: #ededed;
+}
+
+input {
+  font-family: Nunito;
+}
+
+.search input:focus {
+  box-shadow:none;
+  background: #09defe;
+}
+
+div.footer {
+    background-color:#ececec;
 }

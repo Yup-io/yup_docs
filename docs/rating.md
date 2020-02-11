@@ -12,10 +12,10 @@ Yup allows you to rate and see the social value of all content, and earn money/i
 With Yup, you can rate all content out of 5 dots (like star rating). 1's the lowest, 5's the highest. More extreme ratings (ex: 1/5, 4/5, 5/5) multiply your influence, but they cost more! You can only rate 5/5 three times a day currently.
 
 <details toggle class="advanced">
-<p margin="20px 0 0 0">
+<p margin="20px 0 0 0" class="adv-text">
  The dots are a simplified implementation of quadratic voting. 2/5 and 3/5 are considered low-cost ratings, costing 1 vote each. 1/5 and 4/5 cost 4 votes, and 5/5, the most extreme, costs 9 votes. Users currently have 40 votes a day.
 </p>
-  <summary toggle ><strong>Advanced</strong></summary>
+  <summary toggle class="adv-text" ><strong>Advanced</strong></summary>
     <table class="tg">
       <tr>
         <th class="tg-0pky">Rating</th>
@@ -89,9 +89,6 @@ Lists are <b>weighed</b> by each category separately and distinctly. That means 
   border-radius:10px;
   box-shadow: 0px 0px 2px 1px #dddddd;
 }
-.flat-img {
-  border-radius:10px;
-}
 .tg  {
   border-collapse:collapse;
   border-spacing:0;
@@ -100,12 +97,6 @@ Lists are <b>weighed</b> by each category separately and distinctly. That means 
 }
 .markdown-section table {
     display: inline-table;
-}
-.advanced {
-  background:#f4f4f4;
-  padding:10px;
-  border-radius: 5px;
-  outline:none;
 }
 .advanced:focus {
   outline:none;
