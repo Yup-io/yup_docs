@@ -146,3 +146,7 @@ summary:focus {
   border-radius: 5px;
   outline:none;
 }
+
+.markdown-section h3 {
+  font-weight: 100;
+}
