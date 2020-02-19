@@ -1,8 +1,8 @@
-#  Rewards
+# Rewards
 
-##  How to make money
+## How to make money
 
-Users can make money by voting. YUPX tokens are distributed as rewards, and users can swap them for $$ credits on Amazon, Venmo, and PayPal.
+Users can make money by voting. YUPX tokens are distributed as rewards, and users can swap them for $$ credits on Venmo and Amazon.
 
 ### The Process
 
@@ -17,30 +17,35 @@ The Yup [protocol](a) determines the monetary value of each vote based on each v
 
 ~50% is given to creators (if one exists) and the rest is split between previous voters based on their relative influence.
 
-###  Not all votes get rewards
+### Not all votes get rewards
 
 Your own opinion doesn't simply make you money because you expressed it. It's only worth something if others agree. If nobody votes the same as you, it means you're either late on that opinion or it's an unpopular opinion, so you won't earn rewards on that vote.
 
-###  More influence more money
+### More influence more money
 
 Your [influence](a) (IN) is a measure of your social value on Yup. Currently, it's mostly a measure of your YUPX token holdings and rewards you've previously received. Over time, we'll implement a full version of the Yup protocol.
 
 Learn More: [Influence](/influence.md)
 
+## Withdrawal
 
-##  Withdrawal
-
-Today, you can redeem your YUPX for Amazon, PayPal, or Venmo credits as well as send them to other blockchain accounts. Users can withdraw by clicking *Menu > Withdraw > [method] > amount & account*
+Today, you can redeem your YUPX for Venmo or Amazon credits as well as send them to other blockchain accounts. Users can withdraw by clicking _Menu > Withdraw > [method] > amount & account_
 
 Here's an example with Amazon:
+
 <div class="row">
-  <div class="column"><img class="img" src="/media/menu.png"></img></div>
-  <div class="column"><img class="img" src="/media/txn.png"></img></div>
-  <div class="column"><img class="img" src="/media/txn_amazon.png"></img></div>
+  <div class="column">
+  <img class="img" src="/media/menu.png">
+</div>
+  <div class="column">
+  <img class="img" src="/media/txn.png">
+</div>
+  <div class="column">
+  <img class="img" src="/media/txn_amazon.png">
+</div>
 </div>
 
-  In the future, we will replace YUPX tokens with YUP tokens that have market value where the tokens would be tradable and liquid (enough).
-
+In the future, we will replace YUPX tokens with YUP tokens that have market value where the tokens would be tradable and liquid (enough).
 
 <style>
 {
