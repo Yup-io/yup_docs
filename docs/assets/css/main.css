@@ -171,3 +171,24 @@ input {
 div.footer {
     background-color:#ececec;
 }
+
+h2 {
+  font-weight: 500;
+  font-size: 24px!important;
+  spacing: 100px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto;
+  padding: 0px;
+  spacing: 20px;
+  justify-content: center;
+}
+
+.grid-item {
+  padding: 1rem;
+  margin: 0px;
+  font-size: 30px;
+  text-align: center;
+}

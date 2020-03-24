@@ -40,12 +40,12 @@ The best way to use Yup is through the Yup Web Extension, a browser plug-in that
 The Yup.io team simply could not shake the frustration around two important problems:
 
 <l style="font-size:20px;">
-1\. <b>Users aren't socially equal, yet social metrics are measured as if they are, making social capital easy to manipulate</b></l>
+<b>1. Users aren't socially equal, yet social metrics are measured as if they are, making social capital easy to manipulate</b></l>
 
 We'd all prefer to get a 'like' from our favorite celebrity than from their weird neighbor, then why do most social networks treat them each as one like? Isn't a follow from a Michelin star chef worth more for your restaurant than one from a random bartender? When all users are treated the same –1 like, 1 follow, 1 share –it becomes far too easy and cheap to fake social capital, leading to fake news, Fyre Festivals, and harmful disinformation. In a world run by tweets and stories, we can't ignore the immense power of online social metrics. How can we better represent the social value of online data?
 
 <l style="font-size:20px;">
-2\. <b>Opinions are highly under-monetized</b></l>
+<b>2. Opinions are highly under-monetized</b></l>
 
 Currently, less than 0.1% of all reviews and ratings are monetized. Why would users fill out surveys or product reviews if they're not getting paid? Why would they do it honestly without anything to lose or gain? And finally, why aren't they getting paid more for opinions on things they know better than most?
 

@@ -11,7 +11,7 @@
 Yup is a network that rewards you for quality opinions. Its goal is to create a social consensus layer on the internet, accurately representing the agreed-upon social value of anything, from random Tweets to your history professor. Yup then rewards its users proportional to the social value of their contributions. With the Yup extension, you can earn rewards as you regularly browse the internet. All you have to do is vote through the extension, or directly on Twitter, Reddit, YouTube, or Google Maps. The technology is complicated, but how it works is simple.
 
 <div class="header1">
-1\. The Extension is a browser plug-in that rewards users' opinions across the web.
+1 The Extension is a browser plug-in that rewards users' opinions across the web.
 </div>
 
 <div class="cont">
@@ -26,17 +26,26 @@ The Yup Web Extension is a web browser plug-in that gives you the ability to exp
 Learn more: [YUPX](/token.md) | [Influence](/influence.md) | [Categories](/categories.md) | [Rewards](rewards.md)
 
 <div class="header1">
-2\. On certain sites, information and Yup functions are overlaid for better use.
+2 On certain sites, information and Yup functions are overlaid for better use.
 </div>
 
-<div class="cont">
-  <div class="tooltip">
-  <img height="300rem" style="" class="rounded-img" src="media/twitoverlay.gif">
-  <div class="tooltiptext">Twitter overlay</div>
+<div class="grid-container">
+  <div class="grid-item">
+    <img class="rounded-img" src="media/reddit.png">
+  </div>
+  <div class="grid-item">
+    <img class="rounded-img" src="media/youtube.png">
+  </div>
+  <div class="grid-item">
+    <img class="rounded-img" src="media/gmaps.png">
+  </div>
+  <div class="grid-item">
+    <img class="rounded-img" src="media/google.png">
+  </div>
+  <div class="grid-item">
+    <img class="rounded-img" src="media/article.png">
+  </div>
 </div>
-  <div class="tooltip">
-  <img height="300rem" style="float:right;" class="rounded-img" src="media/ssgmaps.jpg">
-  <div class="tooltiptext">Google Maps</div>
 </div>
 </div>
 
@@ -45,7 +54,7 @@ The extension functions as both a tool for Yup-related actions and a crypto acco
 Learn more: [Voting](/rating.md) | [Specs](/specs.md)
 
 <div class="header1">
-3\. You can redeem your YUPX for Venmo and Amazon rewards.
+3 You can redeem your YUPX for Venmo and Amazon rewards.
 </div>
 
 <div class="cont">
@@ -97,7 +106,7 @@ Learn more: [Influence](a) | [Rewards](a)
 }
 .tooltip .tooltiptext {
   visibility: hidden;
-  width: 120px;
+  width: 50px;
   background-color: grey;
   opacity:0.9;
   color: #fff;

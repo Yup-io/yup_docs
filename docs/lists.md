@@ -10,7 +10,7 @@
 Lists are made up of customizable rankings based on Yup opinions. Find the smartest Twitter accounts, the funniest reddit posts, the most knowledgeable professors, and much more by toggling the list variables. Customize the site, subject, and category to find what you're looking for. Lists are totally public––you don't need a Yup account to use it! Learn more here.
 
 <p align="center" color="#fafafa">
-  <img align="center" class="rounded-img" src="media/lists.png"></img>
+  <img align="center" class="rounded-img" src="media/yuplists.gif"></img>
 </p>
 
 <!--
