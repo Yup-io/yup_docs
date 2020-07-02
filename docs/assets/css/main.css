@@ -153,50 +153,15 @@ summary:focus {
 }
 
 .content {
-  background: #FAFAFA;
+  background: #f0f0f0;
 }
 
 .sidebar {
-  background: #FAFAFA;
-  font-size: larger;
-  border: none !important;
-  box-shadow: 0px 10px 30px #0a0a0a30;
-  font-weight: 500 !important;
-}
-
-.sidebar a.section-link {
-  display: none !important;
-}
-.sidebar u.bottom-link {
-  font-size: smaller;
-  opacity: 0.1 !important;
-  text-decoration: none;
-}
-
-div.sidebar-nav a {
-  font-weight: 500 !important;
-}
-
-.name-img {
-  width: 25px;
+  background: #ededed;
 }
 
 input {
-  font-family: Rubik;
-  border:none;
-}
-
-.app-name {
-  text-align: left !important;
-  font-weight: 600 !important;
-  height: 50px;
-  justify-content: center;
-  align-items: center;
-  vertical-align: middle;
-}
-
-.name-div {
-  display: inline-block;
+  font-family: Nunito;
 }
 
 .search input:focus {
@@ -204,12 +169,8 @@ input {
   background: #09defe;
 }
 
-.search {
-  display: none;
-}
-
 div.footer {
-    background-color:#FAFAFA;
+    background-color:#ececec;
 }
 
 h2 {
