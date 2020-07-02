@@ -11,7 +11,7 @@
       0 10px 20px rgba(0, 0, 0, 0.12);  
       border-radius:100%;
       width: 100px;" src="yup-logo-rounded.svg"><h1 style="margin-bottom:30px;">
-      Yup Docs
+      Yup Help
 </h1><a style="text-decoration:none;" href="https://yup.io">
   <button class="btngrey">
   Website</button>

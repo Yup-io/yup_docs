@@ -1,6 +1,6 @@
 ![logo](icon.png)
 
-# Yup Docs
+# Yup Help
 > Everything you need to know about Yup
 
 [Get Started](/README.md)
