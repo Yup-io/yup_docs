@@ -6,7 +6,7 @@ Users can make money by rating. YUPX tokens are distributed as rewards, and user
 
 ### The Process
 
-The Yup [protocol](a) determines the monetary value of each vote based on each voter's [INFLUENCE](a). For example, if 100 [YUPX](a) is being distributed in 1 hour and your vote's influence makes up 5% of all vote influence in that 1 hour, your vote is worth 5 YUPX. Yup then rewards that money to all previous users who rated the same as you AND rewards the creator of the content.
+The Yup [protocol](/protocol.md) determines the monetary value of each vote based on each voter's [INFLUENCE](/influence.md). For example, if 100 [YUPX](/token.md) is being distributed in 1 hour and your vote's influence makes up 5% of all vote influence in that 1 hour, your vote is worth 5 YUPX. Yup then rewards that money to all previous users who rated the same as you AND rewards the creator of the content.
 
 1. You give your opinion by rating content on a scale of 1-5.
 2. Someone else gives that same opinion for the same content.
