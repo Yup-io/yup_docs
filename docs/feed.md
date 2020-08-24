@@ -1,7 +1,4 @@
-<!-- Banner -->
-<div class="banner media">
-  <img class=" banner" src="https://images.unsplash.com/photo-1507214617719-4a3daf41b9ac?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2924&q=80"></img>
-</div>
+
 
 # Feed
 

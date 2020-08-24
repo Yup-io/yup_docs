@@ -33,7 +33,7 @@ beautiful     | for locations (Google Maps), how pretty a place is.
 
 ## Why categories matter
 
-When giving opinions on the internet, it’s important that we don’t loop everything into one category - like popularity, or intelligence. This is because it is a poor representation of that person's or content's social value within a specific field. Marylin Monroe was more popular than Einstein, that we can guarantee. But Albert was surely smarter - and Charlie Chaplin was funnier than both! A chef’s opinion on food should be more highly valued than an architect’s. But, when it comes to judging buildings, the chef has no clue. So, it’s important to distribute influence evenly, and weight opinions separately.
+When giving opinions on the internet, it’s important that we don’t loop everything into one category — like popularity, or intelligence. This is because it is a poor representation of that person's or content's social value within a specific field. Marylin Monroe was more popular than Einstein, that we can guarantee. But Albert was surely smarter - and Charlie Chaplin was funnier than both! A chef’s opinion on food should be more highly valued than an architect’s. But, when it comes to judging buildings, the chef has no clue. So, it’s important to distribute influence evenly, and weight opinions separately.
 
 Over time, we expect to add more and more categories, allowing people to express their opinion more accurately and earn influence in specific fields of expertise. If you have a category you'd like added, [reach out](mailto:community@yup.io) and let us know!
 

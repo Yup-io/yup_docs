@@ -12,19 +12,19 @@
       border-radius:100%;
       width: 100px;" src="yup-logo-rounded.svg"><h1 style="margin-bottom:30px;">
       Yup Docs
-</h1><a style="text-decoration:none;" href="https://yup.io">
+</h1><a target="_blank" style="text-decoration:none;" href="https://yup.io">
   <button class="btngrey">
   Website</button>
 </a>
 
-  <a style="text-decoration:none;" href="https://chrome.google.com/webstore/detail/nhmeoaahigiljjdkoagafdccikgojjoi">
+  <a target="_blank" style="text-decoration:none;" href="https://chrome.google.com/webstore/detail/nhmeoaahigiljjdkoagafdccikgojjoi">
   <button class="btngrey">
-  Get Started</button>
+   Extension</button>
 </a>
 
-  <a style="text-decoration:none;" href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md">
+  <a style="text-decoration:none;" target="_blank" href="https://app.yup.io/">
   <button class="btngrey">
-  Edit Doc</button>
+  App</button>
 </a></div>
 
 # Overview
@@ -44,7 +44,7 @@ The Yup.io team simply could not shake the frustration around two important prob
 <l style="font-size:20px;">
 <b>1. Users aren't socially equal, yet social metrics are measured as if they are, making social capital easy to manipulate</b></l>
 
-We’d all prefer to get a ‘like’ from our favorite celebrity than from our weird neighbor, then why do most social networks treat them as if they are the same? Isn’t a follow from a Michelin star chef worth more to your restaurant than one from a random bartender? When all users are treated the same –1 like, 1 follow, 1 share – it becomes too easy and cheap to fake social capital. This leads to fake news, Fyre Festivals, and harmful disinformation. In a world run by tweets and stories, we can’t ignore the immense power of online social metrics. How can we better represent the social value of online data?
+We’d all prefer to get a ‘like’ from our favorite celebrity than from our weird neighbor, then why do most social networks treat them as if they are the same? Isn’t a follow from a Michelin star chef worth more to your restaurant than one from a random bartender? When all users are treated the same — 1 like, 1 follow, 1 share — it becomes too easy and cheap to fake social capital. This leads to fake news, Fyre Festivals, and harmful disinformation. In a world run by tweets and stories, we can’t ignore the immense power of online social metrics. How can we better represent the social value of online data?
 
 <l style="font-size:20px;">
 <b>2. Opinions are highly under-monetized</b></l>

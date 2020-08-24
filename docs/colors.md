@@ -36,7 +36,7 @@ Each piece of content can have a different color for EACH category. Within each 
 
 ## Conclusion
 
-We hope that, over time, each piece of content will be underlined with the color that accurately represents its social value according to the opinions of the online community. <i>See [Categories](/categories.md)</i>
+We hope that, over time, each piece of content will be underlined with the color that accurately represents its social value according to the opinions of the online community. See [Categories](/categories.md)
 
 
 <style>

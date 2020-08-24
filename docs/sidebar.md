@@ -16,5 +16,5 @@
 * [Technical Specs](/specs.md)
 - **Links**
   *  <u>[Website](https://yup.io/)</u>
-  * <u>[Extensions](https://yup.io/)</u>
+  * <u>[Extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi)</u>
   *  <u>[Web App](https://app.yup.io/)</u>

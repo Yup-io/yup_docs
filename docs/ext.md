@@ -1,12 +1,8 @@
-<!-- Banner -->
 
-<div class="banner media">
-  <img class=" banner" src="https://images.unsplash.com/photo-1485207909670-0d006b37596f?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=2300&amp;q=80">
-</div>
 
 # Yup Extension
 
-[Download Extension](https://chrome.google.com/webstore/detail/yup/nhmeoaahigiljjdkoagafdccikgojjoi)
+[Extension](https://chrome.google.com/webstore/detail/yup/nhmeoaahigiljjdkoagafdccikgojjoi)
 
 Yup is a network that rewards you for quality opinions. Its goal is to create a social consensus layer on the internet, accurately representing the agreed-upon social value of anything, from random Tweets to your history professor. Yup then rewards its users proportional to the social value of their contributions. With the Yup extension, you can earn rewards as you regularly browse the internet. All you have to do is rate through the extension, or directly on Twitter, Reddit, YouTube, or Google Maps. The technology is complicated, but how it works is simple.
 
@@ -72,7 +68,7 @@ Learn more: [Influence](/influence.md) | [Rewards](rewards.md)
 
 <strong>Works with:</strong> Any site on the internet!
 
-<strong>Overlays on:</strong> (currently)
+<strong>Overlays </strong> (currently) <strong> on :</strong>
 </div>
 
 1. Twitter

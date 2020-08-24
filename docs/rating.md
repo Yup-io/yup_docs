@@ -39,15 +39,19 @@ Rate overlaid sites directly from the page itself, using the inscribed Yup butto
 <br>
 Lists are <b>weighed</b> by each category separately and distinctly. That means that the usage and influence being spent in a category determines its relevance on lists.
 
-####  Twitter Example
+### Twitter Example
 
 <img class="img" src="/media/twitter.png">
-#### Reddit Example
+
+### Reddit Example
 
 <img class="img" src="/media/reddit.png">
-#### Google Maps Example
 
-<img class="img" src="/media/gmaps.png"></details>
+### Google Maps Example
+
+<img class="img" src="/media/gmaps.png">
+
+</details>
 
 <br>
 <br>

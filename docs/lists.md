@@ -1,10 +1,4 @@
 
-<!-- Banner -->
-<div class="banner media">
-  <img class=" banner" src="https://images.unsplash.com/photo-1533135091724-62cc5402aa20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"></img>
-</div>
-
-
 # Lists
 
 Lists aggregate Yupster's opinions into rankings to help you find the best of what’s been rated on Yup. Find the smartest people on Twitter, the funniest Reddit posts, the most knowledgeable professors, and more flipping through our lists. Lists are totally public––you don’t need a Yup account to use it! Filter by site, subject, and category to find what you’re looking for.
@@ -53,12 +47,12 @@ Lists are <b>weighed</b> by each category separately and distinctly. That means 
 
 
 <p style="width:100%;text-align:center;">
-<a href="https://app.yup.io/lists"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+<a href="https://app.yup.io/lists"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;">
 Lists</button></a>
 <a href="https://chrome.google.com/webstore/detail/nhmeoaahigiljjdkoagafdccikgojjoi">
-<button style="width:20%;border-radius:20px; border-width:0px; background:#e9e9e9; font-family:Nunito">
-Get Started</button></a>
-<a href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+<button style="width:20%;border-radius:20px; border-width:0px; background:#e9e9e9;">
+Extension</button></a>
+<a href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;">
 Edit Doc</button></a>
 </p>
 
