@@ -5,7 +5,7 @@
 
 # Feed
 
-The Feed is a culmination of the internet's best content carefully curated to fit your mood or topic. It includes embedded media such as tweets, YouTube videos, SoundCloud songs, Subreddits, and many more. Currently, there are 5 feeds that you can choose from. Soon users will be able to customize their own feeds based on specific accounts, circles, or topics.
+The Feed is a culmination of the internet’s best content curated to fit a mood or topic. It includes embedded media such as tweets, YouTube videos, SoundCloud songs, Subreddits, and many more. Currently, there are 5 feeds that you can choose from. Soon users will be able to customize their feeds based on accounts, circles, or topics.
 
 <br>
 <img class="rounded-img" src="media/feed.png"></img>
@@ -17,17 +17,13 @@ Try Feed</button></a>
 
 ## Profile
 
-From the feed, you can check out your profile and the profiles of other users. You can edit your image, full name, and bio by clicking on <i>EDIT PROFILE</i> when visiting your own profile.
+From the feed, you can check out your profile and the profiles of other users. You can edit your image, full name, and bio by clicking on <i>EDIT PROFILE</i> when visiting your profile.
 
 
 <br><br>
 
 <style>
 
-
-
-
-}
 .center {
   align: center;
   width: 10%;

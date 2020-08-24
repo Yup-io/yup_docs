@@ -7,7 +7,7 @@
 
 # Lists
 
-Lists are made up of customizable rankings based on Yup opinions. Find the smartest Twitter accounts, the funniest reddit posts, the most knowledgeable professors, and much more by toggling the list variables. Customize the site, subject, and category to find what you're looking for. Lists are totally public––you don't need a Yup account to use it! Learn more here.
+Lists aggregate Yupster's opinions into rankings to help you find the best of what’s been rated on Yup. Find the smartest people on Twitter, the funniest Reddit posts, the most knowledgeable professors, and more flipping through our lists. Lists are totally public––you don’t need a Yup account to use it! Filter by site, subject, and category to find what you’re looking for.
 
 <p align="center" color="#fafafa">
   <img align="center" class="rounded-img" src="media/yuplists.gif"></img>

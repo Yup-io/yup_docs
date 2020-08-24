@@ -1,6 +1,6 @@
 # Colors
 
-Yup displays social value via colors that underline certain data, both for the extension and the web application. They each represent a percentile of value in relation to everything else in their category.
+Yup displays social value via colors that underline rated content and users in the extension and the web application. Each color represents a percentile value in relation to everything else in their category.
 
 ## Color Scheme
 
@@ -24,7 +24,7 @@ There are currently five colors:
 
 <img class="img" src="media/orange.png"></img>
 
-You can help improve content's color by upvoting it, or bring it down a peg by downvoting it.
+Content becomes greener when you rate it positively and redder when you rate it negatively, reflecting an increase or decrease in the content's social value.
 
 <details class="advanced"><summary><i><b>Advanced</b></i></summary>
 <p>
@@ -36,7 +36,7 @@ Each piece of content can have a different color for EACH category. Within each 
 
 ## Conclusion
 
-- We hope that, over time, the social value color of each piece of content will be reflective of their actual social value in the public and in various categories. <i>See [Categories](/categories.md)</i>
+We hope that, over time, each piece of content will be underlined with the color that accurately represents its social value according to the opinions of the online community. <i>See [Categories](/categories.md)</i>
 
 
 <style>

@@ -2,16 +2,13 @@
 
 ## Downloading
 
-There are two ways to download the extension:
-
-1. Chrome Store
-2. Yup Website
+You can find the Yup extension on our site or download it directly on the Google Chrome Store.
 
 <img class="rounded-img" src="media/chromestore.png"></img>
 
 ### Access
 
-Currently, you must own a university email (.edu) or receive an access code to use the extension. You can receive one from the Yup team or from an existing user. If you don't have one, apply [here](a) or through the extension.
+Currently, you must own a university email (.edu) or receive an access code to use the extension.  If you don’t have one, apply [here](https://join.yup.io/) or through the extension. You can receive one from the Yup team or an existing user.
 
 Learn More: [Referral Program](/referral.md)
 

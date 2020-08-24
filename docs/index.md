@@ -8,7 +8,7 @@
       0 2.5px 4px rgba(240,240,240, 0.6),
       0 12.3px 17.9px rgba(0, 0, 0, 0.022),
       0 11.8px 53.4px rgba(0, 0, 0, 0.028),
-      0 10px 20px rgba(0, 0, 0, 0.12);  
+      0 10px 20px rgba(0, 0, 0, 0.12);
       border-radius:100%;
       width: 100px;" src="yup-logo-rounded.svg"><h1 style="margin-bottom:30px;">
       Yup Docs
@@ -44,14 +44,14 @@ The Yup.io team simply could not shake the frustration around two important prob
 <l style="font-size:20px;">
 <b>1. Users aren't socially equal, yet social metrics are measured as if they are, making social capital easy to manipulate</b></l>
 
-We'd all prefer to get a 'like' from our favorite celebrity than from their weird neighbor, then why do most social networks treat them each as one like? Isn't a follow from a Michelin star chef worth more for your restaurant than one from a random bartender? When all users are treated the same –1 like, 1 follow, 1 share –it becomes far too easy and cheap to fake social capital, leading to fake news, Fyre Festivals, and harmful disinformation. In a world run by tweets and stories, we can't ignore the immense power of online social metrics. How can we better represent the social value of online data?
+We’d all prefer to get a ‘like’ from our favorite celebrity than from our weird neighbor, then why do most social networks treat them as if they are the same? Isn’t a follow from a Michelin star chef worth more to your restaurant than one from a random bartender? When all users are treated the same –1 like, 1 follow, 1 share – it becomes too easy and cheap to fake social capital. This leads to fake news, Fyre Festivals, and harmful disinformation. In a world run by tweets and stories, we can’t ignore the immense power of online social metrics. How can we better represent the social value of online data?
 
 <l style="font-size:20px;">
 <b>2. Opinions are highly under-monetized</b></l>
 
 Currently, less than 0.1% of all reviews and ratings are monetized. Why would users fill out surveys or product reviews if they're not getting paid? Why would they do it honestly without anything to lose or gain? And finally, why aren't they getting paid more for opinions on things they know better than most?
 
-**Yup solves these problems by using them on each other, kind of like Gin and Tonic:** To have a quality representation of valuable influence online (which is worth serious money these days), we need accurate and weighted opinions. To get accurate opinions, we need to make them worth serious money. Yup is designed to reward users for their opinion based on how much it's worth in order to reach an agreement on the social value of everything on the internet.
+To have a higher-quality representation of valuable influence online (which is worth serious money these days), we need accurate and weighted opinions. To get accurate opinions, we need to make them worth serious money. Yup rewards users for their opinion proportional to how much they're worth in order to reach an agreement on the social value of everything on the internet.
 
 --------------------------------------------------------------------------------
 

@@ -2,8 +2,7 @@
 
 ## YUPX
 
-The YUPX token is an experimental token that is supposed to resemble the YUP token that will soon replace it. It functions as a means of stress-testing the protocol and experimenting with various approaches. YUPX isn't a speculative asset, but a token; it represents a portion of the YUP pre-mined total supply that will come at the full Yup Protocol Launch.
-
+The YUPX token is an experimental token that is supposed to resemble the YUP token that will soon replace it. It functions as a means of stress-testing the protocol and experimenting with different approaches. YUPX isn’t a speculative asset, but a token; it represents a portion of the YUP pre-mined total supply that will come at the full Yup Protocol Launch.
 
 **Total supply:** 100,000 YUPX
 
