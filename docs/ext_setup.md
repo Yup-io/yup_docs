@@ -4,7 +4,7 @@
 
 You can find the Yup extension on our site or download it directly on the Google Chrome Store.
 
-<img class="rounded-img" src="media/chromestore.png"></img>
+<img class="rounded-img" src="media/chromestore.gif"></img>
 
 ## Access
 

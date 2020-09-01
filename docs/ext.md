@@ -36,10 +36,10 @@ On certain sites, information and Yup functions are overlaid for better use.
     <img class="rounded-img" src="media/gmaps.png">
   </div>
   <div class="grid-item">
-    <img class="rounded-img" src="media/google.png">
+    <img class="rounded-img" src="media/google.gif">
   </div>
   <div class="grid-item">
-    <img class="rounded-img" src="media/article.png">
+    <img class="rounded-img" src="media/article.gif">
   </div>
 </div>
 </div>

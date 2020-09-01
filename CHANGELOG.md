@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.2.0
+
+*2020-09-01*
+
+- Updated media to reflect new branding
+- Cleanup of docs styling for more consistency
+- Minor UI/UX improvements
+
+
 ## 1.1.2
 
 *2019-01-08*

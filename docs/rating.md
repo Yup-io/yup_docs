@@ -41,7 +41,7 @@ Lists are <b>weighed</b> by each category separately and distinctly. That means 
 
 ### Twitter Example
 
-<img class="img" src="/media/twitter.png">
+<img class="img" src="/media/twitter.gif">
 
 ### Reddit Example
 

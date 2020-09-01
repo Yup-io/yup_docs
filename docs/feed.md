@@ -8,7 +8,7 @@ The Feed is a culmination of the internet’s best content curated to fit a mood
 <img class="rounded-img" src="media/feed.png"></img>
 <br>
 <p style="width:100%;text-align:center;">
-<a href="https://app.yup.io"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
+<a href="https://app.yup.io"><button class="btngrey">
 Try Feed</button></a>
 </p>
 

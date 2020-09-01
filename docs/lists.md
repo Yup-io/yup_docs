@@ -45,17 +45,6 @@ Lists are <b>weighed</b> by each category separately and distinctly. That means 
 
 <br><br><br>
 
-
-<p style="width:100%;text-align:center;">
-<a href="https://app.yup.io/lists"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;">
-Lists</button></a>
-<a href="https://chrome.google.com/webstore/detail/nhmeoaahigiljjdkoagafdccikgojjoi">
-<button style="width:20%;border-radius:20px; border-width:0px; background:#e9e9e9;">
-Extension</button></a>
-<a href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;">
-Edit Doc</button></a>
-</p>
-
 <style>
 .center {
   align: center;
