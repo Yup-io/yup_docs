@@ -2,26 +2,23 @@
 
 ## Downloading
 
-There are two ways to download the extension:
+You can find the Yup extension on our site or download it directly on the Google Chrome Store.
 
-1. Chrome Store
-2. Yup Website
+<img class="rounded-img" src="media/chromestore.gif"></img>
 
-<img class="rounded-img" src="media/chromestore.png"></img>
+## Access
 
-### Access
-
-Currently, you must own a university email (.edu) or receive an access code to use the extension. You can receive one from the Yup team or from an existing user. If you don't have one, apply [here](a) or through the extension.
+Currently, you must own a university email (.edu) or receive an access code to use the extension.  If you don’t have one, apply [here](https://join.yup.io/) or through the extension. You can receive one from the Yup team or an existing user.
 
 Learn More: [Referral Program](/referral.md)
 
-### Username and Password
+## Username and Password
 
 All you have to do is pick a username and password and your Yup Account will be created.
 
 Learn More: [Specs](/specs.md)
 
-### Security Considerations
+## Security Considerations
 
 If you sign up for a *decentralized account*, you should download and save your backup key, in case you lose access to your account for some reason.
 

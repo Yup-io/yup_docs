@@ -2,13 +2,13 @@
 
 ![](/media/dotsw.png)
 
-Yup allows you to rate and see the social value of all content, and earn money/influence for your opinion. You can rate either from the popup on any site or through the page itself on certain sites.
+Yup allows you to rate and see the social value of all content, and earn money and influence for your opinion. You can either rate from the popup on any site or through the page itself on certain sites.
 
-## How is rating calculated?
+## How do ratings work?
 
 ![](/media/dotgraphw.png)
 
-With Yup, you can rate all content out of 5 dots (like star rating). 1's the lowest, 5's the highest. More extreme ratings (ex: 1/5, 4/5, 5/5) multiply your influence, but they cost more! You can only rate 5/5 three times a day currently.
+With Yup, you can rate content out of 5 dots - 1/5 is the most negative rating, 5/5 is the most positive (like star rating). Nuanced ratings (ex: 1/5, 2/5, 4/5, 5/5) multiply your earnings, but they cost more! You can only rate content 5/5 five times a day currently.
 
 <details toggle="" class="advanced">
   <p margin="20px 0 0 0" class="adv-text">
@@ -27,11 +27,11 @@ With Yup, you can rate all content out of 5 dots (like star rating). 1's the low
 
 ![](/media/twitdemo.gif)
 
-You can rate any webpage simply by opening the popup while surfing that page. Click on the Yup button on the top right of your web browser to open the popup.
+Rate on any webpage simply by opening the popup while surfing that page. Click on the Yup button in the top right of your web browser to open the popup.
 
 ## Rating on overlaid sites
 
-You can rate overlaid sites directly from the page itself, using the inscribed Yup button there.
+Rate overlaid sites directly from the page itself, using the inscribed Yup button there.
 
 <details toggle="" style="background:#f4f4f4; padding:10px; border-radius: 5px;"><summary toggle="">
   <strong>Examples</strong>
@@ -39,15 +39,19 @@ You can rate overlaid sites directly from the page itself, using the inscribed Y
 <br>
 Lists are <b>weighed</b> by each category separately and distinctly. That means that the usage and influence being spent in a category determines its relevance on lists.
 
-####  Twitter Example
+### Twitter Example
 
-<img class="img" src="/media/twitter.png">
-#### Reddit Example
+<img class="img" src="/media/twitter.gif">
+
+### Reddit Example
 
 <img class="img" src="/media/reddit.png">
-#### Google Maps Example
 
-<img class="img" src="/media/gmaps.png"></details>
+### Google Maps Example
+
+<img class="img" src="/media/gmaps.png">
+
+</details>
 
 <br>
 <br>

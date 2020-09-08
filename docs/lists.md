@@ -1,13 +1,7 @@
 
-<!-- Banner -->
-<div class="banner media">
-  <img class=" banner" src="https://images.unsplash.com/photo-1533135091724-62cc5402aa20?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"></img>
-</div>
-
-
 # Lists
 
-Lists are made up of customizable rankings based on Yup opinions. Find the smartest Twitter accounts, the funniest reddit posts, the most knowledgeable professors, and much more by toggling the list variables. Customize the site, subject, and category to find what you're looking for. Lists are totally public––you don't need a Yup account to use it! Learn more here.
+Lists aggregate Yupster's opinions into rankings to help you find the best of what’s been rated on Yup. Find the smartest people on Twitter, the funniest Reddit posts, the most knowledgeable professors, and more flipping through our lists. Lists are totally public––you don’t need a Yup account to use it! Filter by site, subject, and category to find what you’re looking for.
 
 <p align="center" color="#fafafa">
   <img align="center" class="rounded-img" src="media/yuplists.gif"></img>
@@ -50,17 +44,6 @@ Lists are <b>weighed</b> by each category separately and distinctly. That means 
 </details>
 
 <br><br><br>
-
-
-<p style="width:100%;text-align:center;">
-<a href="https://app.yup.io/lists"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
-Lists</button></a>
-<a href="https://chrome.google.com/webstore/detail/nhmeoaahigiljjdkoagafdccikgojjoi">
-<button style="width:20%;border-radius:20px; border-width:0px; background:#e9e9e9; font-family:Nunito">
-Get Started</button></a>
-<a href="https://github.com/Yup-io/yup_docs/blob/master/docs/index.md"><button style="width:20%;border-radius:20px;border-width:0px;background:#e9e9e9;font-family:Nunito;">
-Edit Doc</button></a>
-</p>
 
 <style>
 .center {
