@@ -4,10 +4,9 @@
 * [Colors](/colors.md)
 * [Rewards](/rewards.md)
 * [Categories](/categories.md)
+* [Help Center](https://help.yup.io/)
 - **Technical**
 * [Protocol](/protocol.md)
-  * [Token](/token.md)
-  * [Influence](/influence.md)
 * [Technical Specs](/specs.md)
 - **Products**
 * [Extension](/ext.md)
