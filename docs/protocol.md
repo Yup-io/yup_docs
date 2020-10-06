@@ -91,47 +91,42 @@ The extent of these benefits mostly depends on the size of the network that part
 
 ## YUP
 
+The YUP token is designed to be a fungible cryptoasset used to increase impact and engage with the Yup protocol. New tokens are minted under a strict predetermined schedule. The token reward mechanism mints new YUP tokens and distributes them according to the influence algorithm and LP shares. The account asset exchange allows top accounts to distribute and sell portions of their account in non-fungible tokens.
+
 ### Supply and Distribution
 
-9,315,081 YUP is minted at genesis and will become accessible over the course of 1 year. The initial one year allocation is as follows:
+  9,315,081 YUP is minted at genesis and will become accessible over the course of 1 year. The initial one year allocation is as follows:
 
-- 50% to Yup Creators and Curators = 4,657,540 YUP
-- 23% to Liquidity Providers = 2,142,469 YUP
-- 22% to Team = 2,049,317 YUP
-- 5% to Treasury = 465,754 YUP
+    - 50% to Yup Creators and Curators = 4,657,540 YUP
+    - 23% to Liquidity Providers = 2,142,469 YUP
+    - 22% to Team = 2,049,317 YUP
+    - 5% to Treasury = 465,754 YUP
 
-**Emissions will occur in 4 phases:**
+  **Emissions will occur in 4 phases:**
 
-**Phase 0 • Day 1:** YUPX holders will immediately receive a retroactive distribution of YUP at a 1:1 rate. Additionally, over 10k twitter users will receive a proactive distribution of YUP according to their Twitter actions over the last few months and Yup users' ratings of them. Lastly, ~20% of this will be held for unclaimed creator rewards and 15% will be held by team. *This will create an initial supply of 100,000 YUP.*
+  **Phase 0 • Day 1:** YUPX holders will immediately receive a retroactive distribution of YUP at a 1:1 rate. Additionally, over 10k twitter users will receive a proactive distribution of YUP according to their Twitter actions over the last few months and Yup users' ratings of them. Lastly, ~20% of this will be held for unclaimed creator rewards and 15% will be held by team. *This will create an initial supply of 100,000 YUP.*
 
-**Phase 1 • 1 Year:** Daily emissions of 1.25% the total supply of YUP
+  **Phase 1 • 1 Year:** Daily emissions of 1.25% the total supply of YUP
 
-Day 1: 1,250
+  Day 1: 1,250
 
-Day 2: 1,266
+  Day 2: 1,266
 
-Day 3: 1,281
+  Day 3: 1,281
 
-etc...
+  etc...
 
-**Phase 2 • 2.88 Years:** Daily emissions decrease by 100 YUP each day until 10,000 YUP/day.
+  **Phase 2 • 1,049 Days (2.88 Years):** Daily emissions decrease by 100 YUP each day until 10,000 YUP/day.
 
-**Phase 3 • indefinitely:** Daily emissions of 10,000 YUP
+  **Phase 3 • indefinitely:** Daily emissions of 10,000 YUP
 
 ### YUPX
 
-The YUPX token is an experimental token that is supposed to resemble the YUP token that will soon replace it. It functions as a means of stress-testing the protocol and experimenting with different approaches. YUPX isn’t a speculative asset, but a token; it represents a portion of the YUP pre-mined total supply that will come at the full Yup Protocol Launch.
+The YUPX token was an experimental token that is supposed to resemble the YUP token that will soon replace it. It functioned as a means of stress-testing the protocol and experimenting with different approaches. YUPX isn’t a speculative asset, but a token.
 
 **Total supply:** 100,000 YUPX
 
 **Token Smart Contract:** yupyupxtoken
-
-<details toggle style="background:#f4f4f4; padding:10px; border-radius: 5px;">
-  <summary toggle>Advanced</summary>
-<br>
-The YUP ( Ұ ) token is designed to be a fungible cryptoasset used to increase impact and engage with the Yup network and ad marketplace. New tokens are minted under a strict predetermined schedule. The token reward mechanism mints new Ұ tokens and
-distributes them according to the influence function. The advertising marketplace facilitates the exchange of sponsored content and influencers. The account asset exchange allows top accounts to distribute and sell portions of their account in non-fungible tokens.
-</details>
 
 ## Influence
 
@@ -146,8 +141,10 @@ In simple terms:
 
 **Token Age** is the sum of the token value of each input transaction into an account multiplied by the number of blocks or periods since each transaction occurred. In simple terms, this is the number of tokens you have and how long you’ve had them.
 
-**Activity** is a measure of how valuable the activity of an account is on the network. Mathematically, this is the sum of all previous rewards received by an account.
+**Activity** is a measure of how valuable the activity of an account is on the network. Mathematically, this is the difference of the value of all previous votes and all previous rewards received by an account.
 
 **Social Level** is the numerical rank of each account, determined by the orders of all other accounts in a chain that references previous blocks. Simply, this is your social value as determined by all other users.
 
-> It's important to understand that having a very amount of one of these is not enough to have a high influence. You must have a good balance of all three to make it to the top.
+**Boost** is a mechanism by which users can burn tokens to increase their vote value, essentially betting bigger on a specific action. The amount that can be burned depends on the user's current vote value.
+
+> It's important to understand that having a very amount of one of these is not enough to have a high influence.

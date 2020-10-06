@@ -4,14 +4,11 @@
 ## Ethereum
   TBA
 
-  TBA
-
-  TBA
-
 ## EOS
+  TBA
 
 
-  YUP Token - [token.yup](https://bloks.io/tokens/YUP-eos-token.yup)
+<!--  YUP Token - [token.yup](https://bloks.io/tokens/YUP-eos-token.yup)
 
   Yup Protocol - [protocol.yup](https://bloks.io/accounts/protocol.yup)
 
@@ -34,3 +31,5 @@
   |   YUPETH LP Bridge   |    [lpbridge.yup](https://bloks.io/accounts/lpbridge.yup)  |
   |   YUPX Token   |    [yupyupxtoken](https://bloks.io/tokens/YUPX-eos-yupyupxtoken)
   |
+
+-->
