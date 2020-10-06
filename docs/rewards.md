@@ -27,26 +27,6 @@ Your [influence](/influence.md) (IN) is a measure of your social value on Yup. C
 
 Learn More: [Influence](/influence.md)
 
-## Withdrawal
-
-Today, you can redeem your YUPX for Venmo or Amazon credits as well as send them to other blockchain accounts. Users can withdraw by clicking _Menu > Withdraw > [method] > amount & account_
-
-Here's an example with Amazon:
-
-<div class="row">
-  <div class="column">
-  <img class="img" src="/media/menu.png">
-</div>
-  <div class="column">
-  <img class="img" src="/media/txn.png">
-</div>
-  <div class="column">
-  <img class="img" src="/media/txn_amazon.png">
-</div>
-</div>
-
-In the future, we will replace YUPX tokens with YUP tokens that have market value where the tokens would be tradable and liquid (enough).
-
 <style>
 {
   box-sizing: border-box;
