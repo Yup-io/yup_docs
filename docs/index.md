@@ -33,13 +33,13 @@
 
 # Overview
 
-<h2>Yup rewards valuable opinions across the web. Rate anything, earn rewards for accuracy, and gain status in topics that interest you. It integrates with every site and platform, providing a universal influence metric. </h2>
+<h2> Yup rewards valuable opinions across the web. Rate anything, earn rewards for accuracy, and gain status in topics that interest you. It integrates with every site and pqlatform, providing a universal influence metric. </h2>
 
 It does this by interacting with the Yup Protocol, which is a decentralized semi-autonomous social consensus protocol that determines the rewards and social value of all content based on users' interactions with it. ( [Learn More](/protocol.md) )
 
-The best way to use Yup is through the Yup Web Extension, a browser plug-in that allows you to vote on any site or piece of content across the web. It also stores your money and displays the social value of everything in a color coded scheme. ( [Learn More](/ext.md) )
+The best way to use Yup is through the Yup Web Extension, a browser plug-in that allows you to rate on any site or piece of content across the web. It also stores your money and displays the social value of everything in a color coded scheme. ( [Learn More](/ext.md) )
 
-**It's super easy to use:** Download the extension, sign up, and simply vote. That's all. When others vote the same as you, you get paid.
+**It's super easy to use:** Download the extension, sign up, and simply rate. That's all. When others rate the same as you, you get paid.
 
 
 --------------------------------------------------------------------------------
