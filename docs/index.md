@@ -33,7 +33,7 @@
 
 # Overview
 
-<h2> Yup rewards valuable opinions across the web. Rate anything, earn rewards for accuracy, and gain status in topics that interest you. It integrates with every site and pqlatform, providing a universal influence metric. </h2>
+<h2> Yup rewards valuable opinions across the web. Rate anything, earn rewards for accuracy, and gain status in topics that interest you. It integrates with every site and platform, providing a universal influence metric. </h2>
 
 It does this by interacting with the Yup Protocol, which is a decentralized semi-autonomous social consensus protocol that determines the rewards and social value of all content based on users' interactions with it. ( [Learn More](/protocol.md) )
 
