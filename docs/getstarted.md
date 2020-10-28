@@ -4,6 +4,6 @@
 
 Start by signing in with Twitter on the [Yup site](https://yup.io)
 
-Surprise! 🎉 You’re now earning money and clout based on your Twitter activity.
+Congratulations! 🎉 You’re now earning money and clout based on your Twitter activity.
 
-The best way to use Yup is through the Browser Extension, a browser plug-in that allows you to vote on any site or piece of content across the web.
+The best way to use Yup is through the Browser Extension, a browser plug-in that allows you to rate on any site or piece of content across the web.

@@ -100,7 +100,7 @@ const config = {
         eslint(pluginSettings.eslint),
         babel(pluginSettings.babel)
     ],
-    watch: {
+    watch: { 
         clearScreen: false
     }
 };
