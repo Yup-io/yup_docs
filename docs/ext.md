@@ -12,14 +12,14 @@ The Extension is a browser plug-in that rewards users' opinions across the web.
 
 <div class="cont">
   <div class="tooltip">
-  <img width="600rem" style="" class="rounded-img" src="media/votedemo.gif">
+  <img width="600rem" style="" class="rounded-img" src="media/extension.gif">
   <div class="tooltiptext">Extension Popup</div>
 </div>
 </div>
 
-The Yup Web Extension is a web browser plug-in that gives you the ability to express your opinion on any site on the internet. You can do so by rating on a scale of 1-5 in categories such as ‘popular’, ‘smart’, ‘funny’. When other users give the same opinion on the same content, you earn YUPX and influence! On the Yup network, not all ratings are created equal. [Learn more](rating.md)
+The Yup Web Extension is a web browser plug-in that gives you the ability to express your opinion on any site on the internet. You can do so by rating on a scale of 1-5 in categories such as ‘popular’, ‘smart’, ‘funny’. When other users give the same opinion on the same content, you earn YUP and influence! On the Yup network, not all ratings are created equal. [Learn more](rating.md)
 
-Learn more: [YUPX](/token.md) | [Influence](/influence.md) | [Categories](/categories.md) | [Rewards](rewards.md)
+Learn more: [YUP](/token.md) | [Influence](/influence.md) | [Categories](/categories.md) | [Rewards](rewards.md)
 
 <div class="header1">
 On certain sites, information and Yup functions are overlaid for better use.
@@ -50,17 +50,17 @@ The extension functions as both a tool for Yup-related actions and a crypto acco
 Learn more: [Rating](/rating.md) | [Specs](/specs.md)
 
 <div class="header1">
-You can redeem your YUPX for Venmo and Amazon rewards.
+Hold YUP to increase your influence and rewards
 </div>
 
 <div class="cont">
   <div class="tooltip">
-  <img width="600rem" style="" class="rounded-img" src="media/withdraw.gif">
+  <img width="600rem" style="" class="rounded-img" src="media/rewards.gif">
   <div class="tooltiptext">Redeem to Amazon</div>
 </div>
 </div>
 
-Besides redeeming monetary rewards, you can send your YUPX to friends and other accounts. But don't spend them all! They help build Influence, which can earn you more rewards in the future.
+YUP tokens can be sent to friends and other accounts. But don't send them all! They help build Influence, which can earn you more rewards in the future.
 
 Learn more: [Influence](/influence.md) | [Rewards](rewards.md)
 

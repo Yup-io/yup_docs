@@ -2,16 +2,15 @@
 
 ## How to make money
 
-Users can make money by rating. YUP tokens are distributed as rewards, and users can swap them for credit on Venmo or Amazon.
-
+Users can make money by receiving YUP tokens as rewards for rating.
 ### The Process
 
-The Yup [protocol](/protocol.md) determines the monetary value of each vote based on each voter's [influence](https://docs.yup.io/#/protocol?id=influence). For example, if 100 [YUP](/token.md) is being distributed in 1 hour and your vote's influence makes up 5% of all vote influence in that 1 hour, your vote is worth 5 YUP. Yup then rewards that money to all previous users who rated the same as you AND rewards the creator of the content.
+The Yup [protocol](/protocol.md) determines the monetary value of each vote based on each voter's [influence](https://docs.yup.io/#/protocol?id=influence). For example, if 100 [YUP](/token.md) is being distributed in 1 hour and your rating’s influence makes up 5% of all rating influence in that 1 hour, your rating is worth 5 YUP. Yup then rewards that money to all previous users who rated the same as you AND rewards the creator of the content.
 
 1. You give your opinion by rating content on a scale of 1-5.
 2. Someone else gives that same opinion for the same content.
 3. You get paid a portion of the monetary value of their rating.
-4. And so on! The more votes after you, the more you earn.
+4. And so on! The more ratings after you, the more you earn.
 
 ### Vote Value - What is your opinion worth?
 

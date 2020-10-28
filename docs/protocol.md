@@ -62,7 +62,7 @@ Voting bots plague the Steem network to such an extent that the community accept
 
 ## Value Proposition
 
-We propose Yup as a second-layer protocol that facilitates the measurement, capture, and exchange of social capital in an anonymous yet transparent opinion-based economy. It identifies content and distributes rewards according to the value (influence) of the opinions associated with that content. In this case, we define _content_ as any specific data online that user(s) deem worth judging, including but not limited to texts, images, videos, locations, accounts, and links. The influence metric is a function of engagement, ownership over time, and reputation (see _Influence_). The decision-making and scaling of this platform will be determined by the community it serves.
+We propose Yup as a second-layer protocol that facilitates the measurement, capture, and exchange of social capital in an anonymous yet transparent opinion-based economy. It identifies content and distributes rewards according to the value (influence) of the opinions associated with that content. In this case, we define content as any specific data online that user(s) deem worth judging, including but not limited to texts, images, videos, locations, accounts, and links. The influence metric is a function of engagement, ownership over time, and reputation (see [influence](https://docs.yup.io/#/protocol?id=influence)). The decision-making and scaling of this platform will be determined by the community it serves.
 
 The Yup protocol provides:
 
@@ -86,12 +86,12 @@ The Yup protocol provides:
 
 10. _Asset sales_ of verified accounts and groups;
 
-The extent of these benefits mostly depends on the size of the network that participates in this protocol. In the next section, we will continue to explain the components that make up the Yup protocol and how they produce the benefits outlined in this section.
+The extent of these benefits mostly depends on the size of the network that participates in this protocol. In the next section, we will explain the components that make up the Yup protocol and how they produce the benefits outlined in this section.
 
 
 ## YUP
 
-The YUP token is designed to be a fungible cryptoasset used to increase impact and engage with the Yup protocol. New tokens are minted under a strict predetermined schedule. The token reward mechanism mints new YUP tokens and distributes them according to the influence algorithm and LP shares. The account asset exchange allows top accounts to distribute and sell portions of their account in non-fungible tokens.
+The YUP token is designed to be a fungible crypto asset used to increase impact and engage with the Yup protocol. New tokens are minted under a predetermined schedule. The token reward mechanism mints new YUP tokens and distributes them according to the influence algorithm and LP shares. The account asset exchange allows top accounts to distribute and sell portions of their account in non-fungible tokens.
 
 ### Supply and Distribution
 
@@ -141,10 +141,10 @@ In simple terms:
 
 **Token Age** is the sum of the token value of each input transaction into an account multiplied by the number of blocks or periods since each transaction occurred. In simple terms, this is the number of tokens you have and how long you’ve had them.
 
-**Activity** is a measure of how valuable the activity of an account is on the network. Mathematically, this is the difference of the value of all previous votes and all previous rewards received by an account.
+**Activity** is a measure of how valuable the activity of an account is on the network. Mathematically, this is the difference between the value of all previous votes and all previous rewards received by an account.
 
 **Social Level** is the numerical rank of each account, determined by the orders of all other accounts in a chain that references previous blocks. Simply, this is your social value as determined by all other users.
 
-**Boost** is a mechanism by which users can burn tokens to increase their vote value, essentially betting bigger on a specific action. The amount that can be burned depends on the user's current vote value.
+**Boost** is a mechanism by which users can burn tokens to increase their vote value, essentially betting bigger on a specific action. The amount that can be burned depends on the user’s current rating value.
 
-> It's important to understand that having a very amount of one of these is not enough to have a high influence.
+> It’s important to understand that having a large amount of one of these is not enough to have a high influence score.
