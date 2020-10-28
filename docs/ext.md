@@ -56,7 +56,6 @@ Hold YUP to increase your influence and rewards
 <div class="cont">
   <div class="tooltip">
   <img width="600rem" style="" class="rounded-img" src="media/rewards.gif">
-  <div class="tooltiptext">Redeem to Amazon</div>
 </div>
 </div>
 
