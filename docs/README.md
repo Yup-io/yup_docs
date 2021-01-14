@@ -1,2 +1,0 @@
-# Yup Docs Main
-
