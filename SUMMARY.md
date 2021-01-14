@@ -1,11 +1,10 @@
 # Table of contents
 
-* [Yup Docs](README.md)
+* [Getting Started](README.md)
 * [Help Center](https://help.yup.io)
 
 ## 😅 Basic
 
-* [Get Started](basic/get-started.md)
 * [Rating](basic/rating.md)
 * [Colors](basic/colors.md)
 * [Rewards](basic/rewards.md)
