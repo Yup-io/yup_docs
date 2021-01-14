@@ -6,7 +6,6 @@
 ## 😅 Basic
 
 * [Get Started](basic/get-started.md)
-* [Sidebar](basic/sidebar.md)
 * [Rating](basic/rating.md)
 * [Colors](basic/colors.md)
 * [Rewards](basic/rewards.md)
