@@ -1,8 +1,12 @@
+---
+description: Welcome to the Yup docs!
+---
+
 # Welcome
 
-_By Yup.io Inc._
+{% page-ref page="basic/get-started.md" %}
 
-[Docs Site](https://docs.yup.io) \| [Website](https://yup.io) \| [Get Started](./)
+{% page-ref page="protocol/yup-protocol.md" %}
 
 ## Overview
 

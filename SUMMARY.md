@@ -2,6 +2,7 @@
 
 * [Welcome](README.md)
 * [Help Center](https://help.yup.io)
+* [Yup Site](https://yup.io)
 
 ## Basic
 
