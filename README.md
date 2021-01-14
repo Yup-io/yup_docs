@@ -1,4 +1,4 @@
-# Yup Docs
+# Welcome
 
 _By Yup.io Inc._
 

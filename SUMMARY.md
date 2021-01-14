@@ -1,24 +1,29 @@
 # Table of contents
 
-* [Yup Docs](README.md)
-* [Yup Docs Main](docs/README.md)
-  * [Colors](docs/colors.md)
-  * [Technical Specs](docs/specs.md)
-  * [Lists](docs/lists.md)
-  * [Get Started](docs/getstarted.md)
-  * [index](docs/index.md)
-  * [Bridge](docs/bridge.md)
-  * [\_coverpage](docs/_coverpage.md)
-  * [Backing up your account](docs/backup.md)
-  * [docsify-tabs](docs/tabs.md)
-  * [Rating \(Dots\)](docs/rating.md)
-  * [Rewards](docs/rewards.md)
-  * [Categories](docs/categories.md)
-  * [Yup Extension](docs/ext.md)
-  * [app](docs/app.md)
-  * [Relevant Contracts and Addresses](docs/smartcontracts.md)
-  * [Protocol](docs/protocol.md)
-  * [Yup Extension Setup](docs/ext_setup.md)
-  * [sidebar](docs/sidebar.md)
-* [Change Log](changelog.md)
+* [Welcome](README.md)
+* [Help Center](https://help.yup.io)
+
+## Basic
+
+* [Technical Specs](basic/technical-specs.md)
+* [Get Started](basic/get-started.md)
+* [Sidebar](basic/sidebar.md)
+* [Rating](basic/rating.md)
+* [Colors](basic/colors.md)
+* [Rewards](basic/rewards.md)
+* [Categories](basic/categories.md)
+
+## Protocol
+
+* [Yup Protocol](protocol/yup-protocol.md)
+* [Smart Contracts](protocol/smart-contracts.md)
+
+## Products
+
+* [Extension](products/extension.md)
+* [Setup](products/setup.md)
+* [App](products/app.md)
+* [Lists](products/lists.md)
+* [EOS-ETH Bridge](products/eos-eth-bridge.md)
+* [Change Log](products/changelog.md)
 
