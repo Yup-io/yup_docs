@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Yup Docs](README.md)
-* [docs](docs/README.md)
+* [Yup Docs Main](docs/README.md)
   * [Colors](docs/colors.md)
   * [Technical Specs](docs/specs.md)
   * [Lists](docs/lists.md)
