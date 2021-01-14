@@ -1,10 +1,10 @@
 # Technical Specs
 
-### Overview
+## Overview
 
 The Yup app ecosystem consists of the Yup protocol implementation and supporting web services that make it easy for users to curate content, receive rewards, and build their social influence. Users primarily interact with the protocol via the Yup Browser Extension and the Yup Web App, which are both powered by [EOS smart contracts](https://developers.eos.io/eosio-cpp/docs/introduction-to-smart-contracts). What follows is an overview of the current tech stack for the Yup protocol and supporting applications.
 
-### Extension
+## Extension
 
 The [Yup browser extension](https://chrome.google.com/webstore/detail/yup-opinions-social-capit/nhmeoaahigiljjdkoagafdccikgojjoi) includes the following core features:
 
@@ -25,9 +25,9 @@ The [Yup browser extension](https://chrome.google.com/webstore/detail/yup-opinio
 
 The extension is implemented in JavaScript and uses the Vue web frontend framework.
 
-### Architecture
+## Architecture
 
-#### EOS
+### EOS
 
 EOS smart contracts execute the core business logic of the Yup protocol. The smart contracts expose an interface for processing user ratings, comments, posts, and other interactions. EOS smart contracts are based on actions, which are functions that execute core business logic and can modify smart contract state.
 

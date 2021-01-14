@@ -12,7 +12,7 @@ There are currently five colors:
 4. Orange: 60 - 80%
 5. Red: 80 - 100%
 
-![](../.gitbook/assets/spectrum.png)
+![](../.gitbook/assets/spectrum%20%281%29.png)
 
 **For example, the color of the most socially valued 'tweet' would be green or blue.**
 
@@ -20,7 +20,7 @@ There are currently five colors:
 
 **...And the least valuable would be red.**
 
-![](../.gitbook/assets/orange.png)
+![](../.gitbook/assets/orange%20%281%29.png)
 
 Content becomes greener when you rate it positively and redder when you rate it negatively, reflecting an increase or decrease in the content's social value.
 
