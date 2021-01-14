@@ -22,6 +22,5 @@
   * [Setup](products/extension/setup.md)
 * [App](products/app.md)
 * [EOS-ETH Bridge](products/eos-eth-bridge.md)
-* [Change Log](products/changelog.md)
 * [Yup Site](https://yup.io)
 
