@@ -30,7 +30,7 @@ The dots are a simplified implementation of quadratic voting. 2/5 and 3/5 are co
 
 ### Pop-up: Rating on any site
 
-![](https://github.com/Yup-io/yup_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/media/twitdemo.gif)
+![](../.gitbook/assets/twitdemo.gif)
 
 Rate on any webpage simply by opening the popup while surfing that page. Click on the Yup button in the top right of your web browser to open the popup.
 
