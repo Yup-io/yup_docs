@@ -2,7 +2,7 @@
 description: Welcome to the Yup docs!
 ---
 
-# Welcome
+# Yup Docs
 
 {% page-ref page="basic/get-started.md" %}
 

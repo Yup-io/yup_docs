@@ -1,9 +1,9 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Yup Docs](README.md)
 * [Help Center](https://help.yup.io)
 
-## Basic
+## 😅 Basic
 
 * [Get Started](basic/get-started.md)
 * [Sidebar](basic/sidebar.md)
@@ -12,11 +12,11 @@
 * [Rewards](basic/rewards.md)
 * [Categories](basic/categories.md)
 
-## Protocol
+## 🤖 Protocol
 
 * [Yup Protocol](protocol/yup-protocol.md)
 * [Smart Contracts](protocol/smart-contracts.md)
-* [Technical Specs](protocol/technical-specs.md)
+* [Yup API](protocol/yup-api.md)
 
 ## Products
 

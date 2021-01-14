@@ -2,7 +2,7 @@
 
 ## Rating \(Dots\)
 
-![](../.gitbook/assets/dotgraphw.png)
+![](../.gitbook/assets/dotgraphw%20%281%29.png)
 
 Yup allows you to rate and see the social value of all content, and earn money and influence for your opinion. You can either rate from the popup on any site or through the page itself on certain sites.
 

@@ -16,7 +16,7 @@ There are currently five colors:
 
 **For example, the color of the most socially valued 'tweet' would be green or blue.**
 
-![](../.gitbook/assets/blue.png)
+![](../.gitbook/assets/blue%20%281%29.png)
 
 **...And the least valuable would be red.**
 
