@@ -2,11 +2,9 @@
 
 * [Welcome](README.md)
 * [Help Center](https://help.yup.io)
-* [Yup Site](https://yup.io)
 
 ## Basic
 
-* [Technical Specs](basic/technical-specs.md)
 * [Get Started](basic/get-started.md)
 * [Sidebar](basic/sidebar.md)
 * [Rating](basic/rating.md)
@@ -18,6 +16,7 @@
 
 * [Yup Protocol](protocol/yup-protocol.md)
 * [Smart Contracts](protocol/smart-contracts.md)
+* [Technical Specs](protocol/technical-specs.md)
 
 ## Products
 
@@ -27,4 +26,5 @@
 * [Lists](products/lists.md)
 * [EOS-ETH Bridge](products/eos-eth-bridge.md)
 * [Change Log](products/changelog.md)
+* [Yup Site](https://yup.io)
 
