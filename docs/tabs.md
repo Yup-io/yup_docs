@@ -1,18 +1,12 @@
 # docsify-tabs
 
-[![NPM](https://img.shields.io/npm/v/docsify-tabs.svg?style=flat-square)](https://www.npmjs.com/package/docsify-tabs)
-[![Codacy grade](https://img.shields.io/codacy/grade/88939149488a4ab69e0b63f256d2c22f.svg?style=flat-square)](https://www.codacy.com/app/jhildenbiddle/docsify-tabs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jhildenbiddle/docsify-tabs&amp;utm_campaign=Badge_Grade)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/jhildenbiddle/docsify-tabs/blob/master/LICENSE)
-[![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-tabs&hashtags=docsify,developers,frontend,plugin)
-<a class="github-button" href="https://github.com/jhildenbiddle/docsify-tabs" data-icon="octicon-star" data-show-count="true" aria-label="Star jhildenbiddle/docsify-tabs on GitHub">Star</a>
+[![NPM](https://img.shields.io/npm/v/docsify-tabs.svg?style=flat-square)](https://www.npmjs.com/package/docsify-tabs) [![Codacy grade](https://img.shields.io/codacy/grade/88939149488a4ab69e0b63f256d2c22f.svg?style=flat-square)](https://www.codacy.com/app/jhildenbiddle/docsify-tabs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=jhildenbiddle/docsify-tabs&amp;utm_campaign=Badge_Grade) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://github.com/jhildenbiddle/docsify-tabs/blob/master/LICENSE) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-tabs&hashtags=docsify,developers,frontend,plugin) [Star](https://github.com/jhildenbiddle/docsify-tabs)
 
 A [docsify.js](https://docsify.js.org) plugin for rendering tabbed content from markdown.
 
 ## Demo
 
-A basic tab set using the default [options](#options).
-
-<!-- tabs:start -->
+A basic tab set using the default [options](tabs.md#options).
 
 #### **Tab A**
 
@@ -21,7 +15,7 @@ This is some text.
 * List item A-1
 * List item A-2
 
-```js
+```javascript
 // JavaScript
 function add(a, b) {
   return a + b;
@@ -50,15 +44,13 @@ This is some more text.
 * List item C-1
 * List item C-2
 
-```html
+```markup
 <!-- HTML -->
 <h1>Heading</h1>
 <p>This is a paragraph.</p>
 ```
 
-<!-- tabs:end -->
-
-?> Like docsify-tabs? Be sure to check out [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) for your site theme!
+?&gt; Like docsify-tabs? Be sure to check out [docsify-themeable](https://jhildenbiddle.github.io/docsify-themeable) for your site theme!
 
 ## Features
 
@@ -71,14 +63,14 @@ This is some more text.
 
 **Limitations**
 
-* Nested tabsets (i.e. tabs within tabs) are not supported.
+* Nested tabsets \(i.e. tabs within tabs\) are not supported.
 * Tabs wraps when their combined width exceeds the content area width.
 
 ## Installation
 
 1. Add the docsify-tabs plugin to your `index.html` after docsify.
 
-   ```html
+   ```markup
    <!-- docsify (latest v4.x.x)-->
    <script src="https://cdn.jsdelivr.net/npm/docsify@4"></script>
 
@@ -86,7 +78,7 @@ This is some more text.
    <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
    ```
 
-1. Review the [Options](#options) section and configure as needed.
+2. Review the [Options](tabs.md#options) section and configure as needed.
 
    ```javascript
    window.$docsify = {
@@ -101,9 +93,9 @@ This is some more text.
    };
    ```
 
-1. Review the [Customization](#customization) section and set theme properties as needed.
+3. Review the [Customization](tabs.md#customization) section and set theme properties as needed.
 
-   ```html
+   ```markup
    <style>
      :root {
        --docsifytabs-border-color: #ededed;
@@ -116,9 +108,9 @@ This is some more text.
 
 1. Define a tab set using `tabs:start` and `tabs:end` HTML comments.
 
-   HTML comments are used to mark the start and end of a tab set. The use of HTML comments prevents tab-related markup from being displayed when markdown is rendered as HTML outside of your docsify site (e.g. Github, GitLab, etc).
+   HTML comments are used to mark the start and end of a tab set. The use of HTML comments prevents tab-related markup from being displayed when markdown is rendered as HTML outside of your docsify site \(e.g. Github, GitLab, etc\).
 
-   ```markdown
+   ```text
    <!-- tabs:start -->
 
    ...
@@ -126,11 +118,11 @@ This is some more text.
    <!-- tabs:end -->
    ```
 
-1. Define tabs within a tab set using heading + bold markdown.
+2. Define tabs within a tab set using heading + bold markdown.
 
-   Heading text will be used as the tab label, and all proceeding content will be associated with that tab up to start of the next tab or a `tab:end` comment. The use of heading + bold markdown allows tabs to be defined using standard markdown and ensures that tab content is displayed with a heading when rendered outside of your docsify site (e.g. GitHub, GitLab, etc).
+   Heading text will be used as the tab label, and all proceeding content will be associated with that tab up to start of the next tab or a `tab:end` comment. The use of heading + bold markdown allows tabs to be defined using standard markdown and ensures that tab content is displayed with a heading when rendered outside of your docsify site \(e.g. GitHub, GitLab, etc\).
 
-   ```markdown
+   ```text
    <!-- tabs:start -->
 
    #### ** English **
@@ -148,31 +140,27 @@ This is some more text.
    <!-- tabs:end -->
    ```
 
-   See [`options.tabHeadings`](#tabheadings) for details or [`options.tabComments`](#tabcomments) for an alternate method of defining tabs within tab sets.
+   See [`options.tabHeadings`](tabs.md#tabheadings) for details or [`options.tabComments`](tabs.md#tabcomments) for an alternate method of defining tabs within tab sets.
 
-1. Voilà! A tab set is formed.
+3. Voilà! A tab set is formed.
 
-   <!-- tabs:start -->
-
-   #### **English**
+   **English**
 
    Hello!
 
-   #### **French**
+   **French**
 
    Bonjour!
 
-   #### **Italian**
+   **Italian**
 
    Ciao!
-
-   <!-- tabs:end -->
 
 ## Options
 
 Options are set within the [`window.$docsify`](https://docsify.js.org/#/configuration) configuration under the `tabs` key:
 
-```html
+```markup
 <script>
   window.$docsify = {
     // ...
@@ -225,8 +213,6 @@ window.$docsify = {
 
 **Demo**
 
-<!-- tabs:start -->
-
 #### **macOS**
 
 Instructions for macOS...
@@ -239,10 +225,6 @@ Instructions for Windows...
 
 Instructions for Linux...
 
-<!-- tabs:end -->
-
-<!-- tabs:start -->
-
 #### **macOS**
 
 More instructions for macOS...
@@ -254,8 +236,6 @@ More instructions for Windows...
 #### **Linux**
 
 More instructions for Linux...
-
-<!-- tabs:end -->
 
 ### theme
 
@@ -278,17 +258,7 @@ window.$docsify = {
 
 **Demo**
 
-<label data-class-target="label + .docsify-tabs" data-class-remove="docsify-tabs--material" data-class-add="docsify-tabs--classic">
-  <input name="theme" type="radio" value="classic" checked="checked"> Classic
-</label>
-<label data-class-target="label + .docsify-tabs" data-class-remove="docsify-tabs--classic" data-class-add="docsify-tabs--material">
-  <input name="theme" type="radio" value="material"> Material
-</label>
-<label data-class-target="label + .docsify-tabs" data-class-remove="docsify-tabs--classic docsify-tabs--material">
-  <input name="theme" type="radio" value="none"> No Theme
-</label>
-
-<!-- tabs:start -->
+  Classic  Material  No Theme
 
 #### **Tab A**
 
@@ -302,8 +272,6 @@ This is some more text.
 
 Yes, this is even more text.
 
-<!-- tabs:end -->
-
 ### tabComments
 
 * Type: `boolean`
@@ -311,7 +279,7 @@ Yes, this is even more text.
 
 Determines if tabs within a tab set can be defined using tab comments.
 
-Note that defining tabs using HTML comments means tab content will not be labeled when rendered outside of your docsify site (e.g. GitHub, GitLab, etc). For this reason, defining tabs using [`options.tabHeadings`](#tabheadings) is recommended.
+Note that defining tabs using HTML comments means tab content will not be labeled when rendered outside of your docsify site \(e.g. GitHub, GitLab, etc\). For this reason, defining tabs using [`options.tabHeadings`](tabs.md#tabheadings) is recommended.
 
 **Configuration**
 
@@ -326,7 +294,7 @@ window.$docsify = {
 
 **Example**
 
-```markdown
+```text
 <!-- tabs:start -->
 
 <!-- tab:English -->
@@ -351,7 +319,7 @@ Ciao!
 
 Determines if tabs within a tab set can be defined using heading + bold markdown.
 
-The use of heading + bold markdown allows tabs to be defined using standard markdown and ensures that tab content is displayed with a heading when rendered outside of your docsify site (e.g. GitHub, GitLab, etc). Heading levels 1-6 are supported (e.g. `#` - `######`) as are both asteriscks (`**`) and underscores (`__`) for bold text via markdown.
+The use of heading + bold markdown allows tabs to be defined using standard markdown and ensures that tab content is displayed with a heading when rendered outside of your docsify site \(e.g. GitHub, GitLab, etc\). Heading levels 1-6 are supported \(e.g. `#` - `######`\) as are both asteriscks \(`**`\) and underscores \(`__`\) for bold text via markdown.
 
 **Configuration**
 
@@ -366,7 +334,7 @@ window.$docsify = {
 
 **Example**
 
-```markdown
+```text
 <!-- tabs:start -->
 
 #### ** English **
@@ -388,17 +356,17 @@ Ciao!
 
 ### Themes
 
-See [`options.theme`](#theme) for details on available themes.
+See [`options.theme`](tabs.md#theme) for details on available themes.
 
 ### Theme Properties
 
 Theme properties allow you to customize tab styles without writing complex CSS. The following list contains the default theme values.
 
-[vars.css](https://raw.githubusercontent.com/jhildenbiddle/docsify-tabs/master/src/css/vars.css ':include :type:code')
+[vars.css](https://raw.githubusercontent.com/jhildenbiddle/docsify-tabs/master/src/css/vars.css)
 
 To set theme properties, add a `<style>` element to your `index.html` file after all other stylesheets and set properties within a `:root` selector.
 
-```html
+```markup
 <style>
   :root {
     --docsifytabs-border-color: #ededed;
@@ -413,7 +381,7 @@ Custom tab styles can be created using docsify-tabs CSS classes and `data-tab` a
 
 Use the `docsify-tabs` CSS classes to apply common tab styles to tab blocks, toggles, and content containers. Use `data-tab` attributes to apply styles to specific tabs and/or content based on the tab label.
 
-```html
+```markup
 <div class="docsify-tabs docsify-tabs--classic">
   /* Tab A */
   <button class="docsify-tabs__tab docsify-tabs__tab--active" data-tab="tab a">Tab A</button>
@@ -431,13 +399,11 @@ Use the `docsify-tabs` CSS classes to apply common tab styles to tab blocks, tog
 
 **Examples**
 
-<!-- tabs:start -->
-
 #### **Icon Only**
 
 **Tab Markdown**
 
-```markdown
+```text
 #### **Icon Only**
 ```
 
@@ -458,7 +424,7 @@ Use the `docsify-tabs` CSS classes to apply common tab styles to tab blocks, tog
 
 **Tab Markdown**
 
-```markdown
+```text
 #### **Icon + Label**
 ```
 
@@ -477,7 +443,7 @@ Use the `docsify-tabs` CSS classes to apply common tab styles to tab blocks, tog
 
 **Tab Markdown**
 
-```markdown
+```text
 #### **Active State**
 ```
 
@@ -499,74 +465,7 @@ Use the `docsify-tabs` CSS classes to apply common tab styles to tab blocks, tog
 
 #### **JSBin**
 
-<a class="jsbin-embed" href="https://jsbin.com/iwovaj/74/embed?js,output&height=350px">Demo: Simple Animation Tests</a>
-<script src="https://static.jsbin.com/js/embed.js"></script>
+[Demo: Simple Animation Tests](https://jsbin.com/iwovaj/74/embed?js,output&height=350px)
 
-**Tab Markdown**
+ \*\*Tab Markdown\*\* \`\`\`markdown \#\#\#\# \*\*JSBin\*\* \`\`\` \*\*Custom CSS\*\* \`\`\`css \[data-tab-content="jsbin"\] { padding: 0 !important; } \[data-tab-content="jsbin"\] \* { margin: 0 !important; } \[data-tab-content="jsbin"\] iframe { display: block; min-height: 350px; border: 0 !important; } \`\`\` \#\#\#\# \*\*Badge\*\* \*\*Tab Markdown\*\* \`\`\`markdown \#\#\#\# \*\*Badge\*\* \`\`\` \*\*Custom CSS\*\* \`\`\`css \[data-tab="badge"\]:after { content: 'New!'; position: absolute; top: 0; right: 0; min-height: 1em; min-width: 1em; padding: 0.325em 0.5em 0.3em 0.5em; border-radius: 3px; background: red; color: \#fff; font-family: sans-serif; font-weight: bold; font-size: 11px; line-height: 1; transform: translate\(35%, -45%\); } \`\`\` \#\# Contact & Support \* Create a \[GitHub issue\]\(https://github.com/jhildenbiddle/docsify-tabs/issues\) for bug reports, feature requests, or questions \* Follow \[@jhildenbiddle\]\(https://twitter.com/jhildenbiddle\) for announcements \* Add a ⭐️ \[star on GitHub\]\(https://github.com/jhildenbiddle/docsify-tabs\) or ❤️ \[tweet\]\(https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-tabs&hashtags=css,developers,frontend,javascript\) to support the project! \#\# License This project is licensed under the \[MIT license\]\(https://github.com/jhildenbiddle/docsify-tabs/blob/master/LICENSE\). Copyright \(c\) John Hildenbiddle \(\[@jhildenbiddle\]\(https://twitter.com/jhildenbiddle\)\)
 
-```markdown
-#### **JSBin**
-```
-
-**Custom CSS**
-
-```css
-[data-tab-content="jsbin"] {
-  padding: 0 !important;
-}
-[data-tab-content="jsbin"] * {
-  margin: 0 !important;
-}
-[data-tab-content="jsbin"] iframe {
-  display: block;
-  min-height: 350px;
-  border: 0 !important;
-}
-```
-
-#### **Badge**
-
-**Tab Markdown**
-
-```markdown
-#### **Badge**
-```
-
-**Custom CSS**
-
-```css
-[data-tab="badge"]:after {
-  content: 'New!';
-  position: absolute;
-  top: 0;
-  right: 0;
-  min-height: 1em;
-  min-width: 1em;
-  padding: 0.325em 0.5em 0.3em 0.5em;
-  border-radius: 3px;
-  background: red;
-  color: #fff;
-  font-family: sans-serif;
-  font-weight: bold;
-  font-size: 11px;
-  line-height: 1;
-  transform: translate(35%, -45%);
-}
-```
-
-<!-- tabs:end -->
-
-## Contact & Support
-
-* Create a [GitHub issue](https://github.com/jhildenbiddle/docsify-tabs/issues) for bug reports, feature requests, or questions
-* Follow [@jhildenbiddle](https://twitter.com/jhildenbiddle) for announcements
-* Add a ⭐️ [star on GitHub](https://github.com/jhildenbiddle/docsify-tabs) or ❤️ [tweet](https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fjhildenbiddle%2Fdocsify-tabs&hashtags=css,developers,frontend,javascript) to support the project!
-
-## License
-
-This project is licensed under the [MIT license](https://github.com/jhildenbiddle/docsify-tabs/blob/master/LICENSE).
-
-Copyright (c) John Hildenbiddle ([@jhildenbiddle](https://twitter.com/jhildenbiddle))
-
-<!-- GitHub Buttons -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>

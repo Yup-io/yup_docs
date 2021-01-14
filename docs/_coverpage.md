@@ -1,7 +1,10 @@
-![logo](icon.png)
+# \_coverpage
 
-# Yup Docs
+![logo](../.gitbook/assets/icon.png)
+
+## Yup Docs
+
 > Everything you need to know about Yup
 
-[Get Started](/README.md)
-[Website](https://yup.io)
+[Get Started](../) [Website](https://yup.io)
+
