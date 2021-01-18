@@ -9,6 +9,7 @@
 * [Colors](basic/colors.md)
 * [Rewards](basic/rewards.md)
 * [Categories](basic/categories.md)
+* [Integrations](basic/integrations.md)
 
 ## 🤖 Protocol
 
