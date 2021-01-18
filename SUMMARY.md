@@ -24,4 +24,5 @@
 * [App](products/app.md)
 * [EOS-ETH Bridge](products/eos-eth-bridge.md)
 * [Yup Site](https://yup.io)
+* [Glossary + Citations](products/glossary-+-citations.md)
 
