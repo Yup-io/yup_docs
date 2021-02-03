@@ -21,6 +21,7 @@
 
 * [Extension](products/extension/README.md)
   * [Setup](products/extension/setup.md)
+  * [Firefox Add-On](products/extension/firefox-add-on.md)
 * [App](products/app.md)
 * [EOS-ETH Bridge](products/eos-eth-bridge.md)
 * [Yup Site](https://yup.io)
