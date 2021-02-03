@@ -6,11 +6,11 @@ description: >-
 
 # Firefox Add-On
 
-## 🦊  [Download Firefox Add-On](https://github.com/Yup-io/yup_docs/raw/nk-firefox/yup.xpi)
+## 🦊  [Download Firefox Add-On](https://github.com/Yup-io/yup_docs/raw/master/yup.xpi)
 
 ### Quick Guide: 
 
-1. [Download Yup Firefox Add-On](https://github.com/Yup-io/yup_docs/raw/nk-firefox/yup.xpi) from link above
+1. [Download Yup Firefox Add-On](https://github.com/Yup-io/yup_docs/raw/master/yup.xpi) from link above
 2. Choose to open file in Firefox
 3. Accept permissions
 
