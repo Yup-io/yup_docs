@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [Informacion Basica.](README.md)
 * [Help Center](https://help.yup.io)
 
 ## Basic
