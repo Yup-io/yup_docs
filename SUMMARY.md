@@ -15,6 +15,7 @@
 
 * [Yup Protocol](protocol/yup-protocol.md)
 * [Smart Contracts](protocol/smart-contracts.md)
+* [Motivations](protocol/motivations.md)
 * [Yup API](protocol/yup-api.md)
 
 ## 🧸 Products
