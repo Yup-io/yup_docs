@@ -1,22 +1,22 @@
 # Table of contents
 
-* [Informacion Basica.](README.md)
+* [Comenzando](README.md)
 * [Help Center](https://help.yup.io)
 
-## Basic
+## Basico <a id="basic"></a>
 
-* [Get Started](basic/get-started.md)
-* [Sidebar](basic/sidebar.md)
-* [Rating](basic/rating.md)
-* [Colors](basic/colors.md)
-* [Rewards](basic/rewards.md)
-* [Categories](basic/categories.md)
+* [Clasificación](basic/clasificacion.md)
+* [Colores](basic/colores.md)
+* [Recompensas](basic/recompensas.md)
+* [Categorías](basic/categorias.md)
+* [Integraciones](basic/integraciones.md)
 
 ## Protocol
 
-* [Yup Protocol](protocol/yup-protocol.md)
-* [Smart Contracts](protocol/smart-contracts.md)
-* [Technical Specs](protocol/technical-specs.md)
+* [Yup Protocolo](protocol/yup-protocolo.md)
+* [Contratos inteligentes](protocol/contratos-inteligentes.md)
+* [Motivaciones](protocol/motivaciones.md)
+* [Yup API](protocol/yup-api.md)
 
 ## Products
 
