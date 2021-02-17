@@ -14,8 +14,6 @@ You can find the Yup extension on our site or download it directly on the Google
 
 Currently, you must own a university email \(.edu\) or receive an access code to use the extension. If you don’t have one, apply [here](https://join.yup.io/) or through the extension. You can receive one from the Yup team or an existing user.
 
-Learn More: [Referral Program](https://github.com/Yup-io/yup_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/referral.md)
-
 ### Username and Password
 
 All you have to do is pick a username and password and your Yup Account will be created. 
