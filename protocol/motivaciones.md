@@ -1,12 +1,12 @@
 # Motivaciones
 
-Introducción
+## Introducción
 
-Capital social
+#### Capital social
 
 Desde la manifestación de las comunidades digitales, hemos asistido a un crecimiento de la influencia general de las cuentas y grupos en línea. Paralelamente, también ha crecido la opacidad de las identidades en la red. Este ruido e ineficacia general permite la manipulación del comportamiento, dando lugar a herramientas un tanto maliciosas como los bots, los seguidores importados y los contenidos artificiales. Las redes sociales existentes carecen de una valoración transparente del valor social. Han hecho un muy buen trabajo utilizando la analítica de datos para la publicidad dirigida, pero ofrecen poca información significativa para valorar una cuenta o una acción. Esto hace que sea difícil distinguir a los participantes auténticos de los artificiales o maliciosos, a los que gustan de los que no, o a los que son dignos de confianza de los astutos. En algunos casos, esto ha sido lo suficientemente drástico como para empujar a los usuarios a crear su propio software y bots que identifiquen y bloqueen el comportamiento malicioso. \[Geiger\] No hay una manera eficaz de obtener una representación social adecuada de una cuenta, un contenido o un grupo desde la perspectiva de cada usuario. Con las nuevas tecnologías, exploramos nuevas formas de distribuir y representar el capital social mediante incentivos de mercado.
 
-Incentivando la curación
+#### Incentivando la curación
 
 La curación de otros es vital para la economía de Internet; es el componente central sobre el que se construyen las métricas de valor. Esto es más claro en las reseñas de productos/servicios en línea. Los resultados de un estudio realizado en 2017 por Podium muestran que el 93% de los consumidores estadounidenses afirman que las reseñas online tienen un impacto en sus decisiones de compra. El 91% de los consumidores de 18 a 34 años confía en las reseñas online tanto como en las recomendaciones personales. La valoración por estrellas es el factor número uno utilizado por los usuarios para juzgar los negocios. \[Podio\] 
 
@@ -21,13 +21,13 @@ A través de las conclusiones de este estudio, podemos extraer dos importantes e
 
 A pesar del gran valor que se atribuye a la opinión de los usuarios y de la importancia de monetizarla para una representación precisa de la calidad, nuestra propia investigación sugiere que menos del 0,001% de las opiniones en línea se monetizan hoy en día. Sin ningún incentivo para opinar con honestidad, los usuarios tienden a expresar sus opiniones negativas con más frecuencia y de forma más extrema, con pocas o ninguna razón para aportar opiniones positivas. Esta falta de monetización también inclina la balanza para los actores maliciosos que buscan manipular su calidad percibida: los incentivos para crear una opinión falsa por dinero de un actor malicioso superan a los de reseñar honestamente.
 
-El poder de la atención
+#### El poder de la atención
 
 La atención en línea es un ingrediente clave para cosechar influencia. Varias entidades han sacado provecho de esta noción, convirtiéndola rápidamente en un producto básico para la venta de productos y la creación de marcas. Además, ha dado poder y voz a la abogacía. La capacidad de Donald Trump de dominar Twitter para captar las mentes de millones de personas durante su campaña electoral de 2016 fue histórica. \[[NYT](https://docs.yup.io/products/glossary-+-citations#citations)\] En Fox News, duda de que estaría aquí si no fuera por las redes sociales. \[[Fox](https://docs.yup.io/products/glossary-+-citations#citations)\]
 
 La legendaria vendedora Sally Hogshead escribió una vez: "La atención es la última forma de moneda". Esto es cada vez más cierto con el crecimiento de Internet. En las redes sociales actuales, la atención se comercializa de dos formas fundamentales: \(1\) la publicidad, para vender algo, ya sea directa o indirectamente a través de la marca, y \(2\) el capital social, para motivar algún tipo de acción para otra utilidad. Cada plataforma sigue siendo económicamente eficiente a través de la reventa de la atención que pueda captar a cambio de su contenido "gratuito".
 
-Distribución insostenible del capital social y de los rendimientos
+#### Distribución insostenible del capital social y de los rendimientos
 
 Las redes sociales son omnipresentes. El 83% de los estadounidenses tiene una cuenta en las redes sociales, y el 77 en el Reino Unido. 2.800 millones de personas utilizan los medios sociales. El gran titán de la atención, Facebook, crea el 68% del tráfico de los medios sociales y el 7% de todo el tráfico en línea. \[Tachalova\] Según un estudio exhaustivo de la plataforma de gestión de medios Hootsuite, tiene 1.650 millones de usuarios activos mensuales y 1.090 millones de usuarios activos diarios. Hootsuite\] Twitter tiene 310 millones de usuarios activos mensuales y, cada segundo, se envían 6.000 tweets. Estas redes abarcan generaciones, naciones y culturas. Instagram, con un valor de 102.000 millones de dólares, tiene más de 400 millones de usuarios activos mensuales. De su base de usuarios, el 75% está fuera de EE.UU. A los usuarios les gustan 3.500 millones de fotos y comparten 80 millones más.
 
@@ -43,7 +43,7 @@ La publicidad es actualmente la principal forma de monetización de los contenid
 
 Al examinar la composición de las redes sociales centralizadas existentes, llegamos a la conclusión de que el capital social se tergiversa y se compra fácilmente, y la monetización de la atención es unilateral o está separada de la propia red.
 
-Soluciones descentralizadas actuales
+#### Soluciones descentralizadas actuales
 
 En la capa de consenso, hay varias ineficiencias que pueden mejorarse con el capital social. El consenso de Nakamoto utiliza la prueba de trabajo para resolver limpiamente varios problemas en la toma de decisiones por mayoría, abandonando la noción de "un IP-un voto" por "una CPU-un voto". Sin embargo, un problema que surge como resultado es el poder atribuido al capital físico externalizado. Los participantes pueden ganar más influencia en la red comprando poder computacional con dinero de otros sistemas económicos. Esto significa que la relación entre el capital gastado para mantener la red y el capital ganado por hacerlo no es del todo interna: 1 kW de electricidad comprado con USD tiene igual poder sobre la red Bitcoin que 1 kW comprado con BTC. Los mecanismos PoS y DPoS mejoran este problema exigiendo a los mineros que apuesten por tokens de la red para participar en el consenso \("un token-un voto"\). Sin embargo, sigue sin reflejar adecuadamente la participación en la red: apostar 1 token de red que se compró en un intercambio proporciona la misma potencia de minería que 1 token de red ganado a través de la minería. Esta dependencia del capital físico hace que las redes sean susceptibles de un comportamiento bizantino por parte de partes externas ricas en capital, además de dificultar las ventajas de participar en el consenso. La capacidad de cuantificar y representar de forma transparente el capital social puede proporcionar modelos más sólidos para los sistemas descentralizados.
 
