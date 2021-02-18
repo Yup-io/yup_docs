@@ -1,3 +1,7 @@
+---
+description: Understanding the rating system
+---
+
 # Rating
 
 ## Rating \(Dots\)
