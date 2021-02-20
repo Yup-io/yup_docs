@@ -6,13 +6,13 @@ description: Instalación de la extensión Yup
 
 ### Descargando
 
-Puedes encontrar la extensión Yup en nuestro sitio o descargarla directamente en la tienda de Google Chrome.
+Puedes encontrar la extensión Yup en nuestro sitio web o descargarla directamente en la tienda de Google Chrome.
 
 ![](../../.gitbook/assets/chromestore.gif)
 
 ### Acceso
 
-Actualmente, debe poseer un correo electrónico universitario \(.edu\) o recibir un código de acceso para utilizar la extensión. Si no tiene uno, solicítelo aquí o a través de la extensión. Puede recibir uno del equipo de Yup o de un usuario existente.
+Actualmente, debe poseer un correo electrónico universitario \(.edu\) o recibir un código de acceso para utilizar la extensión. Si no tienes uno, solicítalo aquí o a través de la extensión. Puede recibir uno del equipo de Yup o de un usuario existente.
 
 Más información: [Referral Program](https://github.com/Yup-io/yup_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/referral.md)
 

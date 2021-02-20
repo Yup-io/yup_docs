@@ -10,9 +10,9 @@ description: >-
 
 Guía rápida:
 
-1. [Descargar el complemento de Firefox](https://github.com/Yup-io/yup_docs/raw/master/yup.xpi) del enlace anterior
-2. Elija abrir el archivo en Firefox
-3. Aceptar los permisos
+1. [Descarga el complemento de Firefox](https://github.com/Yup-io/yup_docs/raw/master/yup.xpi) del enlace anterior
+2. Elige abrir el archivo en Firefox
+3. Acepta los permisos
 
 ![1. Descargar el complemento](../../.gitbook/assets/ff3.png)
 
