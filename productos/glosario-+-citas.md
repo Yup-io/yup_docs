@@ -4,7 +4,7 @@
 
 | Término | Definición |
 | :--- | :--- |
-| cuenta | una dirección reconocida dueña de una o varias claves privadas.. |
+| cuenta | una dirección reconocida dueña de una o varias claves privadas. |
 | actividad | una representación de lo activa que es una cuenta en la red. Matemáticamente, es la suma de todas las recompensas anteriores recibidas por una cuenta. |
 | edad | la suma del valor de los tokens de cada transacción de entrada \(k1, k2 , . . kn \) en una cuenta multiplicada por el número de bloques o períodos desde que se produjo cada transacción.. |
 | Influencia | la representación total del capital social de una cuenta, formada por tres componentes básicos: Edad, Actividad y Nivel Social. |

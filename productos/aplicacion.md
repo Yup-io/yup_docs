@@ -2,7 +2,7 @@
 
 ## Feed
 
-El Feed es una culminación de los mejores contenidos de Internet, seleccionados para adaptarse a un estado de ánimo o a un tema. Incluye medios incrustados como tweets, vídeos de YouTube, canciones de SoundCloud, Subreddits y muchos más. Actualmente, hay 5 feeds entre los que se puede elegir. Pronto los usuarios podrán personalizar sus feeds basándose en cuentas, círculos o temas.
+El _Feed_ es una culminación de los mejores contenidos de Internet, seleccionados para adaptarse a un estado de ánimo o a un tema. Incluye medios incrustados como tuits, vídeos de YouTube, canciones de SoundCloud, Subreddits y muchos más. Actualmente, hay 5 feeds entre los que se puede elegir. Pronto los usuarios podrán personalizar sus feeds basándose en cuentas, círculos o temas.
 
 ![](../.gitbook/assets/feed.png)
 

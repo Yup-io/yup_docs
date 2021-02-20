@@ -24,7 +24,7 @@
   * [Instalación](productos/extension/instalacion.md)
   * [Firefox Add-On](productos/extension/firefox-add-on.md)
 * [Aplicación](productos/aplicacion.md)
-* [EOS-ETH Puente](productos/eos-eth-bridge.md)
-* [Yup Site](https://yup.io)
+* [Puente EOS-ETH](productos/eos-eth-bridge.md)
+* [Sitio Yup](https://yup.io)
 * [Glosario + Citas](productos/glosario-+-citas.md)
 

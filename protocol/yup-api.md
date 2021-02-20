@@ -143,7 +143,7 @@ Ejemplo: [https://api.yup.io/posts/post/12294](https://api.yup.io/posts/post/122
 | `GET` | `/accounts/{username}`. |  |
 | `GET` | `/followers/{username}` | Obtener los seguidores de un determinado usuario de Yup. |
 | `GET` | `/following/{username}` | Obtener las cuentas de los seguidores de un usuario Yup. |
-| `GET` | `/accounts/actionusage/{eosname}` | Obtener el uso de la acción por el nombre del EOS del usuario. |
+| `GET` | `/accounts/actionusage/{eosname}` | Obtener el uso de la acción por el nombre de EOS del usuario. |
 
 #### Ejemplo: [http://api.yup.io/levels/user/darren\_yup](http://api.yup.io/levels/user/darren_yup) o [http://api.yup.io/accounts/darren\_yup](http://api.yup.io/accounts/darren_yup)
 
