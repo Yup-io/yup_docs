@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Comenzando](README.md)
-* [Help Center](https://help.yup.io)
+* [Centro de ayuda](https://help.yup.io)
 
 ## Basico <a id="basic"></a>
 
-* [Valoración](basic/clasificacion.md)
+* [Valoraciones](basic/clasificacion.md)
 * [Colores](basic/colores.md)
 * [Recompensas](basic/recompensas.md)
 * [Categorías](basic/categorias.md)
@@ -13,7 +13,7 @@
 
 ## Protocol
 
-* [Yup Protocolo](protocol/yup-protocolo.md)
+* [Protocolo Yup](protocol/yup-protocolo.md)
 * [Contratos inteligentes](protocol/contratos-inteligentes.md)
 * [Motivaciones](protocol/motivaciones.md)
 * [Yup API](protocol/yup-api.md)

@@ -1,10 +1,10 @@
-# Valoración
+# Valoraciones
 
-### Valoración \(puntos\)
+### Valoraciones \(puntos\)
 
 ![](../.gitbook/assets/6b2e55df65104ebbad219.png)
 
-Yup te permite calificar y ver el valor social de todos los contenidos, y ganar dinero e influencia por tus opiniones. Puedes valorar desde la ventana emergente de cualquier sitio o a través de los botones incrustados en determinados sitios web.
+Yup te permite valorar y ver el valor social de todos los contenidos, y ganar dinero e influencia por tus opiniones. Puedes valorar desde la ventana emergente de cualquier sitio o a través de los botones incrustados en determinados sitios web.
 
 #### ¿Cómo funcionan las valoraciones?
 
