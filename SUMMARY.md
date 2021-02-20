@@ -5,7 +5,7 @@
 
 ## Basico <a id="basic"></a>
 
-* [Clasificación](basic/clasificacion.md)
+* [Valoración](basic/clasificacion.md)
 * [Colores](basic/colores.md)
 * [Recompensas](basic/recompensas.md)
 * [Categorías](basic/categorias.md)
@@ -20,7 +20,7 @@
 
 ## Productos
 
-* [Extension](productos/extension/README.md)
+* [Extensión](productos/extension/README.md)
   * [Instalación](productos/extension/instalacion.md)
   * [Firefox Add-On](productos/extension/firefox-add-on.md)
 * [Aplicación](productos/aplicacion.md)
