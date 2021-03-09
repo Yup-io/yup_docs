@@ -16,12 +16,12 @@
 
 ### Addresses
 
-| Description | Address | Security |  |  |  |  |  |
-| :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| Team | [team.yup](https://bloks.io/accounts/team.yup) | Multisig |  |  |  |  |  |
-| Treasury | [token.yup](https://bloks.io/accounts/treasury.yup) | Multisig,  24hr timelock |  |  |  |  |  |
-| Treasury | treasury.yup.eth | Multisig |  |  |  |  |  |
-| Team | yup.eth | Multisig |  |  |  |  |  |
+| Description | Address | Security |  |  |  |  |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| Team | [team.yup](https://bloks.io/accounts/team.yup) | Multisig |  |  |  |  |
+| Treasury | [token.yup](https://bloks.io/accounts/treasury.yup) | Multisig,  24hr timelock |  |  |  |  |
+| Treasury | treasury.yup.eth | Multisig |  |  |  |  |
+| Team | [team.yup.eth](https://gnosis-safe.io/app/#/safes/0xd6d978728584D4Ca08324f2ae9B4A3215542D888/balances) | Multisig |  |  |  |  |
 
 
 
