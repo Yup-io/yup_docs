@@ -28,3 +28,7 @@
 * [Yup Site](https://yup.io)
 * [Glossary + Citations](products/glossary-+-citations.md)
 
+---
+
+* [Q&A](q-and-a.md)
+
