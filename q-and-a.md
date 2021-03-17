@@ -86,17 +86,6 @@ Yup Racing Article Tutorial:
 
 #### Bugs:
 
-**Q: Why is my influence score 0 and I can't rate? Is this a bug?** A: Hey \_\_\_, I can look into your account. DMing you!
-
-\(Privately\)
-
-A: Hey \_\_\_, I'll look into your account. What's the EOS address associated with your account? You can check by clicking Yup extension —&gt; menu —&gt; wallet.
-
-* **IF** blacklisted on [https://eos.eosq.eosnation.io/account/yupyupyupyup/tables?lowerBound=abdullah121x&offset=2700&scope=yupyupyupyup&tableName=blacklist](https://eos.eosq.eosnation.io/account/yupyupyupyup/tables?lowerBound=abdullah121x&offset=2700&scope=yupyupyupyup&tableName=blacklist)
-  * A: "I checked your account and it has been blacklisted because you have been identified as a bot/sock puppet for colluding/self-voting which we do not permit".
-  * **THEN** block from DMs, and ban from Discord.
-  * 
-
 **Q: Why is \_\_\_\_ not working?** A: Thanks for letting us know! Please report the bug to [yup.canny.io](http://yup.canny.io), so the Yup team can resolve the issue asap.
 
 _Bug report already on Canny:_
