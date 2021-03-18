@@ -2,9 +2,8 @@
 
 > This guideline is a frame of reference and doesn't constitute any liability on behalf of Yup or its team. It's meant as a draft of values and policies of the organization.
 
-**Glossary**
-
-1. 1. "Yup" - [Yup.io](http://yup.io) inc
+1. **Glossary**
+   1. "Yup" - [Yup.io](http://yup.io) inc
    2. "Account" - refers to the EOS account and Yup account created when signing up to Yup.
    3. "Yup Protocol" - refers to the Yup Protocol and the smart contracts that make up the protocol
    4. "Collusion" - When multiple users coordinate to boost each other's content or someone else's
@@ -19,7 +18,6 @@
         * Don't collude
         * Don't harass or offend other accounts
 3. **Privacy**
-
    1. Anyone is allowed to use the Yup protocol.
       * Although we reserve the right to ban accounts at our discretion, anyone can interact with smart contracts in the protocol using an EOS compatible wallet such as Scatter.
    2. Yup collects the following:
@@ -34,10 +32,7 @@
       * be sold to third parties
       * be used or transferred for purposes that are unrelated to the item's core functionality
       * be used or transferred to determine creditworthiness or for lending purposes
-   4. **Privacy Policy** - Check out our full privacy policy for more info:
-
-   [https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0\_NHCBOR0s/edit](https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0_NHCBOR0s/edit)
-
+   4. Full Privacy Policy: [https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0\_NHCBOR0s/edit](https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0_NHCBOR0s/edit)
 4. **Decentralization**
    1. We are committed to full decentralization and community on all fronts, putting the protocol and token over the team or its individuals. This will be a work in progress for a long time, but is our focus and commitment.
 
