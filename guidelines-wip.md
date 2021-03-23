@@ -17,10 +17,10 @@
         * Don't be a sock puppet
         * Don't collude
         * Don't harass or offend other accounts
-3. **Privacy**
-   1. Anyone is allowed to use the Yup protocol.
+   4. Anyone is allowed to use the Yup protocol.
       * Although we reserve the right to ban accounts at our discretion, anyone can interact with smart contracts in the protocol using an EOS compatible wallet such as Scatter.
-   2. Yup collects the following:
+3. **Privacy**
+   1. Yup collects the following:
       1. Personally identifiable information
 
          For example: name, address, email address, age, or identification number
@@ -28,11 +28,11 @@
       2. Authentication information
 
          For example: passwords, credentials, security question, or personal identification number \(PIN\)
-   3. Your data will never:
+   2. Your data will never:
       * be sold to third parties
       * be used or transferred for purposes that are unrelated to the item's core functionality
       * be used or transferred to determine creditworthiness or for lending purposes
-   4. Full Privacy Policy: [https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0\_NHCBOR0s/edit](https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0_NHCBOR0s/edit)
+   3. Full Privacy Policy: [https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0\_NHCBOR0s/edit](https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0_NHCBOR0s/edit)
 4. **Decentralization**
    1. We are committed to full decentralization and community on all fronts, putting the protocol and token over the team or its individuals. This will be a work in progress for a long time, but is our focus and commitment.
 
