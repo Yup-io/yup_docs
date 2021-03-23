@@ -2,7 +2,7 @@
 
 * [Getting Started](README.md)
 * [Help Center](https://help.yup.io)
-* [Q&A](q-and-a.md)
+* [FAQ](q-and-a.md)
 
 ## 😅 Basic
 
