@@ -22,6 +22,10 @@ If you have signed up on [yup.io](http://yup.io/) and been approved, your email 
 
 You can unlink your Twitter account by opening your Twitter web app and clicking settings --&gt; security & account access --&gt; apps & sessions --&gt; connected apps --&gt; yup.io --&gt; revoke access. However, once a Twitter account is linked to a Yup account, you can't make a second account and link it to that same Twitter account.
 
+#### Still having issues with sign-up? 
+
+Fill out the type form with your specific problem and our support team will help you out: [https://yupio.typeform.com/to/vfh210N0](https://yupio.typeform.com/to/vfh210N0)  
+
 ### YUP Token:
 
 **Where can I buy/swap/trade YUP tokens?**
@@ -91,4 +95,6 @@ _Bug report already on Canny:_
 **Why is \_\_\_\_ not working?**
 
 If someone has already reported your issue on [Canny](https://yup.canny.io/),  upvote it to help our team prioritize the issue!
+
+### 
 
