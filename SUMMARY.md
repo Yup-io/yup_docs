@@ -29,3 +29,7 @@
 * [Sitio Yup](https://yup.io)
 * [Glosario + Citas](productos/glosario-+-citas.md)
 
+---
+
+* [Lineamientos \(WIP\)](lineamientos-wip.md)
+
