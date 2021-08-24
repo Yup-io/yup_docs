@@ -2,6 +2,7 @@
 
 * [Comenzando](README.md)
 * [Centro de ayuda](https://help.yup.io)
+* [FAQ](faq.md)
 
 ## Basico <a id="basic"></a>
 
