@@ -1,8 +1,6 @@
 # FAQ
 
-Cuenta YUP: 
-
-
+### **Cuenta YUP:** 
 
 #### ¿Por qué no se ha aprobado mi cuenta? 
 
@@ -46,7 +44,7 @@ Puede convertirlo en un token ERC-20 utilizando el puente Yup en yup.finance.
 
 50% para los creadores/curadores
 
- 23% para proveedores de liquidez 
+23% para proveedores de liquidez 
 
 22% para el equipo/ecosistema 
 
