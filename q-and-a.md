@@ -10,35 +10,41 @@ Your account can take up to 72 hours to be approved.
 
 Unfortunately, you cannot reset your password. However you can create a new account using another email or Twitter account and we will approve you ASAP!
 
-**I have been approved but I can't login. What should I do?**
+**I've been approved, but I can't login. What should I do?**
 
-If you sign up with your email on [yup.io](http://yup.io) and receive approval that only means that your email has been approved not that your account has been created. To create your account, download the [Yup extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) and use your approved email to sign up. Feel free to contact us if you're still having trouble!
+If you sign up with your email on [yup.io](http://yup.io) and receive approval, that only means your email has been approved. It _does not_ mean that your account has been created. To create your account, download the [Yup extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) and use your approved email to sign up. Please contact us if you're still having trouble!
 
-**Why am I getting a message that says email not found?**
+**Why am I getting an "email not found" message?**
 
-If you have signed up on [yup.io](http://yup.io/) and been approved, your email has been approved but you still need to create an account w/ that email to finalize sign-up. Try signing up on the extension rather than logging in. 
+If you signed up on [yup.io](http://yup.io) and have been approved, _you still need to create an account_ with that email to finish sign-up. Try signing up on the extension, instead logging in.
 
 **Can I unlink my Twitter account?**
 
-You can unlink your Twitter account by opening your Twitter web app and clicking settings --&gt; security & account access --&gt; apps & sessions --&gt; connected apps --&gt; yup.io --&gt; revoke access. However, once a Twitter account is linked to a Yup account, you can't make a second account and link it to that same Twitter account.
+To unlink your Twitter account:
 
-#### Still having issues with sign-up? 
+Open your Twitter web app
 
-Fill out the type form with your specific problem and our support team will help you out: [https://yupio.typeform.com/to/vfh210N0](https://yupio.typeform.com/to/vfh210N0)  
+Click "Settings" --> "Security & Account Access" --> "Apps & Sessions" --> "Connected Apps" --> [yup.io](http://yup.io) --> "Revoke Access".
+
+However, once a Twitter account is linked to a Yup account, you can not make a second Yup account and link it to that same Twitter account.
+
+#### Still having issues with sign-up?&#x20;
+
+Fill out this type form with your specific problem and our support team will help you out: [https://yupio.typeform.com/to/vfh210N0](https://yupio.typeform.com/to/vfh210N0) &#x20;
 
 ### YUP Token:
 
 **Where can I buy/swap/trade YUP tokens?**
 
-[Uniswap ](https://app.uniswap.org/#/swap?inputCurrency=0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9&outputCurrency=ETH)
+You can buy/swap/trade YUP on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9\&outputCurrency=ETH).
 
 **How do I earn YUP?**
 
-You earn YUP when others rate the same content after you. Keep in mind that rewards are distributed ~ every 12 hours so you won't receive your YUP right away. Check out —&gt; [yup.io](http://yup.io).
+You earn YUP when others rate the same content as you or rate content you created. Keep in mind that rewards are distributed approximately every 12 hours, so you won't receive YUP instantly. You can see when rewards will be distributed next in the Yup Extension.
 
 **Is YUP an ERC-20 token?**
 
-You can convert it into an ERC-20 token using the Yup bridge on [yup.finance](http://yup.finance).
+It is not, however you can convert YUP into an ERC-20 token using the Yup bridge on [yup.finance](http://yup.finance).
 
 **How is YUP distributed?**
 
@@ -62,11 +68,11 @@ Phase 3 • indefinitely: Daily emissions of 10,000 YUP.
 
 **How do the YUP Bridges work?**
 
-The YUP bridge converts YUP tokens \(and YUPETH tokens\) to ERC-20 tokens and back.
+The YUP bridge converts YUP tokens (and YUPETH tokens) to ERC-20 tokens and back.
 
 **How do I swap my YUP to ETH?**
 
-In order to get your YUP onto Ethereum. You first need to send the YUP you have in the extension to an Ethereum wallet. To do so, click Extension --&gt; Menu --&gt; Wallet --&gt; Send to Crypto Address, and then put in your Ethereum wallet address in the memo field. Then  connect your wallet to Uniswap and exchange your YUP for Eth.
+In order to get your YUP onto Ethereum, you must first send your YUP from the Yup Extension to an Ethereum wallet. To do so: click "Extension" --> "Menu" --> "Wallet" --> "Send to Crypto Address." Enter your Ethereum wallet address in the memo field. Then connect your wallet to Uniswap and exchange your YUP for ETH.
 
 **What is YUPETH?**
 
@@ -74,11 +80,19 @@ YUPETH represents YUP-ETH LP tokens on EOS. You receive your UNI v2 LP token fro
 
 **What/How do I stake on Yup Racing?**
 
-You stake YUP ETH Uniswap LP's. To begin staking, bridge your YUP tokens using the [Yup Extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) or the EOS &lt;&gt; Eth bridge. Then add YUP and ETH in the YUP ETH liquidity pool. Finally, take your LP token and bridge it back to EOS stake it in Yup Racing and off you go! Check out these tutorials for a step-by-step breakdown.
+YUPETH represents YUP-ETH LP tokens on EOS. You receive your UNI v2 LP token from adding liquidity to the YUP-ETH pool on Uniswap. When you bridge it over to EOS, it is converted into the YUPETH token. You can stake the YUPETH token at [Yup.finance](http://yup.finance) to liquidity mine YUP.
+
+**What is Yup Racing and how do I stake with it?**
+
+Yup Racing is our game layer for liquidity mining and staking. Staking occurs with YUP-ETH Uniswap LPs.
+
+To begin staking, bridge your YUP tokens using the [Yup Extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) or the EOS <> ETH bridge. Then add YUP and ETH in the YUP ETH liquidity pool. Finally, bridge your LP token back to EOS to stake it in Yup Racing!
+
+Check out these tutorials for a step-by-step breakdown:
 
 Yup Racing Video Tutorial:
 
-[https://twitter.com/yup\_io/status/1328834055136305154](https://twitter.com/yup_io/status/1328834055136305154)
+[https://twitter.com/yup\_io/status/1328834055136305154](https://twitter.com/yup\_io/status/1328834055136305154)
 
 Yup Racing Article Tutorial:
 
@@ -86,15 +100,11 @@ Yup Racing Article Tutorial:
 
 ### Bugs:
 
-**Why is \_\_\_\_ not working?**   
-  
-Please report any bugs you find to [yup.canny.io](http://yup.canny.io) so the Yup team can resolve the issue asap.
+**Why is \_\_\_\_ not working?**&#x20;
 
-_Bug report already on Canny:_
+\
+Please report any bugs you find to [yup.canny.io](http://yup.canny.io), and the Yup team will resolve the issue ASAP.
 
-**Why is \_\_\_\_ not working?**
+If someone has already reported your issue on [Canny](https://yup.canny.io), upvote it to help our team prioritize the issue!
 
-If someone has already reported your issue on [Canny](https://yup.canny.io/),  upvote it to help our team prioritize the issue!
-
-### 
-
+###
