@@ -74,29 +74,13 @@ The YUP bridge converts YUP tokens (and YUPETH tokens) to ERC-20 tokens and back
 
 In order to get your YUP onto Ethereum, you must first send your YUP from the Yup Extension to an Ethereum wallet. To do so: click "Extension" --> "Menu" --> "Wallet" --> "Send to Crypto Address." Enter your Ethereum wallet address in the memo field. Then connect your wallet to Uniswap and exchange your YUP for ETH.
 
-**What is YUPETH?**
+**What is YUP-ETH?**
 
-YUPETH represents YUP-ETH LP tokens on EOS. You receive your UNI v2 LP token from adding liquidity to the YUP-ETH pool on Uniswap, and when you bridge it over to EOS it is converted into the YUPETH token. You can stake the YUPETH token in [Yup.finance](http://yup.finance) to liquidity mine YUP.
+YUP-ETH represents YUP-ETH liquidity pool (LP) tokens. To maximize flexibility in depositing, withdrawing, and providing liquidity for YUP, we've opened a [YUP-ETH liquidity pool](https://app.uniswap.org/#/add/v2/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9/ETH) on Ethereum and a [YUP-ETH liquidity pool](https://quickswap.exchange/#/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0x086373fad3447F7F86252fb59d56107e9E0FaaFa) on Polygon.
 
-**What/How do I stake on Yup Racing?**
+**How do I stake on YUP?**
 
-YUPETH represents YUP-ETH LP tokens on EOS. You receive your UNI v2 LP token from adding liquidity to the YUP-ETH pool on Uniswap. When you bridge it over to EOS, it is converted into the YUPETH token. You can stake the YUPETH token at [Yup.finance](http://yup.finance) to liquidity mine YUP.
-
-**What is Yup Racing and how do I stake with it?**
-
-Yup Racing is our game layer for liquidity mining and staking. Staking occurs with YUP-ETH Uniswap LPs.
-
-To begin staking, bridge your YUP tokens using the [Yup Extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) or the EOS <> ETH bridge. Then add YUP and ETH in the YUP ETH liquidity pool. Finally, bridge your LP token back to EOS to stake it in Yup Racing!
-
-Check out these tutorials for a step-by-step breakdown:
-
-Yup Racing Video Tutorial:
-
-[https://twitter.com/yup\_io/status/1328834055136305154](https://twitter.com/yup\_io/status/1328834055136305154)
-
-Yup Racing Article Tutorial:
-
-[https://y-u-p.medium.com/yup-racing-tutorial-fe6aa8b80ea0](https://y-u-p.medium.com/yup-racing-tutorial-fe6aa8b80ea0)
+Visit [app.yup.io/staking](http://app.yup.io/staking) to begin staking YUP-ETH and earning LP rewards. For detailed instructions, read our tutorial [here](https://yup.mirror.xyz/Z1X3B8d3abDGkAO\_pQp89rg4MV7wpcLjDY1P47j2B1c).
 
 ### Bugs:
 
