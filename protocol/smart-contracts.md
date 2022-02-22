@@ -4,11 +4,13 @@
 
 ### Contracts
 
-| Description  | Contract                                                                                                               | Chain    | Security |
-| ------------ | ---------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
-| YUP Token    | [0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9](https://etherscan.io/token/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9)    | Ethereum | Multisig |
-| YUP Token    | [0x086373fad3447F7F86252fb59d56107e9E0FaaFa](https://polygonscan.com/token/0x086373fad3447F7F86252fb59d56107e9E0FaaFa) | Polygon  | Multisig |
-| Yup Protocol | [yupyupyupyup](https://bloks.io/account/yupyupyupyup)                                                                  | DSPs     | SC       |
+| Description                       | Contract                                                                                                               | Chain    | Security |
+| --------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
+| YUP Token                         | [0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9](https://etherscan.io/token/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9)    | Ethereum | Multisig |
+| YUP Token                         | [0x086373fad3447F7F86252fb59d56107e9E0FaaFa](https://polygonscan.com/token/0x086373fad3447F7F86252fb59d56107e9E0FaaFa) | Polygon  | Multisig |
+| Yup Protocol                      | [yupyupyupyup](https://bloks.io/account/yupyupyupyup)                                                                  | DSPs     | SC       |
+| YUP Airdrop Contract              | 0x859E08c222fe33a6fb7117838028821ad5031627                                                                             | Polygon  | Multisig |
+| YUPETH UNI LP V2 Airdrop Contract | 0x6E3f615B439Cdf800AA2D69A3d1D797A2BeAc5b8                                                                             | Polygon  | Multisig |
 
 ### Addresses
 
