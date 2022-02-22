@@ -1,58 +1,19 @@
 # Yup API
 
 {% hint style="success" %}
-**Base URL:** [**`http://api.yup.io`**](http://api.yup.io/)**\`\`**
+**Base URL:** [**`http://api.yup.io`**](http://api.yup.io)**``**
 {% endhint %}
 
-### GET Post 
+### GET Post&#x20;
 
 {% tabs %}
 {% tab title="Requests" %}
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Method</th>
-      <th style="text-align:left">Endpoint</th>
-      <th style="text-align:left">Usage</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left"><code>/posts/post/{postid}</code>
-      </td>
-      <td style="text-align:left">Fetch post information for a given vote/post.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left"><code>/comments/post/{postid}</code>
-      </td>
-      <td style="text-align:left">
-        <p>Fetch comments on a given vote/post.</p>
-        <p></p>
-      </td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left"><code>/posts/interactions/{postid}</code>
-      </td>
-      <td style="text-align:left">Fetch user interactions on a given vote/post.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left"><code>/votes/post/{postid}/voter/{username}</code>
-      </td>
-      <td style="text-align:left">
-        <p></p>
-        <p>Fetch a user&apos;s vote on a given vote/post (if it exists).</p>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Method | Endpoint                                | Usage                                                                  |
+| ------ | --------------------------------------- | ---------------------------------------------------------------------- |
+| `GET`  | `/posts/post/{postid}`                  | Fetch post information for a given vote/post.                          |
+| `GET`  | `/comments/post/{postid}`               | <p>Fetch comments on a given vote/post.</p><p></p>                     |
+| `GET`  | `/posts/interactions/{postid}`          | Fetch user interactions on a given vote/post.                          |
+| `GET`  | `/votes/post/{postid}/voter/{username}` | <p></p><p>Fetch a user's vote on a given vote/post (if it exists).</p> |
 
 **Example:** [https://api.yup.io/posts/post/12294](https://api.yup.io/posts/post/12294)
 {% endtab %}
@@ -171,74 +132,26 @@
 {% endtab %}
 {% endtabs %}
 
-### GET User 
+### GET User&#x20;
 
 {% tabs %}
 {% tab title="Requests" %}
-<table>
-  <thead>
-    <tr>
-      <th style="text-align:left">Method</th>
-      <th style="text-align:left">Endpoint</th>
-      <th style="text-align:left">Usage</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left"><code>/levels</code>
-      </td>
-      <td style="text-align:left">Fetch all Yup users (extremely large json).</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left">
-        <p><code>/levels/users/{username}</code>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left"></td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left"><code>/accounts/{username}</code>.</td>
-      <td style="text-align:left">Fetch data on a particular Yup user.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left"><code>/followers/{username}</code>
-      </td>
-      <td style="text-align:left">Fetch followers for a particular Yup user.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left"><code>/following/{username}</code>
-      </td>
-      <td style="text-align:left">Fetch accounts followed by a Yup user.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"><code>GET</code>
-      </td>
-      <td style="text-align:left">
-        <p><code>/accounts/actionusage/{eosname}</code>
-        </p>
-        <p></p>
-      </td>
-      <td style="text-align:left">Fetch action usage by user&apos;s EOS name.</td>
-    </tr>
-  </tbody>
-</table>
+| Method | Endpoint                                                   | Usage                                       |
+| ------ | ---------------------------------------------------------- | ------------------------------------------- |
+| `GET`  | `/levels`                                                  | Fetch all Yup users (extremely large json). |
+| `GET`  | <p><code>/levels/users/{username}</code></p><p></p>        |                                             |
+| `GET`  | `/accounts/{username}`.                                    | Fetch data on a particular Yup user.        |
+| `GET`  | `/followers/{username}`                                    | Fetch followers for a particular Yup user.  |
+| `GET`  | `/following/{username}`                                    | Fetch accounts followed by a Yup user.      |
+| `GET`  | <p><code>/accounts/actionusage/{eosname}</code></p><p></p> | Fetch action usage by user's EOS name.      |
 
-**Example:** [http://api.yup.io/levels/user/darren\_yup](http://api.yup.io/levels/user/darren_yup) or [http://api.yup.io/accounts/darren\_yup](http://api.yup.io/accounts/darren_yup)
+**Example:** [http://api.yup.io/levels/user/darren\_yup](http://api.yup.io/levels/user/darren\_yup) or [http://api.yup.io/accounts/darren\_yup](http://api.yup.io/accounts/darren\_yup)
 {% endtab %}
 
 {% tab title="Response" %}
-{% embed url="https://api.yup.io/posts/post/12294" caption="Example" %}
+{% embed url="https://api.yup.io/posts/post/12294" %}
+Example
+{% endembed %}
 
 ```javascript
   {
@@ -289,6 +202,4 @@
 ```
 {% endtab %}
 {% endtabs %}
-
-
 
