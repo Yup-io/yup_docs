@@ -7,10 +7,10 @@
 ## 😅 Basic
 
 * [Rating](basic/rating.md)
-* [Colors](basic/colors.md)
 * [Rewards](basic/rewards.md)
-* [Categories](basic/categories.md)
 * [Integrations](basic/integrations.md)
+* [Categories](basic/categories.md)
+* [Colors](basic/colors.md)
 
 ## 🤖 Protocol
 
@@ -18,6 +18,7 @@
 * [Smart Contracts](protocol/smart-contracts.md)
 * [Motivations](protocol/motivations.md)
 * [Yup API](protocol/yup-api.md)
+* [Liquidity Providers](protocol/liquidity-providers.md)
 
 ## 🧸 Products
 
@@ -25,11 +26,9 @@
   * [Setup](products/extension/setup.md)
   * [Firefox Add-On](products/extension/firefox.md)
 * [App](products/app.md)
-* [EOS-ETH Bridge](products/eos-eth-bridge.md)
 * [Yup Site](https://yup.io)
 * [Glossary + Citations](products/glossary-+-citations.md)
 
----
+***
 
-* [Guidelines \(WIP\)](guidelines-wip.md)
-
+* [Guidelines (WIP)](guidelines-wip.md)

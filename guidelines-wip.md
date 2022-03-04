@@ -1,4 +1,4 @@
-# Guidelines \(WIP\)
+# Guidelines (WIP)
 
 > This guideline is a frame of reference and doesn't constitute any liability on behalf of Yup or its team. It's meant as a draft of values and policies of the organization.
 
@@ -22,20 +22,18 @@
    5. If you feel that your account was blacklisted by mistake, submit a re-evaluation request here: [https://yupio.typeform.com/to/MAF4Rhfy](https://yupio.typeform.com/to/MAF4Rhfy)
 3. **Privacy**
    1. Yup collects the following:
-      1. Personally identifiable information
+      1.  Personally identifiable information
 
-         For example: name, address, email address, age, or identification number
+          For example: name, address, email address, age, or identification number
+      2.  Authentication information
 
-      2. Authentication information
-
-         For example: passwords, credentials, security question, or personal identification number \(PIN\)
+          For example: passwords, credentials, security question, or personal identification number (PIN)
    2. Your data will never:
       * be sold to third parties
       * be used or transferred for purposes that are unrelated to the item's core functionality
       * be used or transferred to determine creditworthiness or for lending purposes
-   3. Full Privacy Policy: [https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0\_NHCBOR0s/edit](https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0_NHCBOR0s/edit)
+   3. Full Privacy Policy: [https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0\_NHCBOR0s/edit](https://docs.google.com/document/d/1LFrn0eeTfiy8lWAs8TPzWeydkRI-TRCDP0\_NHCBOR0s/edit)
 4. **Decentralization**
    1. We are committed to full decentralization and community on all fronts, putting the protocol and token over the team or its individuals. This will be a work in progress for a long time, but is our focus and commitment.
 
-\*\*\*\*
-
+****
