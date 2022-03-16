@@ -20,10 +20,12 @@
 
 ### Addresses
 
-| Description | Address                                                                                                | Security |   |   |   |   |
-| ----------- | ------------------------------------------------------------------------------------------------------ | -------- | - | - | - | - |
-| Team        | [team.yup.eth](https://gnosis-safe.io/app/#/safes/0xd6d978728584D4Ca08324f2ae9B4A3215542D888/balances) | Multisig |   |   |   |   |
-| Treasury    | treasury.yup.eth                                                                                       | Multisig |   |   |   |   |
+| Team     | [team.yup.eth](https://gnosis-safe.io/app/#/safes/0xd6d978728584D4Ca08324f2ae9B4A3215542D888/balances) | Ethereum | Multisig |   |   |   |
+| -------- | ------------------------------------------------------------------------------------------------------ | -------- | -------- | - | - | - |
+| Treasury | treasury.yup.eth                                                                                       | Ethereum | Multisig |   |   |   |
+| DAO      | 0x5AbA4cb8EceB1727C7Fd0aa26d454ee3CC337a92                                                             | Polygon  | Multisig |   |   |   |
+| Manager  | 0x68f54249197D4e2b37AA32F13730A141810032e3                                                             | Polygon  | Multisig |   |   |   |
+| Team     | 0xd5a7220E472193E4c68a79240Cbc1Cb4b2A8624e                                                             | Polygon  | Multisig |   |   |   |
 
 
 
