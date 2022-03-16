@@ -18,12 +18,6 @@
 | YUP Airdrop Contract              | 0x859E08c222fe33a6fb7117838028821ad5031627                                                                             | Polygon  | Multisig |
 | YUPETH UNI LP V2 Airdrop Contract | 0x6E3f615B439Cdf800AA2D69A3d1D797A2BeAc5b8                                                                             | Polygon  | Multisig |
 
-|   |   |   |
-| - | - | - |
-|   |   |   |
-|   |   |   |
-|   |   |   |
-
 ### Addresses
 
 | Description | Address                                                                                                | Security |   |   |   |   |
