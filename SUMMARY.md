@@ -18,6 +18,7 @@
 * [Smart Contracts](protocol/smart-contracts.md)
 * [Motivations](protocol/motivations.md)
 * [Yup API](protocol/yup-api.md)
+* [Score API](protocol/score-api.md)
 * [Liquidity Providers](protocol/liquidity-providers.md)
 
 ## 🧸 Products

@@ -1,7 +1,7 @@
 # Score API Documentation
 
 {% hint style="success" %}
-**Base URL:** [**`http://api.yup.io`**](http://api.yup.io)**``**
+**Base URL:** [**`http://api.yup.io`**](http://api.yup.io)
 {% endhint %}
 
 {% tabs %}
@@ -10,8 +10,11 @@
 | ------ | --------------------------------------- | ---------------------------------------------------------------------- |
 | `GET`  | `/score?address={ENS or ETH address}`   |  Returns a reputation score from 0-100 for an EVM address or ENS name  |
 
-Rate limits: *50* requests per minute, per IP
-Query params: &lt;&lt;address&gt;&lt; - any EVM address or ENS
+&nbsp;
+
+**Rate limits:** *50* requests per minute, per IP
+
+**Query params:** &lt;&lt; address &gt;&gt; - any EVM address or ENS
 
 **Scores TTL:** currently scores are refreshed after **1 day**
 
@@ -40,114 +43,7 @@ Query params: &lt;&lt;address&gt;&lt; - any EVM address or ENS
                      "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
                   }
                },
-               {
-                  "name":"list.denarii.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"legendgames.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"klock.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"skynft.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"pool.denarii.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"satoshichained.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"vitalik.takoyaki.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"carsen.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"iamfuckingrich.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"vitalik-buterin.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"publicgod.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"denarius.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"elddem.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"denarii.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"v‍i‍t‍a‍l‍i‍k‍.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"vitalik.ethid.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"happybirthdayvitalik.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               },
-               {
-                  "name":"vitalik.eth",
-                  "owner":{
-                     "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
-                  }
-               }
+               "..."
             ],
             "count":19
          },
