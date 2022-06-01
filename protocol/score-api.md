@@ -291,7 +291,7 @@ var DefaultScoreWeights = ScoreWeights{
 
 ### Description
 
-Adapters will generate a score that is integrated into the final score, each adapter has with own way of impacting the score, most adaptors impact the score directly by using a specific weight.
+Adapters will generate a score that is integrated into the final score, each adapter has with own way of impacting the score, most adapters impact the score directly by using a specific weight.
 
 {% tabs %}
 {% tab title="Adapters Description" %}
