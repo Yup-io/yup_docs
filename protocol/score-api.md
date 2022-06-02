@@ -6,23 +6,20 @@
 
 {% tabs %}
 {% tab title="Request" %}
-| Method | Endpoint                                | Description                                                            |
-| ------ | --------------------------------------- | ---------------------------------------------------------------------- |
-| `GET`  | `/score?address={ENS or ETH address}`   |  Returns a reputation score from 0-100 for an EVM address or ENS name  |
+
+| Method | Endpoint                                | Description                                                             |
+|--------|-----------------------------------------|-------------------------------------------------------------------------|
+| `GET`  | `/score?address={ENS or ETH address}`   |  Returns a reputation score from 0-100 for an EVM address or ENS name <br>  **Query params:** {address} - any EVM address or ENS  |
+| `GET`  | `/score/weights`                        |  Returns a json object with the current weights names and values        |
 
 &nbsp;
 
 **Rate limits:** *50* requests per minute, per IP
 
-**Query params:** &lt;&lt; address &gt;&gt; - any EVM address or ENS
-
 **Scores TTL:** currently scores are refreshed after **1 day**
 
 {% endtab %}
-{% tab title="Response" %}
-
-{% endtab %}
-{% tab title="Response Example" %}
+{% tab title="Score Response Example" %}
 
 ```javascript
 {
@@ -159,25 +156,6 @@
  Snapshot            *SnapshotResult        `json:"snapshot_votes"`
  PoH                 *PoHResult             `json:"poh"`
  Partial             bool                   `json:"partial"`
-```
-
-{% endtab %}
-{% tab title="Adapters Weights" %}
-
-```plain
-var DefaultScoreWeights = ScoreWeights{
- Ens:                 0.14,
- EthBalance:          0.15,
- PolygonBalance:      0.15,
- PolygonNfts:         0.16,
- GnosisNFts:          0.064,
- EthNfts:             0.096,
- EthActivity:         0.08,
- RecentPolyTransfers: 0.04,
- RecentEthTransfers:  0.04,
- Snapshot:            0.04,
- EthERC20Tokens:      0.04,
-}
 ```
 
 {% endtab %}
