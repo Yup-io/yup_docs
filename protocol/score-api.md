@@ -165,29 +165,31 @@
 
 ### Description
 
-Adapters will generate a score that is integrated into the final score, each adapter has with own way of impacting the score, most adapters impact the score directly by using a specific weight.
+Each adapter calculates a score based on an accounts onchain activity. Adapter scores are weighted and summed to generate the final Yup score.
 
 {% tabs %}
 {% tab title="Adapters Description" %}
-Adapter Name                             | Description                                                            |
+Adapter                             | Description                                                            |
  --------------------------------------- | ---------------------------------------------------------------------- |
-ETH Balance   |  retrieves and scores ETH balance |
-Polygon Balance  |  retrieves and scores Polygon balance |
-ETH NFTs   |  retrieves and scores ETH NFTs  |
-Gnosis NFTs   | retrieves and scores Gnosis (xdai) NFTs  |
-Polygon NFTs |  retrieves and scores Polygon NFTs  |
-ETH Activity |  retrieves and scores transactions on ETH chain |
-ETH Age | retrieves and scores transactions TX age on ETH chain  |
-ETH TX Count |  retrieves and scores transactions count |
-Recent Poly Transfers |  retrieves and scores recent transactions on Polygon and also finds related addresses |
-Recent ETH Transfers | retrieves and scores recent transactions on ETH and also finds related addresses  |
-Eth ERC20 Tokens | retrieves and scores ERC20 tokens  |
-Snapshot  | retrieves and scores snapshot votes  |
-PoH |  retrieves POH status  |
+ENS  |  retrieves ENS domains held |
+Ethereum Balance   |  retrieves Ethereum balance |
+Polygon Balance  |  retrieves Polygon balance |
+Ethereum NFTs   |  retrieves Ethereum NFTs held |
+Gnosis NFTs   | retrieves Gnosis (xDai) NFTs held |
+Polygon NFTs |  retrieves Polygon NFTs held |
+Ethereum Activity |  retrieves recent transactions on Ethereum |
+Ethereum Age | retrieves Ethereum account age (e.g., time since first tx) |
+Ethereum Tx Count |  retrieves Ethereum tx count |
+Recent Polygon Transfers |  retrieves recent transfers on Polygon and finds related addresses |
+Recent Ethereum Transfers | retrieves recent transfers on Ethereum and finds related addresses  |
+Ethereum ERC20 Tokens | retrieves ERC20 tokens held  |
+Snapshot  | retrieves snapshot vote count |
+Proof of Humanity (PoH) |  retrieves PoH status  |
 {% endtab %}
 {% tab title="Adapters Impact method" %}
 Adapter Name                             | Description                                                            |
  --------------------------------------- | ---------------------------------------------------------------------- |
+ENS  |  retrieves ENS domains held |
 ETH Balance   |  by weight |
 Polygon Balance  |   by weight |
 ETH NFTs   |   by weight |
@@ -200,6 +202,6 @@ Recent Poly Transfers |   by weight |
 Recent ETH Transfers | by weight |
 Eth ERC20 Tokens |  by weight|
 Snapshot  |  by weight  |
-PoH |  by boosting the total score by 10%  |
+Proof of Humanity |  by boosting the total score by 10%  |
 {% endtab %}
 {% endtabs %}
