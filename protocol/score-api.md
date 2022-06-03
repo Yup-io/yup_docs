@@ -187,7 +187,7 @@ Snapshot  | retrieves snapshot vote count |
 Proof of Humanity (PoH) |  retrieves PoH status  |
 {% endtab %}
 {% tab title="Adapters Impact method" %}
-Adapter Name                             | Weight                                                            |
+Adapter Name                             | Description                                                            |
  --------------------------------------- | ---------------------------------------------------------------------- |
 ENS  |  retrieves ENS domains held |
 ETH Balance   |  by weight |
