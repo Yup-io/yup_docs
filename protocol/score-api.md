@@ -10,7 +10,7 @@
 | Method | Endpoint                                | Description                                                             |
 |--------|-----------------------------------------|-------------------------------------------------------------------------|
 | `GET`  | `/score?address={ENS or ETH address}`   |  Returns a reputation score from 0-100 for an EVM address or ENS name <br>  **Query params:** {address} - any EVM address or ENS  |
-| `GET`  | `/score/weights`                        |  Returns a json object with the current weights names and values        |
+| `GET`  | `/score/weights`                        |  Returns a json object with the current weights, names, and values        |
 
 &nbsp;
 
@@ -40,14 +40,14 @@
                      "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045"
                   }
                },
-               "..."
+               ...
             ],
             "count":19
          },
-         "eth_balance":{
-            "score":78.51598768715968,
-            "balance":39.25799384357984,
-            "chain_id":"137"
+         "eth_balance": {
+            "score": 100,
+            "balance": 4092.474632847039,
+            "chain_id": "1"
          },
          "eth_nfts":{
             "score":100,
@@ -87,9 +87,7 @@
             "score":0,
             "start_period":27779705,
             "end_period":29017311,
-            "related_addresses":[
-               
-            ],
+            "related_addresses":[],
             "chain":"137"
          },
          "recent_eth_transfers":{
