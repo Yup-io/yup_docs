@@ -148,8 +148,6 @@
  PolygonNfts         *NFTPolyResult         `json:"polygon_nfts"`
  PolygonBalance      *NativeBalanceResult   `json:"polygon_balance"`
  EthActivity         *EthActivityResult     `json:"eth_activity"`
- EthAge              *EthAgeResult          `json:"eth_age"`
- EthTxnCount         *EthTxnCountResult     `json:"eth_txn_count"`
  RecentPolyTransfers *RecentTransfersResult `json:"recent_polygon_transfers"`
  RecentEthTransfers  *RecentTransfersResult `json:"recent_eth_transfers"`
  EthERC20Tokens      *ETHERC20Result        `json:"eth_erc20_tokens"`
@@ -177,31 +175,27 @@ Polygon Balance  |  retrieves Polygon balance |
 Ethereum NFTs   |  retrieves Ethereum NFTs held |
 Gnosis NFTs   | retrieves Gnosis (xDai) NFTs held |
 Polygon NFTs |  retrieves Polygon NFTs held |
-Ethereum Activity |  retrieves recent transactions on Ethereum |
-Ethereum Age | retrieves Ethereum account age (e.g., time since first tx) |
-Ethereum Tx Count |  retrieves Ethereum tx count |
+Ethereum Activity |  retrieves Ethereum tx count and account age |
 Recent Polygon Transfers |  retrieves recent transfers on Polygon and finds related addresses |
 Recent Ethereum Transfers | retrieves recent transfers on Ethereum and finds related addresses  |
 Ethereum ERC20 Tokens | retrieves ERC20 tokens held  |
 Snapshot  | retrieves snapshot vote count |
 Proof of Humanity (PoH) |  retrieves PoH status  |
 {% endtab %}
-{% tab title="Adapters Impact method" %}
+{% tab title="Adapters Impact" %}
 Adapter Name                             | Description                                                            |
  --------------------------------------- | ---------------------------------------------------------------------- |
-ENS  |  retrieves ENS domains held |
-ETH Balance   |  by weight |
+ENS  |  by weight |
+Ethereum Balance   |  by weight |
 Polygon Balance  |   by weight |
-ETH NFTs   |   by weight |
+Ethereum NFTs   |   by weight |
 Gnosis NFTs   | by weight  |
 Polygon NFTs |  by weight  |
-ETH Activity |  by weight |
-ETH Age |  by weight  |
-ETH TX Count |  by weight |
-Recent Poly Transfers |   by weight |
-Recent ETH Transfers | by weight |
-Eth ERC20 Tokens |  by weight|
+Ethereum Activity |  by weight |
+Recent Polygon Transfers |   by weight |
+Recent Ethereum Transfers | by weight |
+Ethereum ERC20 Tokens |  by weight|
 Snapshot  |  by weight  |
-Proof of Humanity |  by boosting the total score by 10%  |
+Proof of Humanity |  boosts total score by 10% if registered |
 {% endtab %}
 {% endtabs %}
