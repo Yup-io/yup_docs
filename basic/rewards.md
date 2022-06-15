@@ -2,22 +2,16 @@
 
 ## How to earn YUP
 
-Users can make money by receiving YUP tokens as rewards for curating and/or [liquidity providing](https://medium.com/cardwallet/providing-liquidity-what-does-it-mean-and-how-does-it-work-2a0ad0ea2a2d).
-
-Users earn money by receiving YUP tokens for rating content.
+Users can make money by receiving YUP tokens as rewards for curating and/or providing [liquidity](https://medium.com/cardwallet/providing-liquidity-what-does-it-mean-and-how-does-it-work-2a0ad0ea2a2d).
 
 ### **Curate-to-earn**
 
 #### The Process
 
-The Yup [protocol](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/protocol.md) determines the monetary value of each vote based on each voter's [influence](https://docs.yup.io/#/protocol?id=influence). For example, if 100 [YUP](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/token.md) is being distributed in 1 hour and your rating’s influence makes up 5% of all rating influence in that 1 hour, your rating is worth 5 YUP. Yup then rewards that money to all previous users who rated the same as you AND rewards the creator of the content.
+The Yup [protocol](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/protocol.md) determines the monetary value of each vote based on each voter's [influence](https://docs.yup.io/#/protocol?id=influence). For example, if 100 [YUP](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/token.md) is being distributed in 1 hour and your rating’s influence makes up 5% of all rating influence in that 1 hour, your rating is worth 5 YUP. Yup then rewards that money to all previous users who liked the same as you AND rewards the creator of the content.
 
-The Yup [YUP](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/token.md) is being distributed in 1 hour and your rating’s influence makes up 5% of all rating influence in that 1 hour, your rating is worth 5 YUP. Yup then rewards that money to all previous users who rated the same as you AND rewards the creator of the content.
-
-For example, if 100 [YUP](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/token.md) is being distributed in a given hour, and the users' influence makes up 5% of all rating influence in that hour, their rating is worth 5 YUP. The Yup Protocol then distributes YUP tokens to all other users who gave the same rating, as well as the creator of the content.
-
-1. You rate content on a scale of 1-5.
-2. Someone else gives that content the same rating.
+1. You like or dislike the content.
+2. Someone else also likes/dislikes the same content.
 3. You receive a portion of the monetary value of their rating.
 4. And so on! The more ratings that agree with you, the more you earn.
 
