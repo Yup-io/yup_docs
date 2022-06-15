@@ -2,28 +2,26 @@
 description: Understanding the rating system
 ---
 
-# Rating
+# Liking
 
-## Rating (Dots)
+## Likes&#x20;
 
-![](<../.gitbook/assets/dotgraphw (1).png>)
+Yup allows you to like the social value of all content, and earn money and influence for your opinions. You can like content on any website with the Yup Extension or app.&#x20;
 
-Yup allows you to rate and see the social value of all content, and earn money and influence for your opinions. You can rate with the Yup Extension on any website, or through overlays on the page itself on Twitter, YouTube, Google Maps, and more.
+### How do likes work?
 
-### How do ratings work?
+Yup lets you like content on a simple "thumbs up / thumbs down" system. If you really like something, you can hit thumbs up twice or three times for a stronger rating. Likewise, if you really dislike something, you can hit thumbs down multiple times.
 
-![](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/media/dotgraphw.png)
+![](<../.gitbook/assets/Screen Recording 2022-06-13 at 11.27.25 AM (2).gif>)
 
-Yup lets you rate content out of 5 dots - 1/5 is the worst and 5/5 is the best. More opinionated ratings (like 1/5 or 5/5) multiply your earnings, but they cost more! You can only give five 5/5 ratings per day.
+The numbers next to each button represent the 'weighted like count', aka the number of people that liked that piece of content, either positive or negative, weighted by their Yup Influence.
 
-The dots are a simplified implementation of quadratic voting. 2/5 and 3/5 are considered low-cost ratings, costing 1 vote each. 1/5 and 4/5 each cost 4 votes, and 5/5, the most extreme, costs 9 votes. Users have 40 votes per 24 hours.
+NOTE: Yup previously used a more complex rating system, which used dots to rate content by quintile across a number of categories.  These existing ratings have been converted to the thumbs up/thumbs down, representing the net positive or negative opinion of the community.&#x20;
 
 ### Using the Extension
 
-Rate any webpage simply by clicking the Yup Extension.
+Rate any webpage simply by clicking the Yup Extension in your browser. The thumb buttons will record your rating in the protocol.&#x20;
 
 ### **Rating on overlaid sites**
 
 Certain websites are integrated directly with Yup. Use the embedded Yup buttons to rate content on Twitter, YouTube, Google Maps, and more.
-
-![](../.gitbook/assets/twitdemo.gif)

@@ -1,4 +1,4 @@
-# Score API Documentation
+# Score API
 
 {% hint style="success" %}
 **Base URL:** [**`http://api.yup.io`**](http://api.yup.io)
@@ -6,21 +6,19 @@
 
 {% tabs %}
 {% tab title="Request" %}
+| Method | Endpoint                              | Description                                                                                                                                      |
+| ------ | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| `GET`  | `/score?address={ENS or ETH address}` | <p>Returns a reputation score from 0-100 for an EVM address or ENS name<br><strong>Query params:</strong> {address} - any EVM address or ENS</p> |
+| `GET`  | `/score/weights`                      | Returns a json object with the current weights, names, and values                                                                                |
 
-| Method | Endpoint                                | Description                                                             |
-|--------|-----------------------------------------|-------------------------------------------------------------------------|
-| `GET`  | `/score?address={ENS or ETH address}`   |  Returns a reputation score from 0-100 for an EVM address or ENS name <br>  **Query params:** {address} - any EVM address or ENS  |
-| `GET`  | `/score/weights`                        |  Returns a json object with the current weights, names, and values        |
+&#x20;
 
-&nbsp;
-
-**Rate limits:** *50* requests per minute, per IP
+**Rate limits:** _50_ requests per minute, per IP
 
 **Scores TTL:** currently scores are refreshed after **1 day**
-
 {% endtab %}
-{% tab title="Score Response Example" %}
 
+{% tab title="Score Response Example" %}
 ```javascript
 {
    "data":{
@@ -133,11 +131,10 @@
    }
 }
 ```
-
 {% endtab %}
-{% tab title="Adapters Structure" %}
 
-```plain
+{% tab title="Adapters Structure" %}
+```
  Score               *float64               `json:"score"`
  Ens                 *EnsResult             `json:"ens"`
  EthBalance          *NativeBalanceResult   `json:"eth_balance"`
@@ -153,7 +150,6 @@
  PoH                 *PoHResult             `json:"poh"`
  Partial             bool                   `json:"partial"`
 ```
-
 {% endtab %}
 {% endtabs %}
 
@@ -165,35 +161,36 @@ Each adapter calculates a score based on an accounts onchain activity. Adapter s
 
 {% tabs %}
 {% tab title="Adapters Description" %}
-Adapter                             | Description                                                            |
- --------------------------------------- | ---------------------------------------------------------------------- |
-ENS  |  retrieves ENS domains held |
-Ethereum Balance   |  retrieves Ethereum balance |
-Polygon Balance  |  retrieves Polygon balance |
-Ethereum NFTs   |  retrieves Ethereum NFTs held |
-Gnosis NFTs   | retrieves Gnosis (xDai) NFTs held |
-Polygon NFTs |  retrieves Polygon NFTs held |
-Ethereum Activity |  retrieves Ethereum tx count and account age |
-Recent Polygon Transfers |  retrieves recent transfers on Polygon and finds related addresses |
-Recent Ethereum Transfers | retrieves recent transfers on Ethereum and finds related addresses  |
-Ethereum ERC20 Tokens | retrieves ERC20 tokens held  |
-Snapshot  | retrieves snapshot vote count |
-Proof of Humanity (PoH) |  retrieves PoH status  |
+| Adapter                   | Description                                                        |
+| ------------------------- | ------------------------------------------------------------------ |
+| ENS                       | retrieves ENS domains held                                         |
+| Ethereum Balance          | retrieves Ethereum balance                                         |
+| Polygon Balance           | retrieves Polygon balance                                          |
+| Ethereum NFTs             | retrieves Ethereum NFTs held                                       |
+| Gnosis NFTs               | retrieves Gnosis (xDai) NFTs held                                  |
+| Polygon NFTs              | retrieves Polygon NFTs held                                        |
+| Ethereum Activity         | retrieves Ethereum tx count and account age                        |
+| Recent Polygon Transfers  | retrieves recent transfers on Polygon and finds related addresses  |
+| Recent Ethereum Transfers | retrieves recent transfers on Ethereum and finds related addresses |
+| Ethereum ERC20 Tokens     | retrieves ERC20 tokens held                                        |
+| Snapshot                  | retrieves snapshot vote count                                      |
+| Proof of Humanity (PoH)   | retrieves PoH status                                               |
 {% endtab %}
+
 {% tab title="Adapters Impact" %}
-Adapter Name                             | Description                                                            |
- --------------------------------------- | ---------------------------------------------------------------------- |
-ENS  |  by weight |
-Ethereum Balance   |  by weight |
-Polygon Balance  |   by weight |
-Ethereum NFTs   |   by weight |
-Gnosis NFTs   | by weight  |
-Polygon NFTs |  by weight  |
-Ethereum Activity |  by weight |
-Recent Polygon Transfers |   by weight |
-Recent Ethereum Transfers | by weight |
-Ethereum ERC20 Tokens |  by weight|
-Snapshot  |  by weight  |
-Proof of Humanity |  boosts total score by 10% if registered |
+| Adapter Name              | Description                             |
+| ------------------------- | --------------------------------------- |
+| ENS                       | by weight                               |
+| Ethereum Balance          | by weight                               |
+| Polygon Balance           | by weight                               |
+| Ethereum NFTs             | by weight                               |
+| Gnosis NFTs               | by weight                               |
+| Polygon NFTs              | by weight                               |
+| Ethereum Activity         | by weight                               |
+| Recent Polygon Transfers  | by weight                               |
+| Recent Ethereum Transfers | by weight                               |
+| Ethereum ERC20 Tokens     | by weight                               |
+| Snapshot                  | by weight                               |
+| Proof of Humanity         | boosts total score by 10% if registered |
 {% endtab %}
 {% endtabs %}

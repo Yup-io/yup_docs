@@ -12,7 +12,7 @@ Learn more: [YUP](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd46510980
 
 On certain sites, information and Yup functions are overlaid for better use.
 
-![](../../.gitbook/assets/extension.gif)
+<img src="../../.gitbook/assets/extension.gif" alt="" data-size="original">
 
 
 

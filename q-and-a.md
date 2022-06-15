@@ -12,11 +12,11 @@ Unfortunately, you cannot reset your password. However you can create a new acco
 
 **I've been approved, but I can't login. What should I do?**
 
-If you sign up with your email on [yup.io](http://yup.io) and receive approval, that only means your email has been approved. It _does not_ mean that your account has been created. To create your account, download the [Yup extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) and use your approved email to sign up. Please contact us if you're still having trouble!
+If you sign up with your email on [yup.io](http://yup.io/) and receive approval, that only means your email has been approved. It _does not_ mean that your account has been created. To create your account, download the [Yup extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) and use your approved email to sign up. Please contact us if you're still having trouble!
 
 **Why am I getting an "email not found" message?**
 
-If you signed up on [yup.io](http://yup.io) and have been approved, _you still need to create an account_ with that email to finish sign-up. Try signing up on the extension, instead logging in.
+If you signed up on [yup.io](http://yup.io/) and have been approved, _you still need to create an account_ with that email to finish sign-up. Try signing up on the extension, instead logging in.
 
 **Can I unlink my Twitter account?**
 
@@ -44,7 +44,7 @@ You earn YUP when others rate the same content as you or rate content you create
 
 **Is YUP an ERC-20 token?**
 
-It is not, however you can convert YUP into an ERC-20 token using the Yup bridge on [yup.finance](http://yup.finance).
+It is not, however you can convert YUP into an ERC-20 token using the Yup bridge on [yup.finance](http://yup.finance/).
 
 **How is YUP distributed?**
 
@@ -87,8 +87,8 @@ Visit [app.yup.io/staking](http://app.yup.io/staking) to begin staking YUP-ETH a
 **Why is \_\_\_\_ not working?**&#x20;
 
 \
-Please report any bugs you find to [yup.canny.io](http://yup.canny.io), and the Yup team will resolve the issue ASAP.
+Please report any bugs you find to [yup.canny.io](http://yup.canny.io/), and the Yup team will resolve the issue ASAP.
 
-If someone has already reported your issue on [Canny](https://yup.canny.io), upvote it to help our team prioritize the issue!
+If someone has already reported your issue on [Canny](https://yup.canny.io/), upvote it to help our team prioritize the issue!
 
 ###

@@ -24,12 +24,12 @@ Now that Yup is on Polygon you will need some [MATIC](https://www.kraken.com/en-
 
 Some of you may already hold MATIC, but if you’re new to the low-fee wonderland of Polygon, here are our recommended ways to get some:
 
-\*\*[Binance](https://www.binance.com/en), [FTX](https://ftx.us/?fromIntl=true), [OKX](https://www.okx.com) or other centralized exchanges with native MATIC (Does not require Polygon bridge)\*\*Many centralized exchange other than Coinbase allow you to purchase native MATIC tokens directly without the Polygon Bridge (sweeet). If you’re signed up on one of these exchanges simply…
+\*\*[Binance](https://www.binance.com/en), [FTX](https://ftx.us/?fromIntl=true), [OKX](https://www.okx.com/) or other centralized exchanges with native MATIC (Does not require Polygon bridge)\*\*Many centralized exchange other than Coinbase allow you to purchase native MATIC tokens directly without the Polygon Bridge (sweeet). If you’re signed up on one of these exchanges simply…
 
 1. Simply purchase MATIC as you would any other token
 2. Send to the Polygon address associated with your Yup account. It’s that easy.
 
-[**Coinbase**](http://coinbase.com) **(requires Polygon bridge)**
+[**Coinbase**](http://coinbase.com/) **(requires Polygon bridge)**
 
 This option requires using the [Polygon Bridge](https://docs.polygon.technology/docs/faq/wallet-bridge-faq/) (a transfer between Polygon and Ethereum), so will cost you an extra Ethereum transaction fee. However, this is still probably the best option if Coinbase is your main crypto gateway.
 

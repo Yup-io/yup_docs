@@ -6,7 +6,7 @@
 
 ## 😅 Basic
 
-* [Rating](basic/rating.md)
+* [Liking](basic/rating.md)
 * [Rewards](basic/rewards.md)
 * [Integrations](basic/integrations.md)
 * [Categories](basic/categories.md)
