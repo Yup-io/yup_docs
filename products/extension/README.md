@@ -20,8 +20,7 @@ On certain sites, information and Yup functions are overlaid for better use.
 
 The extension functions as both a tool for Yup-related actions and a crypto account. You can use it by clicking on the extension itself or by using overlaid buttons on certain sites. Additionally, you can use traditional reactions (i.e. Twitter likes, Reddit upvotes, Gmaps ratings) and they’ll be treated as a Yup rating too!
 
-Learn more: [Rating](../../basic/rating.md) | [Specs](../../specs.md)
-
+Learn more: [Rating](../../basic/rating.md) 
 ![](../../.gitbook/assets/rewards.gif)
 
 YUP tokens can be sent to other accounts. But don't send them all! They help build Influence, which can earn you more rewards in the future.
