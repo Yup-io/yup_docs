@@ -20,7 +20,7 @@ On certain sites, information and Yup functions are overlaid for better use.
 
 The extension functions as both a tool for Yup-related actions and a crypto account. You can use it by clicking on the extension itself or by using overlaid buttons on certain sites. Additionally, you can use traditional reactions (i.e. Twitter likes, Reddit upvotes, Gmaps ratings) and they’ll be treated as a Yup rating too!
 
-Learn more: [Rating](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/rating.md) | [Specs](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/specs.md)
+Learn more: [Rating](../../basic/rating.md) | [Specs](../../specs.md)
 
 ![](../../.gitbook/assets/rewards.gif)
 
