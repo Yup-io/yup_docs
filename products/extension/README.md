@@ -26,7 +26,7 @@ Learn more: [Rating](../../basic/rating.md) | [Specs](../../specs.md)
 
 YUP tokens can be sent to other accounts. But don't send them all! They help build Influence, which can earn you more rewards in the future.
 
-Learn more: [Influence](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/influence.md) | [Rewards](https://app.gitbook.com/s/-MQyY9tFMeG85lSwDcf--887967055/products/rewards.md)
+Learn more: [Influence](../../protocol/yup-protocol.md#influence) | [Rewards](../../basic/rewards.md)
 
 **Requirements:** _Chrome_, _Opera_, _Brave_, or _Firefox_ browsers.
 
