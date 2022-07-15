@@ -8,7 +8,7 @@ With the Yup extension, you can earn rewards as you regularly browse the interne
 
 The Yup Extension gives you the ability to express your opinion on any site on the Internet, on a scale of 1-5 in categories such as ‘popular’, ‘smart’, and ‘funny’. When other users give the same opinion on the same content, you earn YUP tokens and influence!
 
-Learn more: [YUP](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/token.md) | [Influence](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/influence.md) | [Categories](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/categories.md) | [Rewards](https://app.gitbook.com/s/-MQyY9tFMeG85lSwDcf--887967055/products/rewards.md)
+Learn more: [YUP](basic/token.md) | [Influence](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/influence.md) | [Categories](https://github.com/Yup-io/yup\_docs/tree/24938ac610bbd465109806ec69fb9e97054f2399/categories.md) | [Rewards](https://app.gitbook.com/s/-MQyY9tFMeG85lSwDcf--887967055/products/rewards.md)
 
 On certain sites, information and Yup functions are overlaid for better use.
 
