@@ -8,7 +8,7 @@ Your account can take up to 72 hours to be approved.
 
 **How do I reset my password?**
 
-Unfortunately, you cannot reset your password. However you can create a new account using another email or Twitter account and we will approve you ASAP!
+Unfortunately, you cannot reset your password. However, you can create a new account using another email or Twitter account and we will approve you ASAP!
 
 **I've been approved, but I can't login. What should I do?**
 

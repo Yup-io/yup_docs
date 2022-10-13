@@ -6,7 +6,7 @@ Rating categories are pre-set adjectives (smart, popular, funny) which express a
 
 _For example, if you find a video entertaining, you can rate it 4/5 in the "like" category. If you also think it's stupid, you can rate it 2/5 in the "smart" category._
 
-Users only receive rewards when others rate in the same category with the same sentiment sentiment (positive or negative). If you think something is smart, you only get rewarded if others do too, not if they think it’s funny.
+Users only receive rewards when others rate in the same category with the same sentiment (positive or negative). If you think something is smart, you only get rewarded if others do too, not if they think it’s funny.
 
 
 
