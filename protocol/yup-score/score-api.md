@@ -1,8 +1,8 @@
 # Score API
 
-{% hint style="success" %}
+The Yup Score provides a reputation metric for every EVM/Ethereum address by aggregating their on-chain actions and ranking them between 1-100. The weight of each action is determined by its social value.\
+\
 **Base URL:** [**`http://api.yup.io`**](http://api.yup.io)
-{% endhint %}
 
 {% tabs %}
 {% tab title="Request" %}

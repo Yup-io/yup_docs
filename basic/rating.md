@@ -16,11 +16,9 @@ Yup lets you like content on a simple "thumbs up / thumbs down" system. If you r
 
 The numbers next to each button represent the 'weighted like count', aka the number of people that liked that piece of content, either positive or negative, weighted by their Yup Influence.
 
-NOTE: Yup previously used a more complex rating system, which used dots to rate content by quintile across a number of categories.  These existing ratings have been converted to the thumbs up/thumbs down, representing the net positive or negative opinion of the community.&#x20;
-
 ### Using the Extension
 
-Rate any webpage simply by clicking the Yup Extension in your browser. The thumb buttons will record your rating in the protocol.&#x20;
+Like any webpage simply by clicking the Yup Extension in your browser. The thumb buttons will record your rating in the protocol.&#x20;
 
 ### **Rating on overlaid sites**
 
