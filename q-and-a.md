@@ -36,11 +36,11 @@ Fill out this type form with your specific problem and our support team will hel
 
 **Where can I buy/swap/trade YUP tokens?**
 
-You can buy/swap/trade YUP on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9\&outputCurrency=ETH).
+You can buy/swap/trade YUP on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9\&outputCurrency=ETH) using the Ethereum network or on [Quickswap ](https://quickswap.exchange/#/swap?inputCurrency=0x086373fad3447f7f86252fb59d56107e9e0faafa\&outputCurrency=ETH)using the Polygon network.
 
 **How do I earn YUP?**
 
-You earn YUP when others rate the same content as you or rate content you created. Keep in mind that rewards are distributed approximately every 12 hours, so you won't receive YUP instantly. You can see when rewards will be distributed next in the Yup Extension.
+You earn YUP when others rate the same content as you or rate content you created. Keep in mind that rewards are distributed approximately every 24 hours, so you won't receive YUP instantly. You can see when rewards will be distributed next in the Yup Extension.
 
 **Is YUP an ERC-20 token?**
 

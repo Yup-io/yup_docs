@@ -9,7 +9,6 @@
 * [Liking](basic/rating.md)
 * [Rewards](basic/rewards.md)
 * [Integrations](basic/integrations.md)
-* [Categories](basic/categories.md)
 * [Colors](basic/colors.md)
 
 ## 🤖 Protocol
