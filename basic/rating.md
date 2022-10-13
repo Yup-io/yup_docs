@@ -22,4 +22,4 @@ Like any webpage simply by clicking the Yup Extension in your browser. The thumb
 
 ### **Rating on overlaid sites**
 
-Certain websites are integrated directly with Yup. Use the embedded Yup buttons to rate content on Twitter, YouTube, Google Maps, and more.
+Certain websites are integrated directly with Yup. Use the embedded Yup buttons to curate content on Twitter, YouTube, Open Sea, and more.
