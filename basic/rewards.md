@@ -43,29 +43,11 @@ Finally, LP rewards are split evenly between the Ethereum and Polygon pools - 50
 
 _As always, this is not financial advice. Just giving you the lay of the land, kind stranger._
 
-__\
-__\
-__**Providing Liquidity on Ethereum L1**
 
-_Prerequisites:_
-
-* Hold some ETH for providing liquidity and paying for transactions
-* Hold ≥ 0.5 MATIC for transactions, preferably ≥ 3 MATIC (Polygon)
-
-1. The first step in providing liquidity for Yup on Ethereum is acquiring YUP. This can be achieved by curating the web using the [Yup Extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) or app, or by purchasing some YUP from [Uniswap ](https://app.uniswap.org/#/swap?inputCurrency=0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9\&outputCurrency=ETH\&chain=mainnet)and then adding liquidity to the [YUP/ETH pool](https://app.uniswap.org/#/add/v2/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9/ETH?chain=mainnet). If you want to provide liquidity on Ethereum and have earned or purchased YUP on Polygon, you must bridge your tokens to Ethereum using the polygon bridge (see [polygon bridge guide](https://medium.com/stakingbits/guide-to-using-the-matic-bridge-to-bridge-tokens-from-ethereum-to-polygon-c3e66cf3d334)).&#x20;
-2. Hold ≥ 0.5 MATIC for transactions, preferably ≥ 3 MATIC (Polygon)
-3. Once you have YUP on Ethereum, go to the [YUP/ETH pool on Uniswap](https://app.uniswap.org/#/add/v2/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9/ETH)
-4. Input an equal value of YUP and ETH into the pool and collect your YUP/ETH Uniswap LP token. You now have your golden ticket to start earning YUP.
-5. Go to the[ Polygon Bridge](https://wallet.polygon.technology/login?next=%2Fbridge) and connect the wallet that holds your YUP-ETH token.
-6. Search for "YUP-ETH" under token and select the amount you want to send (probably max).
-7. Hit "Transfer". Approve and confirm your transaction and bada-bing-bada-boom, your LP tokens are on Polygon!
-8. Finally go to [app.yup.io/staking](http://app.yup.io/staking), go to the Uniswap V2 on Ethereum staking pool, hit  “Stake” and Congratufrickinlations, you’re earning YUP on Polygon!
-
-****
 
 **Providing Liquidity on Polygon**
 
-Providing liquidity on Polygon is more or less the same as on Ethereum but lucky for you there’s a few less steps.
+Providing liquidity on Polygon is more or less the same as on Ethereum but lucky for you there are a few less steps.
 
 _Pre-requisite_
 
