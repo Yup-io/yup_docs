@@ -2,7 +2,7 @@
 
 The Yup Score provides a reputation metric for every EVM/Ethereum address by aggregating their on-chain actions and ranking them between 1-100. The weight of each action is determined by its social value.\
 \
-**Base URL:** [**`http://api.yup.io`**](http://api.yup.io)
+**Base URL:** [**`https://api.yup.io`**](https://api.yup.io)
 
 {% tabs %}
 {% tab title="Request" %}
@@ -23,7 +23,7 @@ The Yup Score provides a reputation metric for every EVM/Ethereum address by agg
 {
    "data":{
       "id":"0xd8da6bf26964af9d7eed9e03e53415d37aa96045",
-      "score":86,
+      "yup_score":86,
       "expiration":"2022-06-02T03:14:55.836652Z",
       "last_updated":"2022-06-01T03:14:55.836652Z",
       "score_data":{
@@ -135,7 +135,7 @@ The Yup Score provides a reputation metric for every EVM/Ethereum address by agg
 
 {% tab title="Adapters Structure" %}
 ```
- Score               *float64               `json:"score"`
+ Score               *float64               `json:"yup_score"`
  Ens                 *EnsResult             `json:"ens"`
  EthBalance          *NativeBalanceResult   `json:"eth_balance"`
  EthNfts             *NFTEthResult          `json:"eth_nfts"`
