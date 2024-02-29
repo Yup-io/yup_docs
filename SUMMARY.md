@@ -5,7 +5,7 @@
 
 ## 😅 Basic
 
-* [Rewards](basic/rewards.md)
+* [YUP Rewards](basic/rewards.md)
 * [Integrations](basic/integrations.md)
 * [Colors](basic/colors.md)
 
