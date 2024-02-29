@@ -5,7 +5,6 @@
 
 ## 😅 Basic
 
-* [Liking](basic/rating.md)
 * [Rewards](basic/rewards.md)
 * [Integrations](basic/integrations.md)
 * [Colors](basic/colors.md)
