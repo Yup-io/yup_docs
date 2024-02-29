@@ -8,7 +8,6 @@
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------- | -------- |
 | YUP Token                         | [0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9](https://etherscan.io/token/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9)    | Ethereum | Multisig |
 | YUP Token                         | [0x086373fad3447F7F86252fb59d56107e9E0FaaFa](https://polygonscan.com/token/0x086373fad3447F7F86252fb59d56107e9E0FaaFa) | Polygon  | Multisig |
-| Yup Protocol                      | [yupyupyupyup](https://bloks.io/account/yupyupyupyup)                                                                  | DSPs     | SC       |
 | Protocol Manager                  | 0xBA425e44ACADc12C90Fd49814C2Eb01CdA117436                                                                             | Polygon  | Multisig |
 | Content Rewards                   | 0x85875e6Bb60417f0944c6BeCff37ff7a87c0737c                                                                             | Polygon  | Multisig |
 | Poly UNI LP Token                 | 0x5b51f8a6651e4d45d0e3d0131e73b30b7e3443f4                                                                             | Ethereum | Multisig |
