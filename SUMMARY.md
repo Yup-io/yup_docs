@@ -5,11 +5,12 @@
 
 ## 😅 Basic
 
-* [YUP Rewards](basic/rewards.md)
 * [Integrations](basic/integrations.md)
 
 ## 🤖 Protocol
 
+* [YUP Rewards](protocol/rewards.md)
+* [YUP Token Emissions](protocol/yup-token-emissions.md)
 * [Yup Protocol](protocol/yup-protocol.md)
 * [Yup Score](protocol/yup-score/README.md)
   * [Score API](protocol/yup-score/score-api.md)
