@@ -7,7 +7,7 @@
 
 * [Integrations](basic/integrations.md)
 
-## 🤖 Protocol
+## 🪙 Protocol
 
 * [YUP Rewards](protocol/rewards.md)
 * [YUP Token Emissions](protocol/yup-token-emissions.md)
