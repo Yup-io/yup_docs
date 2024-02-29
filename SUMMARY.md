@@ -19,12 +19,10 @@
 
 ## 🧸 Products
 
-* [App](products/app.md)
-* [Extension](products/extension/README.md)
-  * [Setup](products/extension/setup.md)
-  * [Firefox Add-On](products/extension/firefox.md)
-* [Yup Site](https://yup.io)
-* [Glossary + Citations](products/glossary-+-citations.md)
+* [🍏 Mobile (iOS)](https://apps.apple.com/us/app/yup-open-social-all-in-one/id6444166343)
+* [🤖 Mobile (Android)](https://play.google.com/store/apps/details?id=io.yup.app)
+* [🌐 Yup Site](https://yup.io)
+* [💻 Web App](https://app.yup.io)
 
 ***
 
