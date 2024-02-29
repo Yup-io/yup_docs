@@ -7,7 +7,6 @@
 
 * [YUP Rewards](basic/rewards.md)
 * [Integrations](basic/integrations.md)
-* [Colors](basic/colors.md)
 
 ## 🤖 Protocol
 
@@ -15,8 +14,6 @@
 * [Yup Score](protocol/yup-score/README.md)
   * [Score API](protocol/yup-score/score-api.md)
 * [Smart Contracts](protocol/smart-contracts.md)
-* [Motivations](protocol/motivations.md)
-* [Yup API](protocol/yup-api.md)
 * [Liquidity Providers](protocol/liquidity-providers.md)
 
 ## 🧸 Products
