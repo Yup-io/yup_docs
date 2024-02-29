@@ -1,7 +1,6 @@
 # Table of contents
 
 * [Getting Started](README.md)
-* [Help Center](https://help.yup.io)
 * [FAQ](q-and-a.md)
 
 ## 😅 Basic

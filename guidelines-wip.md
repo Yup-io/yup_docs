@@ -36,4 +36,3 @@
 4. **Decentralization**
    1. We are committed to full decentralization and community on all fronts, putting the protocol and token over the team or its individuals. This will be a work in progress for a long time, but is our focus and commitment.
 
-****

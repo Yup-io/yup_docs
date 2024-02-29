@@ -4,11 +4,12 @@ Yup integrates with many platforms and we add more on a regular basis. Users can
 
 Below are a few platforms and their degree of integration.
 
-| Ethereum | NFTs (on Ethereum, Polygon) | Action Tracking |
+| Ethereum | Twitter                     | Action Tracking |
 | -------- | --------------------------- | --------------- |
-| Twitter  | Mirror                      | SuperRare       |
-|          | YouTube                     | Audius          |
-|          | Farcaster                   | Rarible         |
-|          | Twitter                     |                 |
-|          | Lens                        |                 |
+| Email    | Farcaster                   | SuperRare       |
+|          | Bluesky                     | Audius          |
+|          | Lens                        | Rarible         |
+|          | NFTs (on Ethereum, Polygon) |                 |
+|          | Mirror                      |                 |
 |          | Spotify                     |                 |
+|          | YouTube                     |                 |

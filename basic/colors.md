@@ -20,7 +20,7 @@ The rating system uses five colors, corresponding to quintiles:
 
 **...and the least valuable is red.**
 
-![](../.gitbook/assets/orange.png)
+![](<../.gitbook/assets/orange (1).png>)
 
 Content becomes greener when it is rated positively and redder when it is rated negatively, reflecting an increase or decrease in the content's social value.
 

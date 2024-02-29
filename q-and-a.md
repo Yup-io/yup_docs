@@ -8,29 +8,15 @@ Your account can take up to 72 hours to be approved.
 
 **How do I reset my password?**
 
-Unfortunately, you cannot reset your password. However, you can create a new account using another email or Twitter account and we will approve you ASAP!
+Unfortunately, you cannot reset your password. However, you can create a new account using another email or wallet and we will approve you ASAP!
 
 **I've been approved, but I can't login. What should I do?**
 
-If you sign up with your email on [yup.io](http://yup.io/) and receive approval, that only means your email has been approved. It _does not_ mean that your account has been created. To create your account, download the [Yup extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) and use your approved email to sign up. Please contact us if you're still having trouble!
+If you sign up with your email on [yup.io](http://yup.io/) and receive approval, that only means your email has been approved. It _does not_ mean that your account has been created. Please contact us if you're still having trouble!
 
-**Why am I getting an "email not found" message?**
+**Still having issues with sign-up?**&#x20;
 
-If you signed up on [yup.io](http://yup.io/) and have been approved, _you still need to create an account_ with that email to finish sign-up. Try signing up on the extension, instead logging in.
-
-**Can I unlink my Twitter account?**
-
-To unlink your Twitter account:
-
-Open your Twitter web app
-
-Click "Settings" --> "Security & Account Access" --> "Apps & Sessions" --> "Connected Apps" --> [yup.io](http://yup.io) --> "Revoke Access".
-
-However, once a Twitter account is linked to a Yup account, you can not make a second Yup account and link it to that same Twitter account.
-
-#### Still having issues with sign-up?&#x20;
-
-Fill out this type form with your specific problem and our support team will help you out: [https://yupio.typeform.com/to/vfh210N0](https://yupio.typeform.com/to/vfh210N0) &#x20;
+Describe the issue in the #Bugs channel of the Yup Discord with your specific problem and our support team will help you out: [https://discord.com/invite/HnaTAXK](https://discord.com/invite/HnaTAXK)
 
 ### YUP Token:
 

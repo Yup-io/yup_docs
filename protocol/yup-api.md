@@ -1,7 +1,7 @@
 # Yup API
 
 {% hint style="success" %}
-**Base URL:** [**`http://api.yup.io`**](http://api.yup.io/)**``**
+**Base URL:** [**`http://api.yup.io`**](http://api.yup.io/)
 {% endhint %}
 
 ### GET Post&#x20;
