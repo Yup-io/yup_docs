@@ -31,8 +31,18 @@ Your [influence](https://docs.yup.io/#/protocol?id=influence) (IN) is a measure 
 
 **Base**
 
-To maximize flexibility in depositing, withdrawing, and providing liquidity for YUP, we've opened a YUP-ETH liquidity pool on Base.Let’s start with the first two factors.If you're an active LP -- Base's lower fees allows you to add and withdraw liquidity easily due to the chain's lower fees while earning LP rewards_As always, this is not financial advice. Just giving you the lay of the land, kind stranger._Providing Liquidity on Base_Pre-requisite_\
+To maximize flexibility in depositing, withdrawing, and providing liquidity for YUP, we've opened a YUP-ETH liquidity pool on Base.
 
+Let’s start with the first two factors.
+
+If you're an active LP -- Base's lower fees allows you to add and withdraw liquidity easily due to the chain's lower fees while earning LP rewards
+
+_As always, this is not financial advice. Just giving you the lay of the land, kind stranger._\
+
+
+**Providing Liquidity on Base**
+
+_Pre-requisite_
 
 * Have some ETH on Base for providing liquidity.
 
