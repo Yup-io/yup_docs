@@ -15,7 +15,6 @@
 * [Yup Score](protocol/yup-score/README.md)
   * [Score API](protocol/yup-score/score-api.md)
 * [Smart Contracts](protocol/smart-contracts.md)
-* [Liquidity Providers](protocol/liquidity-providers.md)
 
 ## 🧸 Products
 
