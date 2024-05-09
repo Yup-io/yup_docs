@@ -29,33 +29,18 @@ Your [influence](https://docs.yup.io/#/protocol?id=influence) (IN) is a measure 
 
 ### **Liquidity Providing**
 
-**Ethereum vs Polygon**
+**Base**
 
-To maximize flexibility in depositing, withdrawing, and providing liquidity for YUP, we've opened a [YUP-ETH liquidity pool](https://app.uniswap.org/#/add/v2/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9/ETH?chain=mainnet) on Ethereum and a [YUP-ETH liquidity pool](https://quickswap.exchange/#/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0x086373fad3447F7F86252fb59d56107e9E0FaaFa) on Polygon. Which chain you choose mainly comes down to how much funds you want on Polygon, how active a LP you think you’ll be, and how much liquidity is in each pool.
-
-Let’s start with the first two factors.
-
-If you want minimal funds on Polygon and want to take the "sit and chill" approach to providing liquidity, then Ethereum may be better, because you'll only have to hold enough MATIC to stake and withdraw your YUP-ETH LP tokens once.
-
-If you're an active LP -- adding liquidity here, withdrawing liquidity there, and other shenanigans -- then Polygon may be preferable. This allows you to take advantage of [lower fees](https://www.coindesk.com/learn/polygon-and-matic-whats-the-difference/).
-
-Finally, LP rewards are split evenly between the Ethereum and Polygon pools - 50% of LP rewards will be distributed to each pool regardless of the amount of liquidity in them. Therefore you’ll want to consider what share of liquidity your funds will make up in the pool before diving in.
-
-_As always, this is not financial advice. Just giving you the lay of the land, kind stranger._
+To maximize flexibility in depositing, withdrawing, and providing liquidity for YUP, we've opened a YUP-ETH liquidity pool on Base.Let’s start with the first two factors.If you're an active LP -- Base's lower fees allows you to add and withdraw liquidity easily due to the chain's lower fees while earning LP rewards_As always, this is not financial advice. Just giving you the lay of the land, kind stranger._Providing Liquidity on Base_Pre-requisite_\
 
 
+* Have some ETH on Base for providing liquidity.
 
-**Providing Liquidity on Polygon**
+1. Acquire YUP on Base by crossposting via the Yup app or purchasing some on Uniswap
+2. If you have YUP and ETH on Base, go to the YUP-ETH LP pool on Uniswap.
+3. Input an equal value of YUP and ETH in the pool and collect your YUP-ETH Uniswap LP token.
+4. Go to [app.yup.io/staking](http://app.yup.io/staking), select the Uniswap on Base staking pool and enjoy life as a humble YUP farmer.
 
-Providing liquidity on Polygon is more or less the same as on Ethereum but lucky for you there are a few less steps.
+\
 
-_Pre-requisite_
-
-* Have some ETH on Polygon for providing liquidity.
-* Hold ≥ 0.5 MATIC for transactions, preferably ≥ 3 MATIC (Polygon).
-
-1. Acquire YUP on Polygon by curating via the [Yup Extension](https://chrome.google.com/webstore/detail/yup-the-opinion-layer-of/nhmeoaahigiljjdkoagafdccikgojjoi?hl=en) or purchasing some on [Quickswap](https://quickswap.exchange/#/swap?inputCurrency=0x086373fad3447f7f86252fb59d56107e9e0faafa\&outputCurrency=ETH).
-2. If you have YUP and ETH on Polygon, go to the [YUP-ETH LP pool](https://quickswap.exchange/#/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0x086373fad3447F7F86252fb59d56107e9E0FaaFa) on Quickswap.
-3. Input an equal value of YUP and ETH in the pool and collect your YUP-ETH Quickswap LP token.
-4. Go to [app.yup.io/staking](http://app.yup.io/staking), select the Quickswap on Polygon staking pool and enjoy life as a humble YUP farmer.
 
