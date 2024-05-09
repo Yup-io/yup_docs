@@ -31,26 +31,13 @@ Your [influence](https://docs.yup.io/#/protocol?id=influence) (IN) is a measure 
 
 **Base**
 
-To maximize flexibility in depositing, withdrawing, and providing liquidity for YUP, we've opened a YUP-ETH liquidity pool on Base.
+#### **Liquidity Rewards** <a href="#heading-liquidity-rewards" id="heading-liquidity-rewards"></a>
 
-Let’s start with the first two factors.
+Staking rewards will be given out to the YUP-ETH pair on [Base Uniswap V3](https://app.uniswap.org/pool). You don’t need to stake LP tokens, as long as you’re providing liquidity to the right pair. You can claim your rewards [here](https://merkl.angle.money/?times=active,future,\&phrase=yup\&chains=).
 
-If you're an active LP -- Base's lower fees allows you to add and withdraw liquidity easily due to the chain's lower fees while earning LP rewards
+#### How to Bridge <a href="#heading-how-to-bridge" id="heading-how-to-bridge"></a>
 
-_As always, this is not financial advice. Just giving you the lay of the land, kind stranger._\
+Users can use [Squid V2](https://v2.app.squidrouter.com/?chains=8453,137\&tokens=0x01CCF4941298a0b5AC4714c0E1799a2dF8387048,0x086373fad3447f7f86252fb59d56107e9e0faafa) (Axelar) for instant bridging.
 
-
-**Providing Liquidity on Base**
-
-_Pre-requisite_
-
-* Have some ETH on Base for providing liquidity.
-
-1. Acquire YUP on Base by crossposting via the Yup app or purchasing some on Uniswap
-2. If you have YUP and ETH on Base, go to the YUP-ETH LP pool on Uniswap.
-3. Input an equal value of YUP and ETH in the pool and collect your YUP-ETH Uniswap LP token.
-4. Go to [app.yup.io/staking](http://app.yup.io/staking), select the Uniswap on Base staking pool and enjoy life as a humble YUP farmer.
-
-\
 
 

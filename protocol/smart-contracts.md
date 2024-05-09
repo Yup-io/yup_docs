@@ -1,12 +1,18 @@
 # Smart Contracts
 
+### Active Contracts:
+
+| Description | Contract                                                                                                            | Chain | Security |
+| ----------- | ------------------------------------------------------------------------------------------------------------------- | ----- | -------- |
+| YUP Token   | [0x01CCF4941298a0b5AC4714c0E1799a2dF8387048](https://basescan.org/token/0x01CCF4941298a0b5AC4714c0E1799a2dF8387048) | Base  | Multisig |
+
 ## Relevant Contracts and Addresses:
 
 | YUP Token | Contract                                                                                                            | Chain | Security |
 | --------- | ------------------------------------------------------------------------------------------------------------------- | ----- | -------- |
 | YUP Token | [0x01CCF4941298a0b5AC4714c0E1799a2dF8387048](https://basescan.org/token/0x01CCF4941298a0b5AC4714c0E1799a2dF8387048) | Base  | Multisig |
 
-### Deprecated Contracts:
+Deprecated Contracts:
 
 | Description                       | Contract                                                                                                               | Chain    | Security |
 | --------------------------------- | ---------------------------------------------------------------------------------------------------------------------- | -------- | -------- |

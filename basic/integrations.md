@@ -7,7 +7,7 @@ Below are a few platforms and their degree of integration.
 | Ethereum | Twitter                     | Action Tracking |
 | -------- | --------------------------- | --------------- |
 | Email    | Farcaster                   | SuperRare       |
-|          | Bluesky                     | Audius          |
+| Base     | Bluesky                     | Audius          |
 |          | Lens                        | Rarible         |
 |          | NFTs (on Ethereum, Polygon) |                 |
 |          | Mirror                      |                 |

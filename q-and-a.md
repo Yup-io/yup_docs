@@ -22,7 +22,7 @@ Describe the issue in the #Bugs channel of the Yup Discord with your specific pr
 
 **Where can I buy/swap/trade YUP tokens?**
 
-You can buy/swap/trade YUP on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9\&outputCurrency=ETH) using the Ethereum network or on [Quickswap ](https://quickswap.exchange/#/swap?inputCurrency=0x086373fad3447f7f86252fb59d56107e9e0faafa\&outputCurrency=ETH)using the Polygon network.
+You can buy/swap/trade YUP on [Uniswap](https://app.uniswap.org/#/swap?inputCurrency=0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9\&outputCurrency=ETH) using the Base network.
 
 **How do I earn YUP?**
 
@@ -62,7 +62,7 @@ In order to get your YUP onto Ethereum, you must first send your YUP from the Yu
 
 **What is YUP-ETH?**
 
-YUP-ETH represents YUP-ETH liquidity pool (LP) tokens. To maximize flexibility in depositing, withdrawing, and providing liquidity for YUP, we've opened a [YUP-ETH liquidity pool](https://app.uniswap.org/#/add/v2/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9/ETH) on Ethereum and a [YUP-ETH liquidity pool](https://quickswap.exchange/#/add/0x7ceB23fD6bC0adD59E62ac25578270cFf1b9f619/0x086373fad3447F7F86252fb59d56107e9E0FaaFa) on Polygon.
+YUP-ETH represents YUP-ETH liquidity pool (LP) tokens. To maximize flexibility in depositing, withdrawing, and providing liquidity for YUP, we've opened a [YUP-ETH liquidity pool](https://app.uniswap.org/#/add/v2/0x69bbc3f8787d573f1bbdd0a5f40c7ba0aee9bcc9/ETH) on Base.
 
 **How do I stake on YUP?**
 
